@@ -1,0 +1,52 @@
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.11.0
+tqdm>=4.66.0
+
+# Biomedical NLP
+spacy>=3.7.0
+scispacy>=0.5.4
+biopython>=1.83
+
+# Knowledge graph and embeddings
+neo4j>=5.15.0
+py2neo>=2021.2.4
+pykeen>=1.10.0
+torch>=2.1.0
+torch-geometric>=2.4.0
+
+# Ontology handling
+owlready2>=0.46
+rdflib>=7.0.0
+
+# LLM access
+openai>=1.12.0
+anthropic>=0.18.0
+tiktoken>=0.6.0
+
+# Text processing and similarity
+sentence-transformers>=2.5.0
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.23.0
+
+# Web/API
+requests>=2.31.0
+httpx>=0.26.0
+
+# Notebook and visualization
+jupyterlab>=4.0.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+networkx>=3.2.0
+plotly>=5.19.0
+
+# Testing and code quality
+pytest>=8.0.0
+black>=24.0.0
+ruff>=0.2.0
+
+# Utilities
+python-dotenv>=1.0.0
+pyyaml>=6.0.0
+loguru>=0.7.0

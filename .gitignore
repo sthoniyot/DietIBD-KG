@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.env
+.envrc
+
+# Data (don't commit large files)
+data/raw/*
+data/processed/*
+data/ontologies/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/ontologies/.gitkeep
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Notebooks
+.ipynb_checkpoints/
+
+# KG releases
+kg_release/*.tar.gz
+kg_release/*.zip
+
+# Secrets
+.env
+*.key
+api_keys.txt
+
+# Exceptions: keep curated manual mapping tables in version control
+!data/processed/manual_*.tsv
+!data/processed/curated_*.tsv

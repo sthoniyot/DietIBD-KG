@@ -1,0 +1,10 @@
+common_name	chebi_id	chebi_label	notes
+TMAO	CHEBI:15724	trimethylamine N-oxide	Common abbreviation
+EGCG	CHEBI:4806	(-)-epigallocatechin 3-gallate	Common abbreviation; ChEBI uses IUPAC stereo form
+LPS	CHEBI:16412	lipopolysaccharide	Common abbreviation
+EPA	CHEBI:28364	all-cis-5,8,11,14,17-icosapentaenoic acid	Common abbreviation for eicosapentaenoic acid
+DHA	CHEBI:28125	all-cis-docosa-4,7,10,13,16,19-hexaenoic acid	Common abbreviation for docosahexaenoic acid
+eicosapentaenoic acid	CHEBI:28364	all-cis-5,8,11,14,17-icosapentaenoic acid	ChEBI uses 'icosa' prefix and 'all-cis-' notation
+betaine	CHEBI:17750	glycine betaine	Free betaine (most common biological form)
+SCFA	CHEBI:26666	short-chain fatty acid	Class term for general SCFA references
+NSAID	CHEBI:35475	non-steroidal anti-inflammatory drug	Class term
