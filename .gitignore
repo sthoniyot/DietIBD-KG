@@ -40,3 +40,6 @@ api_keys.txt
 # Exceptions: keep curated manual mapping tables in version control
 !data/processed/manual_*.tsv
 !data/processed/curated_*.tsv
+
+# Exception: keep generated triples TSVs in version control (small, curated outputs)
+!data/processed/triples_*.tsv

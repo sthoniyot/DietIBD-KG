@@ -1,0 +1,755 @@
+subject_id	subject_label	subject_type	predicate	object_id	object_label	object_type	source	source_id	publication_id	evidence_type	confidence	sample_type	notes	method
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	20	3	observational	0.8	Faeces		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:33038	Ruminococcus gnavus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	21	3	observational	0.8	Faeces		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:218538	Dialister invisus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	22	3	observational	0.8	Faeces		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:1680	Bifidobacterium adolescentis	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	23	3	observational	0.8	Faeces		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	24	3	observational	0.8	Faeces		qPCR
+NCBITaxon:33038	Ruminococcus gnavus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	25	3	observational	0.8	Faeces		qPCR
+NCBITaxon:1680	Bifidobacterium adolescentis	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	26	3	observational	0.8	Faeces		qPCR
+NCBITaxon:33033	Parvimonas micra	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	27	4	observational	0.85	Subgingival plaque		DNA-DNA hybridization
+NCBITaxon:28132	Prevotella melaninogenica	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	28	4	observational	0.85	Subgingival plaque		DNA-DNA hybridization
+NCBITaxon:1261	Peptostreptococcus anaerobius	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	29	4	observational	0.85	Subgingival plaque		DNA-DNA hybridization
+NCBITaxon:1280	Staphylococcus aureus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	30	4	observational	0.85	Subgingival plaque		DNA-DNA hybridization
+NCBITaxon:1328	Streptococcus anginosus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	31	4	observational	0.85	Subgingival plaque		DNA-DNA hybridization
+NCBITaxon:1309	Streptococcus mutans	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	32	4	observational	0.85	Subgingival plaque		DNA-DNA hybridization
+NCBITaxon:827	Bacteroides ureolyticus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	33	4	observational	0.85	Subgingival plaque		DNA-DNA hybridization
+NCBITaxon:824	Campylobacter gracilis	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	34	4	observational	0.85	Subgingival plaque		DNA-DNA hybridization
+NCBITaxon:28132	Prevotella melaninogenica	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	35	4	observational	0.85	Subgingival plaque		DNA-DNA hybridization
+NCBITaxon:1280	Staphylococcus aureus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	36	4	observational	0.85	Subgingival plaque		DNA-DNA hybridization
+NCBITaxon:1328	Streptococcus anginosus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	37	4	observational	0.85	Subgingival plaque		DNA-DNA hybridization
+NCBITaxon:1338	Streptococcus intermedius	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	38	4	observational	0.85	Subgingival plaque		DNA-DNA hybridization
+NCBITaxon:1309	Streptococcus mutans	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	39	4	observational	0.85	Subgingival plaque		DNA-DNA hybridization
+NCBITaxon:33033	Parvimonas micra	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	40	4	observational	0.85	Subgingival plaque		DNA-DNA hybridization
+NCBITaxon:1261	Peptostreptococcus anaerobius	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	41	4	observational	0.85	Subgingival plaque		DNA-DNA hybridization
+NCBITaxon:1280	Staphylococcus aureus	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	42	4	observational	0.85	Subgingival plaque		DNA-DNA hybridization
+NCBITaxon:1328	Streptococcus anginosus	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	43	4	observational	0.85	Subgingival plaque		DNA-DNA hybridization
+NCBITaxon:28037	Streptococcus mitis	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	44	4	observational	0.85	Subgingival plaque		DNA-DNA hybridization
+NCBITaxon:244127	Anaerotruncus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	173	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1409	Bacillus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	174	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:29523	Bacteroides	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	175	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:698776	Cellulosilyticum	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	176	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:990721	Christensenella	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	177	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:544	Citrobacter	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	178	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:33042	Coprococcus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	179	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:885	Desulfovibrio	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	180	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:42895	Enterobacter	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	181	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:142586	Eubacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	182	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:216851	Faecalibacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	183	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:61170	Holdemania	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	184	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:28050	Lachnospira	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	185	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1591	Lactobacillus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	186	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:283168	Odoribacter	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	187	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1869337	Parabacteroides	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	188	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:59823	Prevotella	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	189	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1017280	Pseudoflavonifractor	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	190	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:841	Roseburia	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	191	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:41978	Ruminococcus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	192	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1266	Sarcina	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	193	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:292632	Subdoligranulum	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	194	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:191303	Turicibacter	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	195	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:29317	Actinomyces	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	196	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:41200	Bifidobacterium	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	197	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:35783	Enterococcus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	198	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:561	Escherichia	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	199	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:871665	Blautia faecis	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	200	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:360807	Roseburia Inulinivorans	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	201	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:33039	Ruminococcus torques	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	202	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:460384	Clostridium lavalense	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	203	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:820	Bacteriodes uniformis	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	204	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	205	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:626937	Christensenella minuta	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	206	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:61171	Holdemania filiformis	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	207	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:290055	Eubacterium fissicatena	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	208	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:292800	Flavonifractor plautii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	209	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:28117	Alistipes putredinis	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	210	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1537	Clostridium lituseburense	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	211	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:166486	Roseburia intestinalis	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	212	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:333367	Clostridium asparagiform	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	213	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:84024	Clostridium disporicum	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	214	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:160404	Clostridium lactatifermentans	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	215	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:106588	Pseudoflavonifractor capillosus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	216	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:39496	Eubacterium ventriosum	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	217	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:39484	Eubacterium desmolans	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	218	19	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:33038	Ruminococcus gnavus	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	222	22	observational	0.8	Tissue biopsie		qPCR
+NCBITaxon:33039	Ruminococcus torques	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	223	22	observational	0.8	Tissue biopsie		qPCR
+NCBITaxon:239935	Akkermansia muciniphila	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	224	22	observational	0.8	Tissue biopsie		qPCR
+NCBITaxon:33038	Ruminococcus gnavus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	225	22	observational	0.8	Tissue biopsie		qPCR
+NCBITaxon:33039	Ruminococcus torques	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	226	22	observational	0.8	Tissue biopsie		qPCR
+NCBITaxon:239935	Akkermansia muciniphila	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	227	22	observational	0.8	Tissue biopsie		qPCR
+NCBITaxon:818	Bacteroides thetaiotaomicron	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	228	23	observational	0.88	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:47882	Pseudomonas straminea	Microbe	increased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	229	23	observational	0.88	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:1402	Bacillus licheniformis	Microbe	increased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	230	23	observational	0.88	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:442	Gluconobacter oxydans	Microbe	increased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	231	23	observational	0.88	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:1535	Clostridium leptum	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	427	52	observational	0.85	Faeces		FISH
+NCBITaxon:1532	Blautia coccoides	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	428	52	observational	0.85	Faeces		FISH
+NCBITaxon:41200	Bifidobacterium	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	430	53	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:102106	Collinsella	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	431	53	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:52228	Hallella	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	432	53	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:59823	Prevotella	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	433	53	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:841	Roseburia	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	434	53	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:41978	Ruminococcus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	435	53	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:109326	Anaerovorax	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	436	53	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:2740	Peptococcus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	437	53	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:904	Acidaminococcus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	438	53	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:135858	Catenibacterium	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	439	53	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1591	Lactobacillus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	440	53	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1357	Lactococcus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	441	53	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1306	Streptococcus	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	442	53	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:647	Aeromonas	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	443	53	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:544	Citrobacter	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	444	53	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:625	Shigella	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	445	53	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:2152	Asteroleplasma	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	446	53	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:39491	Eubacterium rectale	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	447	54	observational	0.85	Faeces		Phylogenetic microarray
+NCBITaxon:1535	Clostridium leptum	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	448	54	observational	0.85	Faeces		Phylogenetic microarray
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	449	54	observational	0.85	Faeces		Phylogenetic microarray
+NCBITaxon:1264	Ruminococcus albus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	450	54	observational	0.85	Faeces		Phylogenetic microarray
+NCBITaxon:40519	Ruminococcus callidus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	451	54	observational	0.85	Faeces		Phylogenetic microarray
+NCBITaxon:40518	Ruminococcus bromii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	452	54	observational	0.85	Faeces		Phylogenetic microarray
+NCBITaxon:817	Bacteroides fragilis	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	453	54	observational	0.85	Faeces		Phylogenetic microarray
+NCBITaxon:821	Bacteroides vulgatus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	454	54	observational	0.85	Faeces		Phylogenetic microarray
+NCBITaxon:35783	Enterococcus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	455	54	observational	0.85	Faeces		Phylogenetic microarray
+NCBITaxon:1613	Lactobacillus fermentum	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	456	54	observational	0.85	Faeces		Phylogenetic microarray
+NCBITaxon:1496	Clostridioides difficile	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	457	54	observational	0.85	Faeces		Phylogenetic microarray
+NCBITaxon:623	Shigella flexneri	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	458	54	observational	0.85	Faeces		Phylogenetic microarray
+NCBITaxon:1637	Listeria	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	459	54	observational	0.85	Faeces		Phylogenetic microarray
+NCBITaxon:1264	Ruminococcus albus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	460	54	observational	0.8	Faeces		qPCR
+NCBITaxon:817	Bacteroides fragilis	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	461	54	observational	0.8	Faeces		qPCR
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	462	54	observational	0.8	Faeces		qPCR
+NCBITaxon:1496	Clostridioides difficile	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	463	54	observational	0.8	Faeces		qPCR
+NCBITaxon:1352	Enterococcus faecium	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	464	54	observational	0.8	Faeces		qPCR
+NCBITaxon:1532	Blautia coccoides	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	473	55	observational	0.8	Faeces		qPCR
+NCBITaxon:1535	Clostridium leptum	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	474	55	observational	0.8	Faeces		qPCR
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	475	55	observational	0.8	Faeces		qPCR
+NCBITaxon:41200	Bifidobacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	476	55	observational	0.8	Faeces		qPCR
+NCBITaxon:1532	Blautia coccoides	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	477	55	observational	0.8	Faeces		qPCR
+NCBITaxon:1535	Clostridium leptum	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	478	55	observational	0.8	Faeces		qPCR
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	479	55	observational	0.8	Faeces		qPCR
+NCBITaxon:41200	Bifidobacterium	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	480	55	observational	0.8	Faeces		qPCR
+NCBITaxon:856	Fusobacterium varium	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	481	56	observational	0.85	Tissue biopsie		Immunohistochemistry
+NCBITaxon:885	Desulfovibrio	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	482	57	observational	0.8	Tissue biopsie		qPCR
+NCBITaxon:885	Desulfovibrio	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	483	57	observational	0.8	Tissue biopsie		qPCR
+NCBITaxon:44737	Capnocytophaga	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	484	58	observational	0.85	Subgingival plaque		16S rRNA sequencing
+NCBITaxon:32207	Rothia	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	485	58	observational	0.85	Subgingival plaque		16S rRNA sequencing
+NCBITaxon:142156	uncultured bacterium TM7LH15	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	486	58	observational	0.85	Subgingival plaque		16S rRNA sequencing
+NCBITaxon:32066	Fusobacteria	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1341	173	observational	0.88	Tongue scrape sample		Human Oral Microbe Identification Microarray (HOMIM)
+NCBITaxon:1239	Firmicutes	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1342	173	observational	0.88	Tongue scrape sample		Human Oral Microbe Identification Microarray (HOMIM)
+NCBITaxon:32066	Fusobacteria	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	1343	173	observational	0.88	Tongue scrape sample		Human Oral Microbe Identification Microarray (HOMIM)
+NCBITaxon:203691	Spirochaetes	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	1344	173	observational	0.88	Tongue scrape sample		Human Oral Microbe Identification Microarray (HOMIM)
+NCBITaxon:508458	Synergistetes	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	1345	173	observational	0.88	Tongue scrape sample		Human Oral Microbe Identification Microarray (HOMIM)
+NCBITaxon:976	Bacteroidetes	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	1346	173	observational	0.88	Tongue scrape sample		Human Oral Microbe Identification Microarray (HOMIM)
+NCBITaxon:335058	Pelomonas	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1672	216	observational	0.85	Inflamed mucosa		16S rRNA sequencing
+NCBITaxon:237	Flavobacterium	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1673	216	observational	0.85	Inflamed mucosa		16S rRNA sequencing
+NCBITaxon:29523	Bacteroides	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1674	216	observational	0.85	Inflamed mucosa		16S rRNA sequencing
+NCBITaxon:29317	Actinomyces	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1675	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1747	Propionibacterium acnes	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1676	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:207244	Anaerostipes	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1678	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:33042	Coprococcus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1679	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:140625	Lachnobacterium	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1680	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:39778	Veillonella dispar	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1681	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:397864	Barnesiellaceae	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1682	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:283168	Odoribacter	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1683	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:47678	Bacteroides caccae	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1684	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1853231	Odoribacteraceae	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1685	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:990721	Christensenella	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1686	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1506	Clostridium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1687	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:264995	Anaerofustis	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1688	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:28050	Lachnospira	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1689	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:841	Roseburia	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1690	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:244127	Anaerotruncus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1691	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:216851	Faecalibacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1692	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:41978	Ruminococcus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1693	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:33043	Coprococcus eutactus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1694	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1695	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:40518	Ruminococcus bromii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1696	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:574697	Butyricimonas	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1697	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:28111	Bacteroides eggerthii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1698	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:626932	Alistipes indistinctus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1699	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1747	Propionibacterium acnes	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1700	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1496	Clostridioides difficile	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1701	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:39778	Veillonella dispar	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1702	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:32066	Fusobacteria	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1703	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:229037	Proteus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1704	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:990719	Christensenellaceae	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1705	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:28050	Lachnospira	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1706	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:244127	Anaerotruncus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1707	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:41978	Ruminococcus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1708	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:33043	Coprococcus eutactus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	1709	215	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8778	Crohn's disease (inactive)	IBD_Outcome	Disbiome	2043	250	observational	0.85	Rectal biopsy	Inactive form	16S rRNA pyrosequencing
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8778	Crohn's disease (inactive)	IBD_Outcome	Disbiome	2079	256	observational	0.8	Faeces	Inactive form	qPCR
+NCBITaxon:41978	Ruminococcus	Microbe	decreased_in	DOID:8778	Crohn's disease (inactive)	IBD_Outcome	Disbiome	2081	256	observational	0.8	Faeces	Inactive form	qPCR
+NCBITaxon:841	Roseburia	Microbe	decreased_in	DOID:8778	Crohn's disease (inactive)	IBD_Outcome	Disbiome	2083	256	observational	0.8	Faeces	Inactive form	qPCR
+NCBITaxon:1680	Bifidobacterium adolescentis	Microbe	decreased_in	DOID:8778	Crohn's disease (inactive)	IBD_Outcome	Disbiome	2085	256	observational	0.8	Faeces	Inactive form	qPCR
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8778	Crohn's disease (inactive)	IBD_Outcome	Disbiome	2087	256	observational	0.8	Faeces	Inactive form	qPCR
+NCBITaxon:41978	Ruminococcus	Microbe	decreased_in	DOID:8778	Crohn's disease (inactive)	IBD_Outcome	Disbiome	2088	256	observational	0.8	Faeces	Inactive form	qPCR
+NCBITaxon:1306	Streptococcus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2110	259	observational	0.85	Saliva		16S rRNA pyrosequencing
+NCBITaxon:59823	Prevotella	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2111	259	observational	0.85	Saliva		16S rRNA pyrosequencing
+NCBITaxon:59823	Prevotella	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	2112	259	observational	0.85	Saliva		16S rRNA pyrosequencing
+NCBITaxon:482	Neisseria	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2114	259	observational	0.85	Saliva		16S rRNA pyrosequencing
+NCBITaxon:29465	Veillonella	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2115	259	observational	0.85	Saliva		16S rRNA pyrosequencing
+NCBITaxon:29465	Veillonella	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	2117	259	observational	0.85	Saliva		16S rRNA pyrosequencing
+NCBITaxon:724	Haemophilus	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	2119	259	observational	0.85	Saliva		16S rRNA pyrosequencing
+NCBITaxon:724	Haemophilus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2121	259	observational	0.85	Saliva		16S rRNA pyrosequencing
+NCBITaxon:1378	Gemella	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2122	259	observational	0.85	Saliva		16S rRNA pyrosequencing
+NCBITaxon:841	Roseburia	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2219	289	observational	0.85	terminal ileal mucosal biopsy specimens		16S rRNA sequencing
+NCBITaxon:817	Bacteroides fragilis	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2245	293	observational	0.85	Faeces		Human Intestinal Tract Chip (HITChip)
+NCBITaxon:40545	Sutterella wadsworthensis	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	2246	293	observational	0.85	Faeces		Human Intestinal Tract Chip (HITChip)
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2247	293	observational	0.85	Faeces		Human Intestinal Tract Chip (HITChip)
+NCBITaxon:1547	Clostridium ramosum	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2248	293	observational	0.85	Faeces		Human Intestinal Tract Chip (HITChip)
+NCBITaxon:39483	Eubacterium cylindroides	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2249	293	observational	0.85	Faeces		Human Intestinal Tract Chip (HITChip)
+NCBITaxon:1496	Clostridioides difficile	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	2250	293	observational	0.85	Faeces		Human Intestinal Tract Chip (HITChip)
+NCBITaxon:562	Escherichia coli	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2339	308	observational	0.85	Tissue biopsie		PCR-PFGE (Pulsed field gel electrophoresis)
+NCBITaxon:102106	Collinsella	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2369	313	observational	0.85	Faeces		16S rDNA pyrosequencing
+NCBITaxon:580024	Enterorhabdus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2370	313	observational	0.85	Faeces		16S rDNA pyrosequencing
+NCBITaxon:644652	Gordonibacter	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2371	313	observational	0.85	Faeces		16S rDNA pyrosequencing
+NCBITaxon:239935	Akkermansia muciniphila	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2372	313	observational	0.85	Faeces		16S rDNA pyrosequencing
+NCBITaxon:501571	Butyricicoccus pullicaecorum	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2373	313	observational	0.85	Faeces		16S rDNA pyrosequencing
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2374	313	observational	0.85	Faeces		16S rDNA pyrosequencing
+NCBITaxon:41200	Bifidobacterium	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2398	321	observational	0.85	Faeces		FISH
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2419	321	observational	0.85	Faeces		FISH
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	2434	324	observational	0.8	Faeces		qPCR
+NCBITaxon:186803	Lachnospiraceae	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	2546	334	observational	0.8	Faeces		qPCR
+NCBITaxon:84107	Coriobacteriaceae	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	2547	334	observational	0.8	Faeces		qPCR
+NCBITaxon:41200	Bifidobacterium	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	2548	334	observational	0.8	Faeces		qPCR
+NCBITaxon:41200	Bifidobacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2549	334	observational	0.8	Faeces		qPCR
+NCBITaxon:186803	Lachnospiraceae	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2550	334	observational	0.8	Faeces		qPCR
+NCBITaxon:84107	Coriobacteriaceae	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2551	334	observational	0.8	Faeces		qPCR
+NCBITaxon:1591	Lactobacillus	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	2552	334	observational	0.85	Faeces		Cell culture
+NCBITaxon:41200	Bifidobacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2553	334	observational	0.85	Faeces		Cell culture
+NCBITaxon:41200	Bifidobacterium	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	2554	334	observational	0.85	Faeces		Cell culture
+NCBITaxon:562	Escherichia coli	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2657	346	observational	0.8	Faeces		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:623	Shigella flexneri	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2658	346	observational	0.8	Faeces		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:1849603	Enterobacteriaceae bacterium	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2659	346	observational	0.8	Faeces		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:28901	Salmonella enterica	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2660	346	observational	0.8	Faeces		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:208479	Clostridium boltae	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2661	346	observational	0.8	Faeces		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:1535	Clostridium leptum	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2662	346	observational	0.8	Faeces		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2663	346	observational	0.8	Faeces		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:1506	Clostridium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2664	346	observational	0.8	Faeces		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:1265	Ruminococcus flavefaciens	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2665	346	observational	0.8	Faeces		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:1352	Enterococcus faecium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2666	346	observational	0.8	Faeces		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:166486	Roseburia intestinalis	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2667	346	observational	0.8	Faeces		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:1398	Bacillus coagulans	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2668	346	observational	0.8	Faeces		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:29523	Bacteroides	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2669	346	observational	0.8	Faeces		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:384638	Bacteroides pectinophilus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2670	346	observational	0.8	Faeces		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:820	Bacteriodes uniformis	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2671	346	observational	0.8	Faeces		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:77095	Prevotella bryantii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2672	346	observational	0.8	Faeces		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:562	Escherichia coli	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2673	346	observational	0.8	Ulcerated tissue		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:1496	Clostridioides difficile	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2674	346	observational	0.8	Ulcerated tissue		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:1506	Clostridium	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2675	346	observational	0.8	Ulcerated tissue		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:1535	Clostridium leptum	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2676	346	observational	0.8	Ulcerated tissue		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2677	346	observational	0.8	Ulcerated tissue		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:181675	Lactobacillus coleohominis	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2678	346	observational	0.8	Ulcerated tissue		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:29523	Bacteroides	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2679	346	observational	0.8	Ulcerated tissue		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:315405	Streptococcus gallolyticus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2680	346	observational	0.8	Ulcerated tissue		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2754	356	observational	0.83	Faeces		qPCR
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	2799	362	observational	0.8	Faeces		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:301301	Roseburia hominis	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	2800	362	observational	0.8	Faeces		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:216816	Bifidobacterium longum	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	2801	362	observational	0.8	Faeces		Denaturating gradient gel electrophoresis (DGGE)
+NCBITaxon:41294	Bradyrhizobiaceae	Microbe	increased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	2821	366	observational	0.85	Tissue biopsie		Metagenomic sequencing
+NCBITaxon:543	Enterobacteriaceae	Microbe	increased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	2822	366	observational	0.85	Tissue biopsie		Metagenomic sequencing
+NCBITaxon:80864	Comamonadaceae	Microbe	increased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	2823	366	observational	0.85	Tissue biopsie		Metagenomic sequencing
+NCBITaxon:468	Moraxellaceae	Microbe	increased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	2824	366	observational	0.85	Tissue biopsie		Metagenomic sequencing
+NCBITaxon:1535	Clostridium leptum	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2826	367	observational	0.8	Tissue biopsie		qPCR
+NCBITaxon:29523	Bacteroides	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	2827	367	observational	0.8	Tissue biopsie		qPCR
+NCBITaxon:1591	Lactobacillus	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	2828	367	observational	0.8	Tissue biopsie		qPCR
+NCBITaxon:562	Escherichia coli	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	2829	367	observational	0.8	Tissue biopsie		qPCR
+NCBITaxon:820	Bacteriodes uniformis	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2830	368	observational	0.85	Faeces		Terminal Restriction Fragment Lengt Polymorphism (TRFLP)
+NCBITaxon:28116	Bacteroides ovatus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2831	368	observational	0.85	Faeces		Terminal Restriction Fragment Lengt Polymorphism (TRFLP)
+NCBITaxon:821	Bacteroides vulgatus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2832	368	observational	0.85	Faeces		Terminal Restriction Fragment Lengt Polymorphism (TRFLP)
+NCBITaxon:817	Bacteroides fragilis	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2956	380	observational	0.85	Tissue biopsie		FISH
+NCBITaxon:59823	Prevotella	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2957	380	observational	0.85	Tissue biopsie		FISH
+NCBITaxon:59823	Prevotella	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	2961	380	observational	0.85	Tissue biopsie		FISH
+NCBITaxon:817	Bacteroides fragilis	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	2962	380	observational	0.85	Tissue biopsie		FISH
+NCBITaxon:39491	Eubacterium rectale	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	2963	380	observational	0.85	Tissue biopsie		FISH
+NCBITaxon:39491	Eubacterium rectale	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2965	380	observational	0.85	Tissue biopsie		FISH
+NCBITaxon:1535	Clostridium leptum	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2966	381	observational	0.8	Faeces		qPCR
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	2967	381	observational	0.8	Faeces		qPCR
+NCBITaxon:1535	Clostridium leptum	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	2968	381	observational	0.8	Faeces		qPCR
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	2969	381	observational	0.8	Faeces		qPCR
+NCBITaxon:562	Escherichia coli	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3059	388	observational	0.85	Granuloma		Laser Capture Microdissection - PCR
+NCBITaxon:29523	Bacteroides	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3061	389	observational	0.85	Faeces		Terminal Restriction Fragment Lengt Polymorphism (TRFLP)
+NCBITaxon:186826	Lactobacillales	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3062	389	observational	0.85	Faeces		Terminal Restriction Fragment Lengt Polymorphism (TRFLP)
+NCBITaxon:29523	Bacteroides	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3064	389	observational	0.85	Faeces		Terminal Restriction Fragment Lengt Polymorphism (TRFLP)
+NCBITaxon:186826	Lactobacillales	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3066	389	observational	0.85	Faeces		Terminal Restriction Fragment Lengt Polymorphism (TRFLP)
+NCBITaxon:216851	Faecalibacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3067	389	observational	0.85	Faeces		Terminal Restriction Fragment Lengt Polymorphism (TRFLP)
+NCBITaxon:1535	Clostridium leptum	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3069	390	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:817	Bacteroides fragilis	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3070	390	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1150298	Fusicatenibacter saccharivorans	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3071	390	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:572511	Blautia	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3072	390	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:39486	Dorea formicigenerans	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3073	390	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1544	Clostridium oroticum	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3074	390	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:33038	Ruminococcus gnavus	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3075	390	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:154046	Clostridium hathewayi	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3076	390	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:2702	Gardnerella vaginalis	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3188	404	observational	0.85	Urine		FISH
+NCBITaxon:2702	Gardnerella vaginalis	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3189	404	observational	0.85	Urine		FISH
+NCBITaxon:815	Bacteroidaceae	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3397	429	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:1647988	Akkermansiaceae	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3398	429	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:31979	Clostridiaceae	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3399	429	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:186804	Peptostreptococcaceae	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3400	429	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:543	Enterobacteriaceae	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3401	429	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:541000	Ruminococcaceae	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3402	429	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:31953	Bifidobacteriaceae	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3403	429	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:2049	Actinomycetaceae	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3404	429	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:625	Shigella	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3405	430	observational	0.88	Faeces		16S rRNA sequencing
+NCBITaxon:216851	Faecalibacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3406	430	observational	0.88	Faeces		16S rRNA sequencing
+NCBITaxon:216851	Faecalibacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3408	430	observational	0.88	Faeces		16S rRNA sequencing
+NCBITaxon:39491	Eubacterium rectale	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3409	431	observational	0.85	Faeces		Metagenomic sequencing
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3410	431	observational	0.85	Faeces		Metagenomic sequencing
+NCBITaxon:35833	Bilophila wadsworthia	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3411	431	observational	0.85	Faeces		Metagenomic sequencing
+NCBITaxon:1547	Clostridium ramosum	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3412	431	observational	0.85	Faeces		Metagenomic sequencing
+NCBITaxon:562	Escherichia coli	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3413	431	observational	0.85	Faeces		Metagenomic sequencing
+NCBITaxon:33038	Ruminococcus gnavus	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3414	431	observational	0.85	Faeces		Metagenomic sequencing
+NCBITaxon:851	Fusobacterium nucleatum	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3415	431	observational	0.85	Faeces		Metagenomic sequencing
+NCBITaxon:1306	Streptococcus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3464	436	observational	0.85	Faeces		16S rRNA pyrosequencing
+NCBITaxon:35783	Enterococcus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3465	436	observational	0.85	Faeces		16S rRNA pyrosequencing
+NCBITaxon:33042	Coprococcus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3466	436	observational	0.85	Faeces		16S rRNA pyrosequencing
+NCBITaxon:841	Roseburia	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3467	436	observational	0.85	Faeces		16S rRNA pyrosequencing
+NCBITaxon:216851	Faecalibacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3468	436	observational	0.85	Faeces		16S rRNA pyrosequencing
+NCBITaxon:41978	Ruminococcus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3469	436	observational	0.85	Faeces		16S rRNA pyrosequencing
+NCBITaxon:33042	Coprococcus	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3470	436	observational	0.85	Faeces		16S rRNA pyrosequencing
+NCBITaxon:625	Shigella	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3471	436	observational	0.85	Faeces		16S rRNA pyrosequencing
+NCBITaxon:29523	Bacteroides	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3472	436	observational	0.85	Faeces		16S rRNA pyrosequencing
+NCBITaxon:35783	Enterococcus	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3473	436	observational	0.85	Faeces		16S rRNA pyrosequencing
+NCBITaxon:572511	Blautia	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3474	436	observational	0.85	Faeces		16S rRNA pyrosequencing
+NCBITaxon:2173	Methanobrevibacter smithii	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	3520	444	observational	0.8	Faeces		qPCR
+NCBITaxon:561	Escherichia	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3562	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:33038	Ruminococcus gnavus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3563	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:1506	Clostridium	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3564	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:180162	Cetobacterium	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3565	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:713	Actinobacillus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3566	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:35783	Enterococcus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3567	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:1164882	Lachnoanaerobaculum	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3568	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:40323	Stenotrophomonas	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3569	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:469	Acinetobacter	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3570	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:216851	Faecalibacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3571	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:33042	Coprococcus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3572	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:59823	Prevotella	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3573	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:841	Roseburia	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3574	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:204475	Gemmiger	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3575	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:286	Pseudomonas	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3576	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:239759	Alistipes	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3577	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:40518	Ruminococcus bromii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3578	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:102106	Collinsella	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3579	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:283168	Odoribacter	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3580	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:218	Helicobacter	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3581	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:29521	Brachyspira	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3582	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:119852	Oscillospira	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3583	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:33024	Phascolarctobacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3584	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:86331	Mogibacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3585	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:574697	Butyricimonas	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3586	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:508459	Cloacibacillus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3587	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:990719	Christensenellaceae	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3588	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:2753	Synergistes	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3589	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:577309	Paraprevotella	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3590	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:35832	Bilophila	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3591	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:140625	Lachnobacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3592	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:207244	Anaerostipes	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3593	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:885	Desulfovibrio	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3594	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:2172	Methanobrevibacter	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3595	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:128827	Erysipelotrichaceae	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3596	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:172900	Vivictivallis	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3597	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:846	Oxalobacter	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3598	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:35783	Enterococcus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3599	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:1185408	Defluviitalea	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3600	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:572511	Blautia	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3601	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:29465	Veillonella	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3602	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:41200	Bifidobacterium	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3603	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:544	Citrobacter	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3604	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:1591	Lactobacillus	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3605	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:33038	Ruminococcus gnavus	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3606	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:265	Paracoccus	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3607	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:59823	Prevotella	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3608	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:33042	Coprococcus	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3609	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:286	Pseudomonas	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3610	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:204475	Gemmiger	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3611	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:239759	Alistipes	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3612	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:283168	Odoribacter	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3613	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:218	Helicobacter	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3614	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:29521	Brachyspira	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3615	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:40518	Ruminococcus bromii	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3616	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:33024	Phascolarctobacterium	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3617	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:119852	Oscillospira	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3618	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:86331	Mogibacterium	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3619	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:574697	Butyricimonas	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3620	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:508459	Cloacibacillus	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3621	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:2753	Synergistes	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3622	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:35832	Bilophila	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3623	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:885	Desulfovibrio	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3624	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:140625	Lachnobacterium	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3625	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:171550	Rikenellaceae	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3626	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:2152	Asteroleplasma	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3627	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:2740	Peptococcus	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3628	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:2172	Methanobrevibacter	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3629	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:990721	Christensenella	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3630	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:94008	Thermicanus	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3631	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:172900	Vivictivallis	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3632	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:846	Oxalobacter	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3633	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:83618	Pseudoxanthomonas	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3634	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:35783	Enterococcus	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3635	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:1185408	Defluviitalea	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3636	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:216851	Faecalibacterium	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3637	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:572511	Blautia	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3638	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:41200	Bifidobacterium	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3639	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:841	Roseburia	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3640	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:544	Citrobacter	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3641	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:204475	Gemmiger	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3642	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:28050	Lachnospira	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3643	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:580596	Butyricicoccus	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3644	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:128827	Erysipelotrichaceae	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3645	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:84111	Eggerthella	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3646	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:100883	Coprobacillus	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3647	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:207244	Anaerostipes	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3648	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:41978	Ruminococcus	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3649	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:265	Paracoccus	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3650	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:561	Escherichia	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3651	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:33038	Ruminococcus gnavus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3652	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:1506	Clostridium	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3653	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:180162	Cetobacterium	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3654	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:1262	Peptostreptococcus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3655	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:581	Morganella	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3656	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:538	Eikenella	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3657	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:469	Acinetobacter	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3658	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:4769	Saprolegnia	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3659	450	observational	0.85	Brush sample		16S rRNA sequencing
+NCBITaxon:1496	Clostridioides difficile	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3837	463	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:817	Bacteroides fragilis	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3838	463	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:39948	Dialister	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3839	463	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:841	Roseburia	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	3840	463	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:823	Parabacteroides distasonis	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3841	463	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3842	463	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:817	Bacteroides fragilis	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	3843	463	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:501783	Cloacibacterium	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	4065	488	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:1737406	Tissierellaceae	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	4066	488	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:482	Neisseria	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	4067	488	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:59823	Prevotella	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	4068	488	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:142586	Eubacterium	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	4069	488	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:482	Neisseria	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	4070	488	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:32067	Leptotrichia	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	4071	488	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:35832	Bilophila	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	4072	488	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:885	Desulfovibrio	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	4073	488	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:574697	Butyricimonas	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	4074	488	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:1306	Streptococcus	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	4400	518	observational	0.85	Saliva		16S rRNA sequencing
+NCBITaxon:33024	Phascolarctobacterium	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	4497	524	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:841	Roseburia	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	4498	524	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	4499	524	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:116085	Coprococcus catus	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	4500	524	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:33038	Ruminococcus gnavus	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	4501	524	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:239935	Akkermansia muciniphila	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	4502	524	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:501571	Butyricicoccus pullicaecorum	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	4503	524	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:36835	Clostridium colinum	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	4504	524	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:33042	Coprococcus	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	4532	528	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:990719	Christensenellaceae	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	4533	528	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:885	Desulfovibrio	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	4534	528	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:56112	Dehalobacter	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	4535	528	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:86331	Mogibacterium	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	4536	528	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1735	Eubacterium biforme	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	4537	528	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:40518	Ruminococcus bromii	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	4538	528	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:207244	Anaerostipes	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	4539	528	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:171550	Rikenellaceae	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	4540	528	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:140625	Lachnobacterium	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	4541	528	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1869337	Parabacteroides	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	4542	528	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:572511	Blautia	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	4543	528	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:39486	Dorea formicigenerans	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	4544	528	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:84107	Coriobacteriaceae	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	4545	528	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:574697	Butyricimonas	Microbe	increased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	4546	528	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1328	Streptococcus anginosus	Microbe	increased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	4547	528	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1378	Gemella	Microbe	increased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	4548	528	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:4932	Saccharomyces cerevisiae	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	4549	528	observational	0.85	Faeces		ITS2 sequencing
+NCBITaxon:5476	Candida albicans	Microbe	increased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	4550	528	observational	0.85	Faeces		ITS2 sequencing
+NCBITaxon:5476	Candida albicans	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4556	531	observational	0.85	Tissue biopsie		18S rDNA sequencing
+NCBITaxon:5482	Candida tropicalis	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4557	531	observational	0.85	Tissue biopsie		18S rDNA sequencing
+NCBITaxon:117187	Gibberella moniliformis	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4558	531	observational	0.85	Tissue biopsie		18S rDNA sequencing
+NCBITaxon:29001	Alternaria brassicicola	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4559	531	observational	0.85	Tissue biopsie		18S rDNA sequencing
+NCBITaxon:5207	Cryptococcus neoformans	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4560	531	observational	0.85	Tissue biopsie		18S rDNA sequencing
+NCBITaxon:4932	Saccharomyces cerevisiae	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4561	531	observational	0.85	Tissue biopsie		18S rDNA sequencing
+NCBITaxon:27288	Saccharomyces castellii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4562	531	observational	0.85	Tissue biopsie		18S rDNA sequencing
+NCBITaxon:4932	Saccharomyces cerevisiae	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4563	531	observational	0.85	Faeces		18S rDNA sequencing
+NCBITaxon:5057	Aspergillus clavatus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4564	531	observational	0.85	Faeces		18S rDNA sequencing
+NCBITaxon:5207	Cryptococcus neoformans	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4565	531	observational	0.85	Faeces		18S rDNA sequencing
+NCBITaxon:5476	Candida albicans	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4566	531	observational	0.85	Faeces		18S rDNA sequencing
+NCBITaxon:543	Enterobacteriaceae	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4567	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:35783	Enterococcus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4568	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:76892	Caulobacteriaceae	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4569	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:724	Haemophilus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4570	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:29330	Alicyclobacillus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4571	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:13687	Sphingomonas	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4572	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:286	Pseudomonas	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4573	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:32008	Burkholderia	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4574	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:31977	Veillonellaceae	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4575	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:86331	Mogibacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4576	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:140625	Lachnobacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4577	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:437755	Moryella	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4578	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:41978	Ruminococcus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4579	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:712	Pasteurellaceae	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4580	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:84107	Coriobacteriaceae	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4581	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:574697	Butyricimonas	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4582	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:33024	Phascolarctobacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4583	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:131079	Limnobacter	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4584	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:577309	Paraprevotella	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4585	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:1763	Mycobacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4586	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:51514	Dehalobacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4587	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:189330	Dorea	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4588	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:171550	Rikenellaceae	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4589	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:841	Roseburia	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4590	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:119852	Oscillospira	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4591	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:33042	Coprococcus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4592	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:397864	Barnesiellaceae	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4593	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:570	Klebsiella	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4594	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:29523	Bacteroides	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4595	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:1869337	Parabacteroides	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4596	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:572511	Blautia	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4597	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:216851	Faecalibacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4598	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:186803	Lachnospiraceae	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4599	532	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:5478	Candida glabrata	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4600	532	observational	0.85	Tissue biopsie		ITS2 sequencing
+NCBITaxon:165808	Cystofilobasidiaceae	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4601	532	observational	0.85	Tissue biopsie		ITS2 sequencing
+NCBITaxon:76773	Malassezia globosa	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4602	532	observational	0.85	Tissue biopsie		ITS2 sequencing
+NCBITaxon:165440	Dioszegia	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4603	532	observational	0.85	Tissue biopsie		ITS2 sequencing
+NCBITaxon:5021	Leptosphaeria	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4605	532	observational	0.85	Tissue biopsie		ITS2 sequencing
+NCBITaxon:92860	Pleosporales	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4606	532	observational	0.85	Tissue biopsie		ITS2 sequencing
+NCBITaxon:5552	Trichosporon	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4607	532	observational	0.85	Tissue biopsie		ITS2 sequencing
+NCBITaxon:86085	Gymnopilus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4608	533	observational	0.85	Tissue biopsie		ITS2 sequencing
+NCBITaxon:443882	Psathyrella artemisiae	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4609	533	observational	0.85	Tissue biopsie		ITS2 sequencing
+NCBITaxon:34450	Cortinariaceae	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4610	533	observational	0.85	Faeces		ITS2 sequencing
+NCBITaxon:86085	Gymnopilus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4611	533	observational	0.85	Faeces		ITS2 sequencing
+NCBITaxon:139379	Hymenochaete	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4612	533	observational	0.85	Faeces		ITS2 sequencing
+NCBITaxon:38447	Monilinia	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	4613	533	observational	0.85	Faeces		ITS2 sequencing
+NCBITaxon:10404	Hepadnaviridae	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	5115	575	observational	0.85	Tissue biopsie		RNA-seq
+NCBITaxon:10482	Polydnaviridae	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	5116	575	observational	0.85	Tissue biopsie		RNA-seq
+NCBITaxon:249184	Tymoviridae	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	5117	575	observational	0.85	Tissue biopsie		RNA-seq
+NCBITaxon:291484	Hepeviridae	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5118	575	observational	0.85	Tissue biopsie		RNA-seq
+NCBITaxon:675071	Virgaviridae	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5119	575	observational	0.85	Tissue biopsie		RNA-seq
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5445	615	observational	0.8	Tissue biopsie		qPCR
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5618	633	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:1239	Firmicutes	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5619	633	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:1224	Proteobacteria	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5620	633	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:239759	Alistipes	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	5875	666	observational	0.88	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:397864	Barnesiella	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	5876	666	observational	0.88	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:41978	Ruminococcus	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	5877	666	observational	0.88	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:216851	Faecalibacterium	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	5878	666	observational	0.88	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:1869337	Parabacteroides	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	5879	666	observational	0.88	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:13687	Sphingomonas	Microbe	increased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	5880	666	observational	0.88	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:12916	Acidovorax	Microbe	increased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	5881	666	observational	0.88	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:165697	Sphingopyxis	Microbe	increased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	5882	666	observational	0.88	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:216851	Faecalibacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5891	669	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:572511	Blautia	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5892	669	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:28050	Lachnospira	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5893	669	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:906	Megasphaera	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5894	669	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:29580	Janthinobacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5895	669	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:341027	Sphingobacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5896	669	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:283168	Odoribacter	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5897	669	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:33024	Phascolarctobacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5898	669	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:1060	Rhodobacter	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5899	669	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:561	Escherichia	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5900	669	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:570	Klebsiella	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5901	669	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:29387	Staphylococcus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5902	669	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:35783	Enterococcus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5903	669	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:191303	Turicibacter	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5904	669	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:162289	Peptoniphilus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5905	669	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:244127	Anaerotruncus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5906	669	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:150022	Finegoldia	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5907	669	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:35832	Bilophila	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5908	669	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:976	Bacteroidetes	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	5909	669	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:1262	Peptostreptococcus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6300	714	observational	0.85	Faeces		bTEFAP
+NCBITaxon:469	Acinetobacter	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6301	714	observational	0.85	Faeces		bTEFAP
+NCBITaxon:626929	Bacteroides clarus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6302	714	observational	0.85	Faeces		bTEFAP
+NCBITaxon:228654	Psychrobacter pulmonis	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6303	714	observational	0.85	Faeces		bTEFAP
+NCBITaxon:346096	Paludibacter	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6304	714	observational	0.85	Faeces		bTEFAP
+NCBITaxon:1591	Lactobacillus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6305	714	observational	0.85	Faeces		bTEFAP
+NCBITaxon:906	Megasphaera	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6306	714	observational	0.85	Faeces		bTEFAP
+NCBITaxon:360807	Roseburia Inulinivorans	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6307	714	observational	0.85	Faeces		bTEFAP
+NCBITaxon:84024	Clostridium disporicum	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6308	714	observational	0.85	Faeces		bTEFAP
+NCBITaxon:191303	Turicibacter	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6309	714	observational	0.85	Faeces		bTEFAP
+NCBITaxon:384636	Bacteroides xylanolyticus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6310	714	observational	0.85	Faeces		bTEFAP
+NCBITaxon:41978	Ruminococcus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6311	714	observational	0.85	Faeces		bTEFAP
+NCBITaxon:1304	Streptococcus salivarius	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6312	714	observational	0.85	Faeces		bTEFAP
+NCBITaxon:1265	Ruminococcus flavefaciens	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6313	714	observational	0.85	Faeces		bTEFAP
+NCBITaxon:39488	Eubacterium hallii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6314	714	observational	0.85	Faeces		bTEFAP
+NCBITaxon:52225	Mitsuokella	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6315	714	observational	0.85	Tissue biopsie		bTEFAP
+NCBITaxon:1573535	Holdemanella	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6316	714	observational	0.85	Tissue biopsie		bTEFAP
+NCBITaxon:1508657	Ruminiclostridium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6317	714	observational	0.85	Tissue biopsie		bTEFAP
+NCBITaxon:191303	Turicibacter	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6318	714	observational	0.85	Tissue biopsie		bTEFAP
+NCBITaxon:1304	Streptococcus salivarius	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6319	714	observational	0.85	Tissue biopsie		bTEFAP
+NCBITaxon:84024	Clostridium disporicum	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6320	714	observational	0.85	Tissue biopsie		bTEFAP
+NCBITaxon:841	Roseburia	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6321	714	observational	0.85	Tissue biopsie		bTEFAP
+NCBITaxon:1591	Lactobacillus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6322	714	observational	0.85	Tissue biopsie		bTEFAP
+NCBITaxon:33024	Phascolarctobacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6323	714	observational	0.85	Tissue biopsie		bTEFAP
+NCBITaxon:1686	Bifidobacterium catenulatum	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6324	714	observational	0.85	Tissue biopsie		bTEFAP
+NCBITaxon:1502	Clostridium perfringens	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6325	714	observational	0.85	Tissue biopsie		bTEFAP
+NCBITaxon:360807	Roseburia Inulinivorans	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6326	714	observational	0.85	Tissue biopsie		bTEFAP
+NCBITaxon:33038	Ruminococcus gnavus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6327	714	observational	0.85	Tissue biopsie		bTEFAP
+NCBITaxon:29317	Actinomyces	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6328	715	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:84111	Eggerthella	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6329	715	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:1573536	Faecalicoccus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6330	715	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:1306	Streptococcus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6331	715	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:1505657	Intestinibacter	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6332	715	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:204475	Gemmiger	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6333	715	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:28050	Lachnospira	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6334	715	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:44748	Sporobacter	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6335	715	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:33042	Coprococcus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6336	715	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:572511	Blautia	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6337	715	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:553372	Asaccharobacter	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6338	715	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:41978	Ruminococcus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6340	715	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:459786	Oscillibacter	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6341	715	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:204475	Gemmiger	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6342	715	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:28050	Lachnospira	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6343	715	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:44748	Sporobacter	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6344	715	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:29317	Actinomyces	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6346	715	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:84111	Eggerthella	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6347	715	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:1573536	Faecalicoccus	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6348	715	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:1306	Streptococcus	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6349	715	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:41200	Bifidobacterium	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6350	715	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:264995	Anaerofustis	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6351	715	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:1378	Gemella	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6352	715	observational	0.85	Faeces		MiSeq sequencing
+NCBITaxon:39491	Eubacterium rectale	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	6630	736	observational	0.88	Faeces		GA-Map
+NCBITaxon:1735	Eubacterium biforme	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	6631	736	observational	0.88	Faeces		GA-Map
+NCBITaxon:1311	Streptococcus agalactiae	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	6632	736	observational	0.88	Faeces		GA-Map
+NCBITaxon:1869337	Parabacteroides	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	6633	736	observational	0.88	Faeces		GA-Map
+NCBITaxon:41200	Bifidobacterium	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	6635	736	observational	0.88	Faeces		GA-Map
+NCBITaxon:59823	Prevotella	Microbe	increased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	6636	736	observational	0.88	Faeces		GA-Map
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	6645	738	observational	0.85	Faeces		Metagenomic sequencing
+NCBITaxon:817	Bacteroides fragilis	Microbe	increased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	6646	738	observational	0.85	Faeces		Metagenomic sequencing
+NCBITaxon:821	Bacteroides vulgatus	Microbe	increased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	6647	738	observational	0.85	Faeces		Metagenomic sequencing
+NCBITaxon:625	Shigella	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6648	738	observational	0.85	Faeces		Metagenomic sequencing
+NCBITaxon:216816	Bifidobacterium longum	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6649	738	observational	0.85	Faeces		Metagenomic sequencing
+NCBITaxon:10841	Microviridae	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6880	762	observational	0.85	Tissue biopsie		Metagenomic sequencing
+NCBITaxon:10662	Myoviridae	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6881	762	observational	0.85	Tissue biopsie		Metagenomic sequencing
+NCBITaxon:10744	Podoviridae	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6882	762	observational	0.85	Tissue biopsie		Metagenomic sequencing
+NCBITaxon:11244	Pneumoviridae	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6883	762	observational	0.85	Tissue biopsie		Metagenomic sequencing
+NCBITaxon:687329	Anelloviridae	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6884	762	observational	0.85	Tissue biopsie		Metagenomic sequencing
+NCBITaxon:1868215	Orthopneumovirus	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6885	762	observational	0.85	Tissue biopsie		Metagenomic sequencing
+NCBITaxon:346673	Coccolithovirus	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6886	762	observational	0.85	Tissue biopsie		Metagenomic sequencing
+NCBITaxon:315393	Mimivirus	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6887	762	observational	0.85	Tissue biopsie		Metagenomic sequencing
+NCBITaxon:10242	Orthopoxvirus	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6888	762	observational	0.85	Tissue biopsie		Metagenomic sequencing
+NCBITaxon:1506	Clostridium	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6897	764	observational	0.85	Faeces		16S rRNA pyrosequencing
+NCBITaxon:841	Roseburia	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6898	764	observational	0.85	Faeces		16S rRNA pyrosequencing
+NCBITaxon:33024	Phascolarctobacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6899	764	observational	0.85	Faeces		16S rRNA pyrosequencing
+NCBITaxon:541000	Ruminococcaceae	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6900	764	observational	0.85	Faeces		16S rRNA pyrosequencing
+NCBITaxon:625	Shigella	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6901	764	observational	0.85	Faeces		16S rRNA pyrosequencing
+NCBITaxon:1506	Clostridium	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6902	764	observational	0.85	Faeces		16S rRNA pyrosequencing
+NCBITaxon:841	Roseburia	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6903	764	observational	0.85	Faeces		16S rRNA pyrosequencing
+NCBITaxon:33024	Phascolarctobacterium	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6904	764	observational	0.85	Faeces		16S rRNA pyrosequencing
+NCBITaxon:81850	Leuconostocaceae	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6905	764	observational	0.85	Faeces		16S rRNA pyrosequencing
+NCBITaxon:33042	Coprococcus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6940	768	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:841	Roseburia	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6941	768	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:216851	Faecalibacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6942	768	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:35783	Enterococcus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6943	768	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1535326	Candida	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6944	768	observational	0.85	Faeces		ITS2 sequencing
+NCBITaxon:5552	Trichosporon	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6945	768	observational	0.85	Faeces		ITS2 sequencing
+NCBITaxon:62636	Entyloma	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6946	768	observational	0.85	Faeces		ITS2 sequencing
+NCBITaxon:27314	Dipodascus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6947	768	observational	0.85	Faeces		ITS2 sequencing
+NCBITaxon:29832	Hanseniaspora	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6948	768	observational	0.85	Faeces		ITS2 sequencing
+NCBITaxon:39965	Hypsizygus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6949	768	observational	0.85	Faeces		ITS2 sequencing
+NCBITaxon:148959	Wallemia	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6950	768	observational	0.85	Faeces		ITS2 sequencing
+NCBITaxon:1851509	Naganishia	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6951	768	observational	0.85	Faeces		ITS2 sequencing
+NCBITaxon:29832	Hanseniaspora	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6952	768	observational	0.85	Faeces		ITS2 sequencing
+NCBITaxon:39965	Hypsizygus	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6953	768	observational	0.85	Faeces		ITS2 sequencing
+NCBITaxon:27314	Dipodascus	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6954	768	observational	0.85	Faeces		ITS2 sequencing
+NCBITaxon:62636	Entyloma	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6955	768	observational	0.85	Faeces		ITS2 sequencing
+NCBITaxon:148959	Wallemia	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6956	768	observational	0.85	Faeces		ITS2 sequencing
+NCBITaxon:1851509	Naganishia	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6957	768	observational	0.85	Faeces		ITS2 sequencing
+NCBITaxon:4908	Issatchenkia	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6958	768	observational	0.85	Faeces		ITS2 sequencing
+NCBITaxon:5277	Leucosporidium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	6959	768	observational	0.85	Faeces		ITS2 sequencing
+NCBITaxon:5277	Leucosporidium	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	6960	768	observational	0.85	Faeces		ITS2 sequencing
+NCBITaxon:68766	Fusobacterium	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	7088	777	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:729	Haemophilus parainfluenzae	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	7089	777	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:39777	Veillonella atypica	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	7090	777	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:29466	Veillonella parvula	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	7091	777	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:1747	Propionibacterium acnes	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	7092	777	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:160404	Clostridium lactatifermentans	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	7093	777	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:1492	Clostridium butyricum	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	7094	777	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:2383	Epulopiscium	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	7095	777	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:216851	Faecalibacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	7543	811	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:29523	Bacteroides	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	8046	858	observational	0.8	Faeces		qPCR
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	8047	858	observational	0.8	Faeces		qPCR
+NCBITaxon:59823	Prevotella	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	8048	858	observational	0.8	Faeces		qPCR
+NCBITaxon:2172	Methanobrevibacter	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	8049	858	observational	0.8	Faeces		qPCR
+NCBITaxon:1535	Clostridium leptum	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	8088	866	observational	0.85	Faeces		FISH
+NCBITaxon:35783	Enterococcus	Microbe	increased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	8595	925	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1236	Gammaproteobacteria	Microbe	increased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	8596	925	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:207244	Anaerostipes	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	8597	925	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:541000	Ruminococcaceae	Microbe	decreased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	8598	925	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:28037	Streptococcus mitis	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	8814	947	observational	0.85	Saliva		16S rRNA sequencing
+NCBITaxon:1304	Streptococcus salivarius	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	8815	947	observational	0.85	Saliva		16S rRNA sequencing
+NCBITaxon:851	Fusobacterium nucleatum	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	8819	947	observational	0.88	Saliva		16S rRNA sequencing
+NCBITaxon:1304	Streptococcus salivarius	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	8820	947	observational	0.88	Saliva		16S rRNA sequencing
+NCBITaxon:239935	Akkermansia muciniphila	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	8921	964	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:745368	Gemmiger formicilis	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	8922	964	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:40518	Ruminococcus bromii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	8923	964	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:204516	Bacteroides massiliensis	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	8924	964	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:292800	Flavonifractor plautii	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	8925	964	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1493	Clostridium cellulovorans	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	8926	964	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:74426	Collinsella aerofaciens	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	8927	964	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:154288	Turicibacter sanguinis	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	8928	964	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:239935	Akkermansia muciniphila	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8929	964	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:745368	Gemmiger formicilis	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8930	964	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:328814	Alistipes shahii	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8931	964	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:40518	Ruminococcus bromii	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8932	964	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:204516	Bacteroides massiliensis	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8933	964	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:28118	Odoribacter splanchnicus	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8934	964	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:292800	Flavonifractor plautii	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8935	964	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1493	Clostridium cellulovorans	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8936	964	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1099853	Coprobacter fastidiosus	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8937	964	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:74426	Collinsella aerofaciens	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8938	964	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:446660	Adlercreutzia equolifaciens	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8939	964	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:154288	Turicibacter sanguinis	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8940	964	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:990719	Christensenellaceae	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8965	968	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:416916	Aggregatibacter	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8966	968	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:32207	Rothia	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8967	968	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:33038	Ruminococcus gnavus	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8968	968	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1506577	Tyzzerella	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8969	968	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:40544	Sutterella	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8970	968	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:572511	Blautia	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8971	968	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1505663	Erysipelatoclostridium	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8972	968	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:52225	Mitsuokella	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8973	968	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:189330	Dorea	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8974	968	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:191303	Turicibacter	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8975	968	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:543311	Parvimonas	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8976	968	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:42322	Eubacterium ruminantium	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8977	968	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1378	Gemella	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8978	968	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:239934	Akkermansia	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8979	968	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:625	Shigella	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8980	968	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:724	Haemophilus	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8981	968	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:32008	Burkholderia	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	8982	968	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:28883	Caudovirales	Microbe	increased_in	DOID:0050589	inflammatory bowel disease	IBD_Outcome	Disbiome	9030	973	observational	0.85	Faeces		
+NCBITaxon:687329	Anelloviridae	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9031	973	observational	0.85	Faeces		
+NCBITaxon:687329	Anelloviridae	Microbe	increased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	9032	973	observational	0.85	Faeces		
+NCBITaxon:59823	Prevotella	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9081	979	observational	0.85	Tissue biopsie		16S rRNA pyrosequencing
+NCBITaxon:1591	Lactobacillus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9082	979	observational	0.85	Tissue biopsie		16S rRNA pyrosequencing
+NCBITaxon:100883	Coprobacillus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9083	979	observational	0.85	Tissue biopsie		16S rRNA pyrosequencing
+NCBITaxon:1506	Clostridium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9084	979	observational	0.85	Tissue biopsie		16S rRNA pyrosequencing
+NCBITaxon:216851	Faecalibacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9085	979	observational	0.85	Tissue biopsie		16S rRNA pyrosequencing
+NCBITaxon:40323	Stenotrophomonas	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9086	979	observational	0.85	Tissue biopsie		16S rRNA pyrosequencing
+NCBITaxon:186803	Lachnospiraceae	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9087	979	observational	0.85	Tissue biopsie		16S rRNA pyrosequencing
+NCBITaxon:239934	Akkermansia	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9318	1000	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:119852	Oscillospira	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9319	1000	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:39948	Dialister	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9320	1000	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:41200	Bifidobacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9321	1000	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:4932	Saccharomyces cerevisiae	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9322	1000	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:35783	Enterococcus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9749	1045	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1680	Bifidobacterium adolescentis	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9750	1045	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:447020	Adlercreutzia	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9751	1045	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:36834	Clostridium celatum	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9752	1045	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:186803	Lachnospiraceae	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9753	1045	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:207244	Anaerostipes	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9754	1045	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:33042	Coprococcus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9755	1045	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:301302	Roseburia faecis	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9756	1045	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:853	Faecalibacterium prausnitzii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9757	1045	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:745368	Gemmiger formicilis	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9758	1045	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:40518	Ruminococcus bromii	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9759	1045	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:39948	Dialister	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	9760	1045	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:42895	Enterobacter	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	10031	1078	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1506	Clostridium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	10032	1078	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:44249	Paenibacillus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	10033	1078	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1409	Bacillus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	10034	1078	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1591	Lactobacillus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	10035	1078	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:572511	Blautia	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	10036	1078	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:142586	Eubacterium	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	10037	1078	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:841	Roseburia	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	10038	1078	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:41978	Ruminococcus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	10039	1078	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:1306	Streptococcus	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	10040	1078	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:59823	Prevotella	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	10041	1078	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:561	Escherichia	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	10042	1078	observational	0.85	Faeces		16S rRNA sequencing
+NCBITaxon:817	Bacteroides fragilis	Microbe	increased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	10325	1104	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:186803	Lachnospiraceae	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	10326	1104	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:649756	Anaerostipes hadrus	Microbe	decreased_in	DOID:8778	Crohn's disease	IBD_Outcome	Disbiome	10327	1104	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:649756	Anaerostipes hadrus	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	10328	1104	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:186803	Lachnospiraceae	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	10329	1104	observational	0.85	Tissue biopsie		16S rRNA sequencing
+NCBITaxon:204475	Gemmiger	Microbe	decreased_in	DOID:8577	ulcerative colitis	IBD_Outcome	Disbiome	10330	1104	observational	0.85	Tissue biopsie		16S rRNA sequencing
