@@ -50,3 +50,6 @@ api_keys.txt
 
 # Exception: Bolte 2021 food mapping table (curated, source-of-truth)
 !data/processed/bolte_food_mappings.tsv
+
+# Exception: FODMAP classification table (curated, source-of-truth)
+!data/processed/fodmap_classifications.tsv

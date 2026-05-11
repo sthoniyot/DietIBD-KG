@@ -1,0 +1,97 @@
+food_name	fodmap_class	content_level	notes
+apple	fructose	high	Excess fructose; consensus across Monash, Healthline, UVA
+apple	sorbitol	high	Stone-fruit-class polyol; consensus
+pear	fructose	high	Excess fructose; consensus
+pear	sorbitol	high	Polyol; consensus
+mango	fructose	high	Excess fructose; consensus
+watermelon	fructose	high	Excess fructose; consensus
+honey	fructose	high	Excess fructose; consensus
+agave syrup	fructose	high	Excess fructose; consensus
+high fructose corn syrup	fructose	high	Excess fructose; consensus
+cherry	fructose	high	Excess fructose
+cherry	sorbitol	high	Polyol
+fig	fructose	high	Excess fructose
+asparagus	fructose	high	Excess fructose
+plum	sorbitol	high	Polyol
+prune	sorbitol	high	Polyol
+peach	sorbitol	high	Polyol
+nectarine	sorbitol	high	Polyol
+apricot	sorbitol	high	Polyol
+avocado	sorbitol	high	Polyol; small servings tolerated
+blackberry	sorbitol	high	Polyol
+mushroom	mannitol	high	Polyol
+cauliflower	mannitol	high	Polyol
+snow peas	mannitol	high	Polyol
+sweet potato	mannitol	high	Polyol
+celery	mannitol	high	Polyol
+wheat	fructans	high	Fructans; consensus
+rye	fructans	high	Fructans; consensus
+barley	fructans	high	Fructans
+garlic	fructans	high	Fructans; one of highest sources
+onion	fructans	high	Fructans; one of highest sources
+leek	fructans	high	Fructans
+shallot	fructans	high	Fructans
+artichoke	fructans	high	Fructans
+beetroot	fructans	high	Fructans
+chicory	fructans	high	Inulin/fructans (major source)
+inulin	fructans	high	Pure fructan
+lentil	galacto-oligosaccharide	high	GOS; consensus
+chickpea	galacto-oligosaccharide	high	GOS; consensus
+kidney bean	galacto-oligosaccharide	high	GOS; consensus
+black bean	galacto-oligosaccharide	high	GOS
+soybean	galacto-oligosaccharide	high	GOS
+baked bean	galacto-oligosaccharide	high	GOS
+pistachio	galacto-oligosaccharide	high	GOS
+cashew	galacto-oligosaccharide	high	GOS
+cow milk	lactose	high	Lactose; consensus
+buttermilk	lactose	high	Lactose
+yogurt	lactose	high	Regular (not Greek/lactose-free)
+ice cream	lactose	high	Lactose
+custard	lactose	high	Lactose
+cottage cheese	lactose	high	Soft cheese; lactose
+ricotta cheese	lactose	high	Soft cheese; lactose
+cream cheese	lactose	high	Soft cheese; lactose
+condensed milk	lactose	high	Concentrated lactose
+banana	-	low	Low FODMAP standard serving
+blueberry	-	low	Low FODMAP standard serving
+strawberry	-	low	Low FODMAP standard serving
+raspberry	-	low	Low FODMAP standard serving
+orange	-	low	Low FODMAP standard serving
+kiwi	-	low	Low FODMAP standard serving
+grape	-	low	Low FODMAP standard serving
+pineapple	-	low	Low FODMAP standard serving
+lemon	-	low	Low FODMAP standard serving
+lime	-	low	Low FODMAP standard serving
+carrot	-	low	Low FODMAP standard serving
+cucumber	-	low	Low FODMAP standard serving
+lettuce	-	low	Low FODMAP standard serving
+spinach	-	low	Low FODMAP standard serving
+kale	-	low	Low FODMAP standard serving
+zucchini	-	low	Low FODMAP standard serving
+eggplant	-	low	Low FODMAP standard serving
+bell pepper	-	low	Low FODMAP standard serving
+tomato	-	low	Low FODMAP standard serving
+potato	-	low	Low FODMAP standard serving
+rice	-	low	Low FODMAP standard serving
+oats	-	low	Low FODMAP standard serving
+quinoa	-	low	Low FODMAP standard serving
+polenta	-	low	Low FODMAP standard serving
+cheddar cheese	-	low	Hard cheese; low lactose
+parmesan cheese	-	low	Hard cheese; low lactose
+swiss cheese	-	low	Hard cheese; low lactose
+butter	-	low	Negligible lactose
+lactose-free milk	-	low	Lactose removed
+almond	-	low	Low FODMAP at standard serving
+peanut	-	low	Low FODMAP standard serving
+macadamia	-	low	Low FODMAP standard serving
+walnut	-	low	Low FODMAP standard serving
+pumpkin seed	-	low	Low FODMAP standard serving
+pine nut	-	low	Low FODMAP standard serving
+maple syrup	-	low	Low FODMAP standard serving
+dark chocolate	-	low	Low FODMAP small servings
+sucrose	-	low	Table sugar; not a FODMAP
+beef	-	low	Animal protein; no FODMAP
+chicken	-	low	Animal protein; no FODMAP
+fish	-	low	Animal protein; no FODMAP
+egg	-	low	Animal protein; no FODMAP
+tofu	-	low	Firm tofu; low FODMAP
