@@ -1,0 +1,37 @@
+bolte_food	foodon_label	notes
+wine_red	red wine	-
+group_nuts	nut	parent category
+fruit	fruit	already maps
+group_coffee	coffee	parent category
+fish_fatty	fatty fish	-
+snack_cheese	cheese	cheese consumed as snack
+fish_prepared_fat	fatty fish	prepared variant
+vegetables_cooked_nobutter	vegetable	cooked without butter
+group_vegetables	vegetable	parent category
+spiced_cake	cake	general
+softdrink_sugar	soft drink	sugar-sweetened
+group_dairy	milk and milk products	parent category
+yoghurt_drink_other	yogurt	yogurt drink variant
+snack_savoury_hot	-	too specific, skip
+group_fish	fish	parent category
+group_cereals	cereal	parent category
+fish_lean	lean fish	-
+group_breads	bread	parent category
+snack_nut	nut	nut consumed as snack
+chicken_legs_thighs	chicken	body part subset
+group_meat	meat	parent category
+beef	beef	-
+pork	pork	-
+egg	egg	-
+butter	butter	-
+margarine	margarine	-
+group_potatoes	potato	parent category
+group_legumes	legume	parent category
+tea_herbal	tea	herbal variant
+tea_other	tea	other variant
+beer	beer	-
+yoghurt_lf	yogurt	low-fat variant
+yoghurt_added_sugar	yogurt	sweetened variant
+milk_full	milk	whole milk
+milk_lf	milk	low-fat milk
+group_fruit_juices	fruit juice	parent category

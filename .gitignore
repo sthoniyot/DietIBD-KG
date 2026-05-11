@@ -43,3 +43,10 @@ api_keys.txt
 
 # Exception: keep generated triples TSVs in version control (small, curated outputs)
 !data/processed/triples_*.tsv
+
+# Exception: FooDB curated mapping files (small, source-of-truth)
+!data/processed/foodb_chebi_mapping.tsv
+!data/processed/foodb_compound_allowlist.tsv
+
+# Exception: Bolte 2021 food mapping table (curated, source-of-truth)
+!data/processed/bolte_food_mappings.tsv
