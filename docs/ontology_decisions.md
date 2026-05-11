@@ -22,3 +22,24 @@
 5. Future: consider Phenol-Explorer database (dedicated polyphenol resource) for cleaner polyphenol coverage.
 
 **Conclusion:** FooDB is an imperfect source for bioactive compounds. It excels at flavonoid glycosides, lipid derivatives, and stereo-explicit canonical forms but has systematic gaps for the simplest biologically-discussed parent compounds. This shapes our ingestion strategy.
+
+## Phase B Status Snapshot (2026-05-10 end of session)
+
+**Curated database ingestions complete:**
+
+| Source | Triples | File |
+|---|---|---|
+| Disbiome | 754 | triples_disbiome.tsv |
+| FooDB (filtered) | 18,772 | triples_foodb_filtered.tsv |
+| Bolte 2021 | 132 | triples_bolte2021.tsv |
+| FODMAP consensus | 86 | triples_fodmap.tsv |
+| **Total Phase B** | **19,744** | |
+
+**Remaining for Phase B:**
+- KEGG (microbe-pathway-metabolite) — ~5,000 triples expected, programmatic via REST API
+- (Optional) Phenol-Explorer for cleaner polyphenol coverage
+
+**Phase C planned next:**
+- PubMed LLM extraction (~20,000-30,000 additional triples)
+
+**Repository commits to date:** 7 (f5d7551, 462a478, 5ac58bf, 9cddb23, 6863e58, a02fb5b, c271f14)
