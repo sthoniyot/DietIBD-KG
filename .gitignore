@@ -53,3 +53,6 @@ api_keys.txt
 
 # Exception: FODMAP classification table (curated, source-of-truth)
 !data/processed/fodmap_classifications.tsv
+
+# Exception: KEGG curated files (small, source-of-truth)
+!data/processed/kegg_*.tsv
