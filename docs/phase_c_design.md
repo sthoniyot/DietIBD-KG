@@ -337,3 +337,28 @@ Decisions made in this design that may be revisited:
 5. Three new predicates (associates_with, mechanistic_link, contradicts).
    Rationale: literature uses hedged language that doesn't fit Phase B's
    curated predicates. Need extraction-specific vocabulary.
+
+## Appendix B: Stream 1 Query Count Validation
+
+**Tested during Stage 1 smoke test (this session):**
+
+Stream 1 corrected query returned 781 matching abstracts, lower than the
+3,000-5,000 estimate in section 2.1. The estimate was untested.
+
+Comparison test queries:
+- Strict MeSH (Stream 1 corrected):           781 abstracts
+- Same query but free-text only (no MeSH):  1,630 abstracts (from Q7 diagnostic)
+
+Decision deferred to Stage 2 implementation:
+- Option X: Use strict MeSH query (high relevance, lower volume)
+- Option Y: Use free-text query (lower relevance, higher volume)
+- Option Z (likely): Hybrid - strict MeSH as core + free-text for recency
+
+Sample relevant titles confirm Stream 1 returns the right kind of papers:
+- PMID 40065181: Microbiota in IBD: mechanisms and therapeutic opportunities
+- PMID 31910984: The microbiome and inflammatory bowel disease
+- PMID 37543395: Epidemiology of Pediatric IBD
+
+Stage 2 should empirically tune the query before committing to a corpus.
+Final corpus size will likely be 3-8K abstracts (smaller than the 8-12K
+in section 2.2 estimate), at cost ~$5-15 total via GPT-4o-mini batch API.
