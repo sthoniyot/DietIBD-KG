@@ -362,3 +362,123 @@ Sample relevant titles confirm Stream 1 returns the right kind of papers:
 Stage 2 should empirically tune the query before committing to a corpus.
 Final corpus size will likely be 3-8K abstracts (smaller than the 8-12K
 in section 2.2 estimate), at cost ~$5-15 total via GPT-4o-mini batch API.
+
+
+## Appendix C: Corpus Strategy Decision (Option Y)
+
+**Decided 2026-05-13 after empirical query counts.**
+
+### Decision
+
+Use **free-text variant** for all three search streams (Option Y from Appendix B).
+
+### Tested counts that informed this decision
+
+| Stream | Strict MeSH | Free-text |
+|--------|-------------|-----------|
+| S1 (diet-microbiome-IBD) | 781 | 4,226 |
+| S2 (bioactive-IBD) | 1,308 | 3,910 |
+| S3 (microbe-IBD) | 1,058 | 2,650 |
+| Total (with overlap) | 3,147 | 10,786 |
+| Estimated deduplicated | ~2,500 | ~7,000 |
+
+### Rationale
+
+1. **Recent papers matter most for Phase C value.** The KG already has strong
+   2018-2020 coverage via Disbiome curation. The unique value Phase C adds is
+   2021-2026 findings not yet in any curated database. MeSH indexing lags
+   publication by months; free-text matching captures these recent papers.
+
+2. **LLM scope-filtering is more flexible than query scope-filtering.** A
+   well-crafted prompt with explicit scope instructions ("only extract triples
+   about IBD-diet-microbiome relationships, return empty list otherwise")
+   will discard off-scope abstracts at extraction time. Better to have the
+   LLM see and discard noise than to pre-filter and miss real evidence.
+
+3. **Cost difference is negligible.** GPT-4o-mini batch API on the larger
+   corpus costs ~$5-8 vs ~$2-3 for the strict version. Both well under the
+   Phase C budget.
+
+4. **Annotation burden is identical regardless of corpus size.** The gold
+   standard is 100 abstracts whether the corpus is 2,500 or 7,000. We stratify
+   the gold-standard sample to ensure quality despite the noisier full corpus.
+
+### Accepted tradeoff
+
+Free-text queries will include some off-scope papers (estimated 15-25% noise).
+We accept this because:
+- LLM scope-filtering handles it during extraction
+- Gold-standard validation reveals if scope-filtering is failing
+- Per-predicate precision/recall metrics will catch systematic errors
+
+### Stratification of Gold Standard (revisits Section 5.2)
+
+To handle the noisier corpus, the 100-abstract gold standard adds an explicit
+"off-scope" category:
+
+- 25 diet-microbiome-IBD core (was 30)
+- 25 microbe-IBD findings (was 30)
+- 20 bioactive-IBD relationships (unchanged)
+- 10 review articles (unchanged)
+- 10 negative/contradictory findings (unchanged)
+- **10 off-scope abstracts (new)** - papers about IBD treatment, surgery,
+  pediatrics, or non-microbiome aspects. LLM must return empty list.
+
+### Next steps (Stage 2 implementation)
+
+1. Verify free-text query syntax for Streams 2 and 3 (S1 already tested)
+2. Build scripts/fetch_pubmed.py with rate limiting (10 req/sec with API key)
+3. Download and cache abstracts to data/raw/pubmed/abstracts.jsonl
+4. Verify ~7,000 unique deduplicated abstracts
+5. Inspect random sample for relevance and content quality
+
+## Appendix D: Stage 2 Corpus Profile (Completed)
+
+**Downloaded 2026-05-13:** 8,219 abstracts cached at
+`data/raw/pubmed/abstracts.jsonl` (17.2 MB, gitignored).
+
+### Year distribution (top 5)
+- 2025: 1,511
+- 2024: 1,218
+- 2023: 933
+- 2022: 977
+- 2021: 864
+- Combined 2024-2026: ~3,400 abstracts (the recency target Option Y aimed for)
+
+### Top journals
+Nutrients, IJMS, Food & function, Gut microbes, Frontiers in microbiology,
+Inflammatory bowel diseases - all real microbiome-nutrition venues.
+
+### Quality stats
+- 98.9% have DOI (8,131)
+- 77.8% have MeSH terms (6,391)
+- Median abstract length: 1,620 chars
+- P99 abstract length: 3,361 chars
+
+### Known characteristics to handle in Stage 4 (extraction)
+
+1. **Mouse-model heavy:** ~3,767 abstracts mention Animals; ~2,546 mention
+   Mice; ~1,405 mention Dextran Sulfate (DSS colitis model). The LLM prompt
+   should assign `evidence_type=animal` to these and the confidence should
+   be capped at 0.70 per Section 3.4.
+
+2. **~26% Reviews:** 2,112 of 8,219 have publication type "Review". Will be
+   handled at extraction time: LLM emits empty list for reviews without novel
+   claims, tags `evidence_type=review` (confidence 0.65) for narrative
+   reviews with synthesized findings.
+
+3. **33 outlier-length abstracts (>5K chars):** Conference proceedings,
+   clinical protocols, policy documents. The 81,020-char outlier (PMID
+   27885969) is a conference proceedings dump. Pre-filter at extraction:
+   skip any abstract >5,000 chars OR truncate to first 5,000 chars for LLM
+   input.
+
+### What's ready for Stage 3
+- 8,219 abstracts in normalized JSONL format
+- All required fields populated (pmid, title, abstract, year, doi,
+  publication_types, mesh_terms)
+- Cache is resumable - rerunning `python scripts/fetch_pubmed.py` skips
+  already-cached PMIDs and only fetches new ones
+
+### Next: Stage 3 (gold-standard annotation)
+Select 100 stratified abstracts and annotate manually. See Section 5.
