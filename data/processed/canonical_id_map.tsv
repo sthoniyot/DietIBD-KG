@@ -1,0 +1,8 @@
+source_id	canonical_id	source_label	canonical_label	rationale
+CHEBI:15366	CHEBI:30089	acetic acid	acetate	Anion form is biologically dominant at gut pH 7; same compound
+CHEBI:15824	CHEBI:28645	beta-D-fructose	D-fructose	Generic parent class; KG abstraction not anomer-specific
+CHEBI:16411	CHEBI:30854	indol-3-yl acetic acid	(indol-3-yl)acetate	Anion form at gut pH; consistent with acetate decision
+NCBITaxon:29317	NCBITaxon:1654	Actinomyces sp.	Actinomyces	Genus-level canonical; sp. is unclassified placeholder
+NCBITaxon:41200	NCBITaxon:1678	Bifidobacterium sp.	Bifidobacterium	Genus-level canonical; sp. is unclassified placeholder
+NCBITaxon:41978	NCBITaxon:1263	Ruminococcus sp.	Ruminococcus	Genus-level canonical; sp. is unclassified placeholder
+NCBITaxon:1306	NCBITaxon:1301	Streptococcus sp.	Streptococcus	Genus-level canonical; sp. is unclassified placeholder

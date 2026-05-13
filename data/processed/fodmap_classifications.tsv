@@ -34,7 +34,6 @@ shallot	fructans	high	Fructans
 artichoke	fructans	high	Fructans
 beetroot	fructans	high	Fructans
 chicory	fructans	high	Inulin/fructans (major source)
-inulin	fructans	high	Pure fructan
 lentil	galacto-oligosaccharide	high	GOS; consensus
 chickpea	galacto-oligosaccharide	high	GOS; consensus
 kidney bean	galacto-oligosaccharide	high	GOS; consensus
@@ -89,7 +88,6 @@ pumpkin seed	-	low	Low FODMAP standard serving
 pine nut	-	low	Low FODMAP standard serving
 maple syrup	-	low	Low FODMAP standard serving
 dark chocolate	-	low	Low FODMAP small servings
-sucrose	-	low	Table sugar; not a FODMAP
 beef	-	low	Animal protein; no FODMAP
 chicken	-	low	Animal protein; no FODMAP
 fish	-	low	Animal protein; no FODMAP
