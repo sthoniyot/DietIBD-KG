@@ -59,3 +59,9 @@ api_keys.txt
 
 # Exception: Canonical reconciliation table (curated, source-of-truth)
 !data/processed/canonical_id_map.tsv
+
+# Exception: Gold-standard annotations (curated, source-of-truth)
+!data/processed/gold_standard_annotations.tsv
+
+# Exception: Gold-standard source abstract list (curated, source-of-truth)
+!data/processed/gold_standard_to_annotate.tsv
