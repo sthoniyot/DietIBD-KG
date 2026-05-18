@@ -65,3 +65,16 @@ api_keys.txt
 
 # Exception: Gold-standard source abstract list (curated, source-of-truth)
 !data/processed/gold_standard_to_annotate.tsv
+
+# Exception: Phase C Stage 4 splits (deterministic, reproducible)
+!data/processed/gold_split_dev.tsv
+!data/processed/gold_split_test.tsv
+!data/processed/gold_split_fewshot.tsv
+
+# Exception: Phase C Stage 4 LLM extractions
+!data/processed/llm_extractions/
+!data/processed/llm_extractions/*.tsv
+
+# Backup files and working scratch
+.env.bak
+abstracts_to_reannotate.txt

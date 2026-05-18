@@ -1,0 +1,6 @@
+annot_id	pmid	triple_id	subject_name	subject_type	predicate	object_name	object_type	evidence_span	evidence_type	confidence	notes
+A001	29328869	T0	-	-	NONE	-	-	-	-	0	LLM returned empty extraction
+A002	29373727	T1	Crohn's disease	IBD_Outcome	decreased_in	BCoAT gene	Bioactive	Reduced butyrate-synthetic capacity was found in patients with active and inactive CD [p < 0.001 and p < 0.01, respectively]	cohort	0.9	Direct observation in cohort of 71 CD patients vs 75 controls; BCoAT gene quantification by qPCR
+A002	29373727	T2	ulcerative colitis	IBD_Outcome	decreased_in	BCoAT gene	Bioactive	Reduced butyrate-synthetic capacity was found in patients with... only in active UC [p < 0.05]	cohort	0.85	Active UC only (n=58); reduced butyrate synthesis capacity via BCoAT gene content
+A002	29373727	T3	dietary fibre	Food	decreases_marker	Crohn's disease	IBD_Outcome	Reduced BCoAT gene content in patients with CD was linked with a different regimen characterised by lower dietary fibre	cohort	0.75	Inverse relationship: lower fibre intake associated with reduced butyrate synthesis capacity in CD patients
+A003	29623708	T0	-	-	NONE	-	-	-	-	0	LLM returned empty extraction
