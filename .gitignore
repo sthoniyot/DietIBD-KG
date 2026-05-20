@@ -81,3 +81,5 @@ abstracts_to_reannotate.txt
 data/processed/embeddings/transe/
 data/processed/embeddings/distmult/
 data/processed/embeddings/rotate/
+*.egg-info/
+.pytest_cache/
