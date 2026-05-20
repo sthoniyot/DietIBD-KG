@@ -78,3 +78,6 @@ api_keys.txt
 # Backup files and working scratch
 .env.bak
 abstracts_to_reannotate.txt
+data/processed/embeddings/transe/
+data/processed/embeddings/distmult/
+data/processed/embeddings/rotate/
