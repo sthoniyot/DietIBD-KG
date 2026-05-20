@@ -83,3 +83,4 @@ data/processed/embeddings/distmult/
 data/processed/embeddings/rotate/
 *.egg-info/
 .pytest_cache/
+release/
