@@ -84,3 +84,5 @@ data/processed/embeddings/rotate/
 *.egg-info/
 .pytest_cache/
 /release/
+backups/
+typing_triage/

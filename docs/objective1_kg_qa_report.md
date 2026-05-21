@@ -1,13 +1,13 @@
 # DietIBD-KG — Objective 1 QA & Summary Statistics
 
-Generated: 2026-05-20 14:57
+Generated: 2026-05-21 15:21
 
 ## 1. Overview
 
-- **Total nodes:** 4,610
-- **Total edges:** 16,172
-- **Unique (subject, predicate, object) triples:** 14,876
-- **Total edges (with evidence multiplicity):** 16,172
+- **Total nodes:** 4,603
+- **Total edges:** 16,146
+- **Unique (subject, predicate, object) triples:** 14,850
+- **Total edges (with evidence multiplicity):** 16,146
 - **Evidence multiplicity factor:** 1.09 (edges per unique triple — LLM triples reported by multiple papers)
 
 ## 2. Integrity Checks
@@ -27,15 +27,15 @@ Edge endpoint types vs expected schema (9 core predicates):
 
 | Relationship | Expected | Observed (subject -> object) | Violations |
 |---|---|---|---|
-| CONTAINS | {Food} -> {Bioactive} | Food->Bioactive (7089) | 0 |
-| PRODUCES | {Microbe} -> {Bioactive} | Microbe->Bioactive (638) | 0 |
-| INCREASES_ABUNDANCE_OF | {Bioactive|Food|Microbe} -> {Microbe} | Food->Microbe (1925), Bioactive->Microbe (71), Microbe->Microbe (19) | 0 |
-| DECREASES_ABUNDANCE_OF | {Bioactive|Food|Microbe} -> {Microbe} | Food->Microbe (947), Bioactive->Microbe (30), Microbe->Microbe (10) | 0 |
+| CONTAINS | {Food} -> {Bioactive} | Food->Bioactive (7055) | 0 |
+| PRODUCES | {Microbe} -> {Bioactive} | Microbe->Bioactive (647) | 0 |
+| INCREASES_ABUNDANCE_OF | {Bioactive|Food|Microbe} -> {Microbe} | Food->Microbe (1194), Bioactive->Microbe (643), Microbe->Microbe (178) | 0 |
+| DECREASES_ABUNDANCE_OF | {Bioactive|Food|Microbe} -> {Microbe} | Food->Microbe (642), Bioactive->Microbe (280), Microbe->Microbe (65) | 0 |
 | INCREASED_IN | {Microbe} -> {IBD_Outcome} | Microbe->IBD_Outcome (1179) | 0 |
 | DECREASED_IN | {Microbe} -> {IBD_Outcome} | Microbe->IBD_Outcome (1198) | 0 |
-| INCREASES_MARKER | {Bioactive|Food|Microbe} -> {IBD_Outcome} | Food->IBD_Outcome (145), Bioactive->IBD_Outcome (2) | 0 |
-| DECREASES_MARKER | {Bioactive|Food|Microbe} -> {IBD_Outcome} | Food->IBD_Outcome (2086), Bioactive->IBD_Outcome (183), Microbe->IBD_Outcome (42) | 0 |
-| HAS_HIGH_FODMAP_CONTENT_OF | {Food} -> {Bioactive} | Food->Bioactive (49) | 0 |
+| INCREASES_MARKER | {Bioactive|Food|Microbe} -> {IBD_Outcome} | Food->IBD_Outcome (112), Bioactive->IBD_Outcome (28), Microbe->IBD_Outcome (7) | 0 |
+| DECREASES_MARKER | {Bioactive|Food|Microbe} -> {IBD_Outcome} | Food->IBD_Outcome (1265), Bioactive->IBD_Outcome (798), Microbe->IBD_Outcome (248) | 0 |
+| HAS_HIGH_FODMAP_CONTENT_OF | {Food} -> {Bioactive} | Food->Bioactive (48) | 0 |
 
 **Total schema violations across core predicates: 0**
 
@@ -51,29 +51,29 @@ Curated-only relationship types (endpoint distribution, informational):
 
 | Node type | Count | % of nodes |
 |---|---|---|
-| Food | 2,615 | 56.7% |
-| Microbe | 959 | 20.8% |
-| Bioactive | 760 | 16.5% |
+| Food | 1,870 | 40.6% |
+| Bioactive | 1,303 | 28.3% |
+| Microbe | 1,154 | 25.1% |
 | IBD_Outcome | 263 | 5.7% |
 | Pathway | 13 | 0.3% |
 
 - **Curated (pre-existing) nodes:** 1,476
-- **LLM-introduced nodes:** 3,134
+- **LLM-introduced nodes:** 3,127
 
 ## 5. Edge Statistics by Relationship Type
 
 | Relationship | Total | Curated | LLM |
 |---|---|---|---|
-| CONTAINS | 7,089 | 6,884 | 205 |
+| CONTAINS | 7,055 | 6,884 | 171 |
 | DECREASES_MARKER | 2,311 | 4 | 2,307 |
 | INCREASES_ABUNDANCE_OF | 2,015 | 58 | 1,957 |
 | DECREASED_IN | 1,198 | 282 | 916 |
 | INCREASED_IN | 1,179 | 216 | 963 |
 | DECREASES_ABUNDANCE_OF | 987 | 56 | 931 |
-| PRODUCES | 638 | 0 | 638 |
+| PRODUCES | 647 | 0 | 647 |
 | INVOLVES | 510 | 510 | 0 |
 | INCREASES_MARKER | 147 | 3 | 144 |
-| HAS_HIGH_FODMAP_CONTENT_OF | 49 | 46 | 3 |
+| HAS_HIGH_FODMAP_CONTENT_OF | 48 | 46 | 2 |
 | IS_LOW_FODMAP_FOOD | 38 | 38 | 0 |
 | MODULATES_CLUSTER | 11 | 11 | 0 |
 
@@ -81,14 +81,14 @@ Curated-only relationship types (endpoint distribution, informational):
 
 | Source | Edges | % |
 |---|---|---|
-| LLM | 8,064 | 49.9% |
-| curated | 8,108 | 50.1% |
+| curated | 8,108 | 50.2% |
+| LLM | 8,038 | 49.8% |
 
 Edges per source label (sources property unwound):
 
 | Source label | Edges |
 |---|---|
-| LLM | 8,064 |
+| LLM | 8,038 |
 | FooDB | 6,884 |
 | KEGG | 510 |
 | Disbiome | 498 |
@@ -103,9 +103,9 @@ LLM edge evidence types:
 
 | Evidence type | Edges |
 |---|---|
-| animal | 5,304 |
-| cohort | 1,634 |
-| mechanistic | 730 |
+| animal | 5,293 |
+| cohort | 1,633 |
+| mechanistic | 716 |
 | rct | 188 |
 | case_control | 131 |
 | meta_analysis | 42 |
@@ -125,9 +125,9 @@ Degree by node type:
 |---|---|---|---|
 | Pathway | 13 | 39.2 | 81 |
 | IBD_Outcome | 263 | 18.4 | 2278 |
-| Bioactive | 760 | 11.3 | 517 |
-| Microbe | 959 | 6.4 | 335 |
-| Food | 2,615 | 4.7 | 35 |
+| Bioactive | 1,303 | 7.7 | 517 |
+| Microbe | 1,154 | 5.7 | 335 |
+| Food | 1,870 | 5.5 | 35 |
 
 Top 15 hub entities (highest degree):
 
@@ -141,8 +141,8 @@ Top 15 hub entities (highest degree):
 | 6 | Bioactive | choline | 490 |
 | 7 | IBD_Outcome | colitis | 421 |
 | 8 | Bioactive | glycine betaine | 389 |
-| 9 | Bioactive | genistein | 344 |
-| 10 | Bioactive | acetate | 344 |
+| 9 | Bioactive | acetate | 344 |
+| 10 | Bioactive | genistein | 344 |
 | 11 | Microbe | Lactobacillus | 335 |
 | 12 | Bioactive | daidzein | 329 |
 | 13 | Bioactive | D-mannitol | 326 |
@@ -151,18 +151,18 @@ Top 15 hub entities (highest degree):
 
 Connected components (treating edges as undirected):
 
-- **Number of components:** 53
-- **Largest component:** 4,437 nodes (96.2% of graph)
+- **Number of components:** 52
+- **Largest component:** 4,432 nodes (96.3% of graph)
 - **Singleton components:** 0
-- **Component size distribution (top 10):** [4437, 25, 18, 7, 5, 4, 4, 4, 4, 4]
+- **Component size distribution (top 10):** [4432, 25, 18, 7, 5, 4, 4, 4, 4, 4]
 
 ## 8. Summary for Paper
 
 Headline numbers for the manuscript Results section:
 
-- DietIBD-KG comprises 4,610 nodes and 16,172 edges
-- 14,876 unique diet-microbiome-IBD relationships
+- DietIBD-KG comprises 4,603 nodes and 16,146 edges
+- 14,850 unique diet-microbiome-IBD relationships
 - Dual provenance: curated databases + LLM-extracted literature
 - 3,072 PubMed articles cited as edge-level evidence
-- Largest connected component covers 96.2% of all nodes
+- Largest connected component covers 96.3% of all nodes
 - 0 schema violations among core predicates

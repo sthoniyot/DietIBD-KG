@@ -7583,7 +7583,6 @@ LLM:agrocybe_cylindracea_polysaccharide	DECREASES_MARKER	DOID:8577
 LLM:ahiflower_oil	DECREASES_MARKER	LLM:colitis
 LLM:ahiflower_oil	INCREASES_ABUNDANCE_OF	LLM:fecal_microbiota_diversity
 LLM:ain93g_diet	INCREASES_MARKER	LLM:colitis
-LLM:akebia_saponin_d	CONTAINS	LLM:triterpenoid_saponin
 LLM:akebia_saponin_d	DECREASES_MARKER	DOID:8577
 LLM:akebia_saponin_d	INCREASES_ABUNDANCE_OF	NCBITaxon:239935
 LLM:akebia_trifoliata_pericarp_extract	DECREASES_ABUNDANCE_OF	NCBITaxon:186803
@@ -7624,7 +7623,6 @@ LLM:alistipes_finegoldii	DECREASED_IN	DOID:0050589
 LLM:alistipes_finegoldii	DECREASED_IN	LLM:pediatric_ulcerative_colitis
 LLM:alistipes_onderdonkii	PRODUCES	LLM:5-hydroxyindole-3-acetic_acid
 LLM:alistipes_senegalensis	DECREASED_IN	DOID:8778
-LLM:allium_macrostemon_polysaccharide	CONTAINS	LLM:short_chain_fatty_acid
 LLM:allium_macrostemon_polysaccharide	DECREASES_ABUNDANCE_OF	LLM:escherichia-shigella
 LLM:allium_macrostemon_polysaccharide	DECREASES_ABUNDANCE_OF	NCBITaxon:29523
 LLM:allium_macrostemon_polysaccharide	DECREASES_MARKER	DOID:8577
@@ -7907,9 +7905,9 @@ LLM:bacillus_coagulans_bc198	DECREASES_MARKER	DOID:8577
 LLM:bacillus_coagulans_fcys01_spores	DECREASES_MARKER	DOID:8577
 LLM:bacillus_coagulans_fcys01_spores	INCREASES_ABUNDANCE_OF	NCBITaxon:239934
 LLM:bacillus_coagulans_fcys01_spores_chitooligosaccharides	DECREASES_MARKER	DOID:8577
-LLM:bacillus_coagulans_mtcc5856	CONTAINS	LLM:polysaccharide-degrading_enzymes
 LLM:bacillus_coagulans_mtcc5856	DECREASES_MARKER	DOID:0050589
 LLM:bacillus_coagulans_mtcc5856	DECREASES_MARKER	DOID:8577
+LLM:bacillus_coagulans_mtcc5856	PRODUCES	LLM:polysaccharide-degrading_enzymes
 LLM:bacillus_coagulans_mtcc5856_with_sugar_cane_fibre	DECREASES_MARKER	DOID:0050589
 LLM:bacillus_coagulans_sank_70258	DECREASES_ABUNDANCE_OF	NCBITaxon:543
 LLM:bacillus_coagulans_sank_70258	INCREASES_ABUNDANCE_OF	NCBITaxon:186803
@@ -7942,7 +7940,6 @@ LLM:bacillus_subtilis-fermented_milk	DECREASES_MARKER	DOID:0050589
 LLM:bacillus_subtilis-fermented_milk	INCREASES_ABUNDANCE_OF	NCBITaxon:1409
 LLM:bacillus_subtilis-fermented_milk	INCREASES_ABUNDANCE_OF	NCBITaxon:1591
 LLM:bacillus_subtilis_bm107	PRODUCES	LLM:butyrate
-LLM:bacillus_thuringiensis_exopolysaccharide_bps-2	CONTAINS	LLM:antioxidant_compound
 LLM:bacillus_thuringiensis_exopolysaccharide_bps-2	DECREASES_MARKER	DOID:8577
 LLM:bacillus_thuringiensis_exopolysaccharide_bps-2	INCREASES_ABUNDANCE_OF	LLM:short-chain_fatty_acid-producing_bacteria
 LLM:bacillus_thuringiensis_exopolysaccharide_bps-2	INCREASES_ABUNDANCE_OF	NCBITaxon:1678
@@ -8178,8 +8175,8 @@ LLM:bifidobacterium_bifidum_fl-276_1	DECREASES_MARKER	DOID:8577
 LLM:bifidobacterium_bifidum_fl-276_1	PRODUCES	LLM:indole-3-lactic_acid
 LLM:bifidobacterium_bifidum_g9-1	DECREASES_MARKER	LLM:diarrhea-predominant_irritable_bowel_syndrome
 LLM:bifidobacterium_bifidum_g9-1	INCREASES_ABUNDANCE_OF	NCBITaxon:29523
-LLM:bifidobacterium_bifidum_h3-r2	CONTAINS	LLM:acetic_acid
 LLM:bifidobacterium_bifidum_h3-r2	DECREASES_MARKER	DOID:8577
+LLM:bifidobacterium_bifidum_h3-r2	PRODUCES	LLM:acetic_acid
 LLM:bifidobacterium_bifidum_m1-3	DECREASES_ABUNDANCE_OF	LLM:escherichia-shigella
 LLM:bifidobacterium_bifidum_m1-3	DECREASES_MARKER	DOID:8577
 LLM:bifidobacterium_bifidum_m1-3	INCREASES_ABUNDANCE_OF	LLM:muribaculaceae
@@ -8461,7 +8458,6 @@ LLM:capnocytophaga_gingivalis	INCREASED_IN	DOID:8778
 LLM:capsaicin	DECREASES_MARKER	DOID:8577
 LLM:capsaicin	INCREASES_ABUNDANCE_OF	LLM:ruminoclostridium_1
 LLM:carboxymethyl_cellulose	DECREASES_MARKER	LLM:short_chain_fatty_acid_levels
-LLM:carboxymethylated_beta-glucan	CONTAINS	LLM:short_chain_fatty_acid
 LLM:carboxymethylated_beta-glucan	INCREASES_ABUNDANCE_OF	LLM:escherichia_coli_nissle_1917
 LLM:carboxymethylcellulose	DECREASES_ABUNDANCE_OF	LLM:human_gut_microbiota
 LLM:carboxymethylcellulose	DECREASES_ABUNDANCE_OF	LLM:human_microbiota
@@ -8601,8 +8597,6 @@ LLM:christensenella_intestinihominis_af73-05cm02	INCREASES_ABUNDANCE_OF	NCBITaxo
 LLM:christensenellaceae_minuta	PRODUCES	LLM:propionic_acid
 LLM:christensenellaceae_minuta_probiotic	DECREASES_MARKER	DOID:8577
 LLM:christensenellaceae_r-7	DECREASED_IN	DOID:0050589
-LLM:chrysanthemum_morifolium_polysaccharide	CONTAINS	LLM:acetic_acid
-LLM:chrysanthemum_morifolium_polysaccharide	CONTAINS	LLM:butyric_acid
 LLM:chrysanthemum_morifolium_polysaccharide	DECREASES_ABUNDANCE_OF	NCBITaxon:35783
 LLM:chrysanthemum_morifolium_polysaccharide	DECREASES_ABUNDANCE_OF	NCBITaxon:561
 LLM:chrysanthemum_morifolium_polysaccharide	DECREASES_MARKER	DOID:8577
@@ -8672,8 +8666,8 @@ LLM:clostridium_butyricum-derived_antimicrobial_peptides	INCREASES_ABUNDANCE_OF	
 LLM:clostridium_butyricum_and_bifidobacterium_infantis	DECREASES_MARKER	DOID:8577
 LLM:clostridium_butyricum_and_bifidobacterium_infantis	INCREASES_ABUNDANCE_OF	LLM:clostridium_sensu_stricto
 LLM:clostridium_butyricum_and_chitooligosaccharides	DECREASES_MARKER	DOID:8577
-LLM:clostridium_butyricum_c1-6	CONTAINS	LLM:butyric_acid
 LLM:clostridium_butyricum_c1-6	DECREASES_MARKER	DOID:8577
+LLM:clostridium_butyricum_c1-6	PRODUCES	LLM:butyric_acid
 LLM:clostridium_butyricum_extracellular_vesicle	DECREASES_MARKER	DOID:8577
 LLM:clostridium_butyricum_extracellular_vesicles	DECREASES_ABUNDANCE_OF	NCBITaxon:562
 LLM:clostridium_butyricum_extracellular_vesicles	DECREASES_ABUNDANCE_OF	NCBITaxon:623
@@ -8839,7 +8833,6 @@ LLM:cranberry_extract	CONTAINS	LLM:procyanidin_b2
 LLM:cranberry_extract	DECREASES_ABUNDANCE_OF	NCBITaxon:1224
 LLM:cranberry_extract	DECREASES_MARKER	DOID:0050589
 LLM:cranberry_extract	INCREASES_ABUNDANCE_OF	NCBITaxon:1591
-LLM:cranberry_polyphenol	CONTAINS	LLM:5-_3_4_-dihydroxyphenyl_-gamma-valerolactone
 LLM:crass-like_phages	DECREASED_IN	DOID:0050589
 LLM:crataegus_pinnatifida_bunge_daehong	CONTAINS	LLM:epicatechin
 LLM:crataegus_pinnatifida_bunge_daehong	DECREASES_ABUNDANCE_OF	NCBITaxon:821
@@ -9218,9 +9211,9 @@ LLM:escherichia_coli_nissle_1917	PRODUCES	LLM:indole_lactic_acid
 LLM:escherichia_coli_nissle_1917_engineered_with_catalase_and_superoxide_dismutase	DECREASES_MARKER	DOID:0050589
 LLM:escherichia_coli_nissle_1917_engineered_with_catalase_and_superoxide_dismutase	INCREASES_ABUNDANCE_OF	LLM:lachnospiraceae_nk4a136
 LLM:escherichia_coli_nissle_1917_engineered_with_catalase_and_superoxide_dismutase	INCREASES_ABUNDANCE_OF	NCBITaxon:283168
-LLM:escherichia_coli_nissle_1917_expressing_elafin	CONTAINS	LLM:elafin
 LLM:escherichia_coli_nissle_1917_expressing_elafin	DECREASES_MARKER	DOID:8577
 LLM:escherichia_coli_nissle_1917_expressing_elafin	INCREASES_ABUNDANCE_OF	LLM:butyrate-producing_bacteria
+LLM:escherichia_coli_nissle_1917_expressing_elafin	PRODUCES	LLM:elafin
 LLM:escherichia_coli_nissle_1917_keratin_hydrogel	DECREASES_MARKER	DOID:8577
 LLM:escherichia_coli_nissle_1917_keratin_hydrogel	INCREASES_ABUNDANCE_OF	LLM:beneficial_microbiota
 LLM:escherichia_coli_nissle_1917_membrane_vesicles_with_roflumilast_and_mno2	DECREASES_ABUNDANCE_OF	LLM:escherichia-shigella
@@ -9279,7 +9272,6 @@ LLM:eurotium_cristatum-fermented_black_tea	DECREASES_MARKER	DOID:8577
 LLM:eurotium_cristatum_fermented_apple_pomace	DECREASES_MARKER	DOID:8577
 LLM:eurotium_cristatum_fermented_apple_pomace	INCREASES_ABUNDANCE_OF	NCBITaxon:1591
 LLM:eurotium_cristatum_fermented_apple_pomace	INCREASES_ABUNDANCE_OF	NCBITaxon:239934
-LLM:eurotium_cristatum_intracellular_polysaccharides	CONTAINS	LLM:short_chain_fatty_acid
 LLM:eurotium_cristatum_intracellular_polysaccharides	DECREASES_MARKER	DOID:8577
 LLM:eurotium_cristatum_polysaccharide	DECREASES_ABUNDANCE_OF	NCBITaxon:562
 LLM:eurotium_cristatum_polysaccharide	DECREASES_MARKER	DOID:8577
@@ -9542,7 +9534,6 @@ LLM:fusobacterium_gonidiaformans	INCREASED_IN	LLM:ulcerative_colitis_non-remissi
 LLM:fusobacterium_nucleatum_c2_animalis	INCREASED_IN	DOID:8778
 LLM:fusobacterium_nucleatum_c2_animalis	INCREASED_IN	LLM:colorectal_cancer
 LLM:fusobacterium_nucleatum_polymorphum	INCREASED_IN	DOID:8778
-LLM:fuzhuan_brick_tea_polysaccharide	CONTAINS	LLM:short_chain_fatty_acid
 LLM:fuzhuan_brick_tea_polysaccharide	DECREASES_ABUNDANCE_OF	LLM:escherichia_shigella
 LLM:fuzhuan_brick_tea_polysaccharide	DECREASES_MARKER	DOID:0050589
 LLM:fuzhuan_brick_tea_polysaccharide	DECREASES_MARKER	DOID:8577
@@ -9679,7 +9670,6 @@ LLM:gleditsia_sinensis_extract	DECREASES_ABUNDANCE_OF	NCBITaxon:1224
 LLM:gleditsia_sinensis_extract	DECREASES_MARKER	DOID:8577
 LLM:gleditsia_sinensis_extract	INCREASES_ABUNDANCE_OF	NCBITaxon:1239
 LLM:gleditsia_sinensis_extract	INCREASES_ABUNDANCE_OF	NCBITaxon:976
-LLM:glehnia_littoralis_polysaccharides	CONTAINS	LLM:tryptophan_metabolite
 LLM:glehnia_littoralis_polysaccharides	DECREASES_MARKER	DOID:8577
 LLM:glochidion_ellipticum_extract	DECREASES_MARKER	DOID:8577
 LLM:gloiopeltis_furcata_polysaccharide	DECREASES_MARKER	LLM:intestinal_mucosal_damage
@@ -10230,7 +10220,6 @@ LLM:kiwifruit_polyphenol_extract	DECREASES_ABUNDANCE_OF	NCBITaxon:1506
 LLM:kiwifruit_polyphenol_extract	DECREASES_MARKER	LLM:intestinal_barrier_damage
 LLM:kiwifruit_polyphenol_extract	INCREASES_ABUNDANCE_OF	NCBITaxon:1591
 LLM:kiwifruit_polyphenol_extract	INCREASES_ABUNDANCE_OF	NCBITaxon:1678
-LLM:kiwifruit_polysaccharide	CONTAINS	LLM:short_chain_fatty_acid
 LLM:kiwifruit_polysaccharide	DECREASES_MARKER	DOID:8577
 LLM:kiwifruit_polysaccharide	INCREASES_ABUNDANCE_OF	LLM:gut_microbiota
 LLM:klebsiella_oxytoca	INCREASED_IN	DOID:0050589
@@ -10708,8 +10697,8 @@ LLM:lactobacillus_reuteri_mrd01	DECREASES_MARKER	DOID:8577
 LLM:lactobacillus_reuteri_postbiotics	DECREASES_MARKER	DOID:0050589
 LLM:lactobacillus_rhamnosus	PRODUCES	LLM:exopolysaccharide
 LLM:lactobacillus_rhamnosus_01	DECREASES_MARKER	LLM:disease_activity_index
-LLM:lactobacillus_rhamnosus_1_0320	CONTAINS	LLM:carboxylic_acid
 LLM:lactobacillus_rhamnosus_1_0320	DECREASES_MARKER	DOID:8577
+LLM:lactobacillus_rhamnosus_1_0320	PRODUCES	LLM:carboxylic_acid
 LLM:lactobacillus_rhamnosus_1_0320_postbiotics	DECREASES_MARKER	DOID:8577
 LLM:lactobacillus_rhamnosus_1_0320_postbiotics	INCREASES_ABUNDANCE_OF	LLM:short-chain_fatty_acid_producing_bacteria
 LLM:lactobacillus_rhamnosus_and_l_plantarum_combination	DECREASES_ABUNDANCE_OF	LLM:escherichia-shigella
@@ -10785,7 +10774,6 @@ LLM:laminaria_japonica_fucoidan_low_molecular_weight	INCREASES_ABUNDANCE_OF	LLM:
 LLM:laminaria_japonica_fucoidan_medium_molecular_weight	DECREASES_ABUNDANCE_OF	LLM:parasutterella
 LLM:laminaria_japonica_fucoidan_medium_molecular_weight	INCREASES_ABUNDANCE_OF	LLM:acinetobacter_lwoffii
 LLM:laminaria_japonica_fucoidan_medium_molecular_weight	INCREASES_ABUNDANCE_OF	LLM:muribaculaceae
-LLM:laminaria_japonica_polysaccharide	CONTAINS	LLM:butyrate
 LLM:laminaria_japonica_polysaccharide	DECREASES_ABUNDANCE_OF	NCBITaxon:543
 LLM:laminaria_japonica_polysaccharide	DECREASES_MARKER	DOID:8577
 LLM:laminaria_japonica_polysaccharide	INCREASES_ABUNDANCE_OF	LLM:muribaculaceae
@@ -10802,10 +10790,10 @@ LLM:larimichthys_crocea_isinglass_polysaccharide	DECREASES_ABUNDANCE_OF	LLM:camp
 LLM:larimichthys_crocea_isinglass_polysaccharide	DECREASES_MARKER	DOID:8577
 LLM:larimichthys_crocea_isinglass_polysaccharide	INCREASES_MARKER	DOID:8577
 LLM:latilactobacillus_curvatus_dcf0620	DECREASES_MARKER	DOID:8577
-LLM:latilactobacillus_sakei_ccfm1267	CONTAINS	LLM:carbohydrate-active_enzymes
 LLM:latilactobacillus_sakei_ccfm1267	DECREASES_MARKER	LLM:colitis
 LLM:latilactobacillus_sakei_ccfm1267	INCREASES_ABUNDANCE_OF	NCBITaxon:580024
 LLM:latilactobacillus_sakei_ccfm1267	INCREASES_ABUNDANCE_OF	NCBITaxon:841
+LLM:latilactobacillus_sakei_ccfm1267	PRODUCES	LLM:carbohydrate-active_enzymes
 LLM:lautropia	INCREASED_IN	DOID:8778
 LLM:lavandula_dentata_extract	DECREASES_MARKER	LLM:colitis
 LLM:lavandula_stoechas_extract	DECREASES_MARKER	LLM:colitis
@@ -11383,8 +11371,6 @@ LLM:non-autoclaved_diet	INCREASES_ABUNDANCE_OF	LLM:bacillus_amyloliquefaciens
 LLM:non-autoclaved_diet	INCREASES_ABUNDANCE_OF	NCBITaxon:1409
 LLM:non-extractable_polyphenols-rich_fraction	DECREASES_MARKER	LLM:colitis
 LLM:non-extractable_polyphenols-rich_fraction	DECREASES_MARKER	LLM:short-chain_fatty_acid_deficiency_in_colitis
-LLM:noni_fruit_polysaccharides	CONTAINS	LLM:homogalacturonan
-LLM:noni_fruit_polysaccharides	CONTAINS	LLM:rhamnogalacturonan-i
 LLM:noni_fruit_polysaccharides	DECREASES_MARKER	DOID:0050589
 LLM:nordihydroguaiaretic_acid	DECREASES_MARKER	DOID:0050589
 LLM:nostoc_commune_polysaccharide	DECREASES_MARKER	DOID:8577
@@ -11420,7 +11406,6 @@ LLM:olaparib	INCREASES_ABUNDANCE_OF	LLM:lachnospiraceae_nk4a136
 LLM:oleuropein	CONTAINS	LLM:hyodeoxycholic_acid
 LLM:oleuropein	DECREASES_MARKER	DOID:8577
 LLM:oleuropein	INCREASES_ABUNDANCE_OF	NCBITaxon:1591
-LLM:oligofructose	HAS_HIGH_FODMAP_CONTENT_OF	CHEBI:24482
 LLM:oligofructose	INCREASES_MARKER	DOID:0050589
 LLM:oligofructose-enriched_inulin	DECREASES_MARKER	DOID:8577
 LLM:oligofructose-enriched_inulin	INCREASES_ABUNDANCE_OF	NCBITaxon:186803
@@ -11662,7 +11647,6 @@ LLM:pelargonidin-3-galactoside	INCREASES_ABUNDANCE_OF	NCBITaxon:976
 LLM:pentadecanoic_acid	DECREASES_MARKER	DOID:8577
 LLM:pentadecanoic_acid	DECREASES_MARKER	LLM:colitis
 LLM:pentadecanoic_acid	DECREASES_MARKER	LLM:ileitis
-LLM:peonidin-3-o-_3_6-o-dimalonyl-beta-d-glucoside	CONTAINS	LLM:anthocyanin
 LLM:peonidin-3-o-_3_6-o-dimalonyl-beta-d-glucoside	DECREASES_MARKER	LLM:colitis
 LLM:peonidin-3-o-_3_6-o-dimalonyl-beta-d-glucoside	INCREASES_ABUNDANCE_OF	LLM:lactobacillus_reuteri
 LLM:peonidin-3-o-_3_6-o-dimalonyl-beta-d-glucoside	INCREASES_ABUNDANCE_OF	NCBITaxon:239935
@@ -11696,7 +11680,6 @@ LLM:phascolarctobacterium_faecium	DECREASED_IN	DOID:8577
 LLM:phellinus_igniarius_polysaccharide	DECREASES_MARKER	DOID:0050589
 LLM:phellinus_igniarius_polysaccharide	INCREASES_ABUNDANCE_OF	NCBITaxon:1591
 LLM:phellinus_igniarius_polysaccharide	INCREASES_ABUNDANCE_OF	NCBITaxon:239934
-LLM:phellinus_linteus_acidic_polysaccharide	CONTAINS	LLM:polysaccharide
 LLM:phellinus_linteus_acidic_polysaccharide	DECREASES_MARKER	DOID:8577
 LLM:phellinus_linteus_polysaccharide	DECREASES_MARKER	DOID:8577
 LLM:phellodendri_chinensis_cortex	INCREASES_ABUNDANCE_OF	NCBITaxon:572511
@@ -11705,7 +11688,6 @@ LLM:phellodendri_chinensis_cortex_polysaccharide	DECREASES_ABUNDANCE_OF	NCBITaxo
 LLM:phellodendri_chinensis_cortex_polysaccharide	DECREASES_MARKER	DOID:8577
 LLM:phellodendri_chinensis_cortex_polysaccharide	INCREASES_ABUNDANCE_OF	NCBITaxon:1591
 LLM:phellodendri_chinensis_cortex_polysaccharide	INCREASES_ABUNDANCE_OF	NCBITaxon:1678
-LLM:phenolic_glycosides	CONTAINS	LLM:polydatin
 LLM:phillyrin	DECREASES_MARKER	DOID:8577
 LLM:phillyrin	INCREASES_ABUNDANCE_OF	NCBITaxon:186803
 LLM:phillyrin	INCREASES_ABUNDANCE_OF	NCBITaxon:33958
@@ -11796,7 +11778,6 @@ LLM:platycodon_grandiflorum_root_fermentation_broth	DECREASES_MARKER	DOID:8577
 LLM:pleurotus_eryngii	DECREASES_MARKER	DOID:8577
 LLM:pleurotus_eryngii	INCREASES_ABUNDANCE_OF	LLM:short_chain_fatty_acid_producing_bacteria
 LLM:pleurotus_eryngii_beta-glucan_wpep	DECREASES_MARKER	LLM:dextran_sodium_sulfate-induced_colitis
-LLM:poly-d-3-hydroxybutyric_acid	CONTAINS	LLM:3-hydroxybutyrate
 LLM:poly-d-3-hydroxybutyric_acid	DECREASES_MARKER	DOID:0050589
 LLM:polydatin	DECREASES_MARKER	DOID:8577
 LLM:polydextrose	DECREASES_MARKER	DOID:8577
@@ -12004,8 +11985,8 @@ LLM:prodigiosin	INCREASES_ABUNDANCE_OF	NCBITaxon:239934
 LLM:propionate	DECREASES_MARKER	DOID:8577
 LLM:propionibacterium	INCREASED_IN	DOID:8577
 LLM:propionibacterium_freudenreichii	PRODUCES	LLM:propionate
-LLM:propionibacterium_freudenreichii_b1	CONTAINS	LLM:propionic_acid
 LLM:propionibacterium_freudenreichii_b1	DECREASES_MARKER	DOID:8577
+LLM:propionibacterium_freudenreichii_b1	PRODUCES	LLM:propionic_acid
 LLM:propionic_acid	DECREASES_MARKER	DOID:8577
 LLM:propionic_acid	DECREASES_MARKER	DOID:8778
 LLM:propionylated_fructooligosaccharides	DECREASES_ABUNDANCE_OF	LLM:clostridium_sensu_stricto_1
@@ -12349,8 +12330,6 @@ LLM:saccharina_japonica_soluble_dietary_fiber	DECREASES_MARKER	DOID:8577
 LLM:saccharina_japonica_soluble_dietary_fiber	INCREASES_ABUNDANCE_OF	LLM:muribaculaceae
 LLM:saccharina_japonica_soluble_dietary_fiber	INCREASES_ABUNDANCE_OF	NCBITaxon:186803
 LLM:saccharomyces	INCREASED_IN	DOID:8577
-LLM:saccharomyces_boulardii	CONTAINS	LLM:polypeptide
-LLM:saccharomyces_boulardii	CONTAINS	LLM:polysaccharide
 LLM:saccharomyces_boulardii	DECREASES_ABUNDANCE_OF	LLM:pathogenic_bacteria
 LLM:saccharomyces_boulardii	DECREASES_MARKER	DOID:0050589
 LLM:saccharomyces_boulardii	DECREASES_MARKER	DOID:8577
@@ -12358,6 +12337,8 @@ LLM:saccharomyces_boulardii	DECREASES_MARKER	LLM:colitis
 LLM:saccharomyces_boulardii	INCREASES_ABUNDANCE_OF	LLM:probiotics
 LLM:saccharomyces_boulardii	INCREASES_ABUNDANCE_OF	NCBITaxon:1591
 LLM:saccharomyces_boulardii	INCREASES_ABUNDANCE_OF	NCBITaxon:1678
+LLM:saccharomyces_boulardii	PRODUCES	LLM:polypeptide
+LLM:saccharomyces_boulardii	PRODUCES	LLM:polysaccharide
 LLM:saccharomyces_boulardii_beta-glucan	DECREASES_MARKER	DOID:8577
 LLM:saccharomyces_boulardii_cell-free_supernatant	DECREASES_MARKER	DOID:8577
 LLM:saccharomyces_boulardii_cncm_i-745	DECREASES_MARKER	LLM:irritable_bowel_syndrome
@@ -12423,7 +12404,6 @@ LLM:sargassum_fusiforme_polysaccharide_fermented_with_lactobacillus_acidophilus	
 LLM:sargassum_fusiforme_polysaccharide_fermented_with_lactobacillus_acidophilus	INCREASES_ABUNDANCE_OF	NCBITaxon:1591
 LLM:sargassum_horneri_fucoidan	DECREASES_MARKER	DOID:8577
 LLM:sargassum_horneri_fucoidan	INCREASES_ABUNDANCE_OF	LLM:lactobacillus_plantarum
-LLM:sargassum_horneri_polysaccharide	CONTAINS	CHEBI:16189
 LLM:sargassum_horneri_polysaccharide	DECREASES_MARKER	LLM:colitis
 LLM:sargentodoxa_cuneata_aqueous_extract	DECREASES_MARKER	DOID:8577
 LLM:sargentodoxa_cuneata_aqueous_extract	INCREASES_ABUNDANCE_OF	LLM:megamonas
@@ -12492,7 +12472,6 @@ LLM:sea_buckthorn_berries_extract	DECREASES_MARKER	DOID:8577
 LLM:sea_buckthorn_berries_extract	INCREASES_ABUNDANCE_OF	LLM:faecalibaculum_rodentium
 LLM:sea_buckthorn_fermented_milk_with_lactiplantibacillus_plantarum_yhg-87	DECREASES_MARKER	DOID:8577
 LLM:sea_buckthorn_fermented_milk_with_lactiplantibacillus_plantarum_yhg-87	INCREASES_MARKER	DOID:8577
-LLM:sea_buckthorn_pericarp_polysaccharide	CONTAINS	LLM:polysaccharide
 LLM:sea_buckthorn_pericarp_polysaccharide	DECREASES_MARKER	DOID:8577
 LLM:sea_buckthorn_polysaccharide	DECREASES_MARKER	DOID:8577
 LLM:sea_buckthorn_polysaccharide	INCREASES_ABUNDANCE_OF	LLM:scfa-producing_bacteria
@@ -12647,7 +12626,6 @@ LLM:smilax_china_polysaccharide	DECREASES_MARKER	DOID:8577
 LLM:smilax_china_polysaccharide	INCREASES_ABUNDANCE_OF	LLM:muribaculaceae
 LLM:smilax_china_polysaccharide	INCREASES_ABUNDANCE_OF	NCBITaxon:186803
 LLM:sodium-butyrate	DECREASES_MARKER	DOID:8577
-LLM:sodium_butyrate	CONTAINS	LLM:butyrate
 LLM:sodium_butyrate	DECREASES_ABUNDANCE_OF	LLM:prevotellaceae
 LLM:sodium_butyrate	DECREASES_ABUNDANCE_OF	NCBITaxon:976
 LLM:sodium_butyrate	DECREASES_MARKER	DOID:0050589
@@ -12739,7 +12717,6 @@ LLM:spirulina_platensis_aqueous_extract	INCREASES_MARKER	DOID:8577
 LLM:splenda	INCREASES_ABUNDANCE_OF	NCBITaxon:1224
 LLM:splenda	INCREASES_ABUNDANCE_OF	NCBITaxon:562
 LLM:splenda	INCREASES_MARKER	DOID:8778
-LLM:sporisorium_reilianum_polysaccharides	CONTAINS	LLM:butyric_acid
 LLM:sporisorium_reilianum_polysaccharides	DECREASES_MARKER	DOID:8577
 LLM:squid-derived_chondroitin_sulfate	DECREASES_ABUNDANCE_OF	LLM:sutterellaceae
 LLM:squid-derived_chondroitin_sulfate	DECREASES_ABUNDANCE_OF	NCBITaxon:35783
@@ -12773,7 +12750,6 @@ LLM:streptococcus_gordonii	INCREASED_IN	LLM:perianal_fistulizing_crohn_s_disease
 LLM:streptococcus_oralis	INCREASED_IN	DOID:0050589
 LLM:streptococcus_thermophilus	DECREASED_IN	DOID:0050589
 LLM:streptococcus_thermophilus	PRODUCES	LLM:lactate
-LLM:sturgeon-derived_peptide_llle	CONTAINS	LLM:indole-3-propionic_acid
 LLM:sturgeon-derived_peptide_llle	DECREASES_ABUNDANCE_OF	NCBITaxon:976
 LLM:sturgeon-derived_peptide_llle	DECREASES_MARKER	DOID:8577
 LLM:sturgeon_hydrolysate	DECREASES_ABUNDANCE_OF	NCBITaxon:128827
@@ -12921,7 +12897,6 @@ LLM:tetrastigma_hemsleyanum_leaf_extract	INCREASES_ABUNDANCE_OF	LLM:oscillospira
 LLM:tetrastigma_hemsleyanum_leaf_extract	INCREASES_ABUNDANCE_OF	LLM:prevotellaceae
 LLM:tetrastigma_hemsleyanum_polysaccharide	DECREASES_MARKER	DOID:0050589
 LLM:tetrastigma_hemsleyanum_polysaccharide	INCREASES_ABUNDANCE_OF	LLM:butyrate-producing_bacteria
-LLM:tetrastigma_hemsleyanum_polysaccharides	CONTAINS	LLM:short_chain_fatty_acid
 LLM:tetrastigma_hemsleyanum_polysaccharides	DECREASES_MARKER	DOID:0050589
 LLM:tgf-beta2_enriched_food_for_special_medical_purposes	DECREASES_MARKER	LLM:acute_graft-versus-host_disease
 LLM:tgf-beta2_enriched_food_for_special_medical_purposes	DECREASES_MARKER	LLM:gastrointestinal_acute_graft-versus-host_disease
@@ -13346,7 +13321,6 @@ LLM:zingiber_officinale-panax_ginseng_herb_pair	DECREASES_ABUNDANCE_OF	NCBITaxon
 LLM:zingiber_officinale-panax_ginseng_herb_pair	DECREASES_ABUNDANCE_OF	NCBITaxon:885
 LLM:zingiber_officinale-panax_ginseng_herb_pair	DECREASES_MARKER	DOID:8577
 LLM:zingiber_officinale-panax_ginseng_herb_pair	INCREASES_ABUNDANCE_OF	NCBITaxon:239934
-LLM:zingiber_officinale_polysaccharide	CONTAINS	LLM:short_chain_fatty_acid
 LLM:zingiber_officinale_polysaccharide	DECREASES_MARKER	DOID:8577
 LLM:ziziphus_jujuba_polyphenol_extract	DECREASES_ABUNDANCE_OF	NCBITaxon:1224
 LLM:ziziphus_jujuba_polyphenol_extract	DECREASES_MARKER	DOID:8577
