@@ -19,7 +19,7 @@ from neo4j import GraphDatabase
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 load_dotenv(PROJECT_ROOT / ".env")
 
-VERSION = "1.0.0"
+VERSION = "1.1.0"
 RELEASE_ROOT = PROJECT_ROOT / "release"
 BUNDLE = RELEASE_ROOT / f"dietibdkg-v{VERSION}"
 TRIPLES_SRC = PROJECT_ROOT / "data" / "processed" / "embeddings" / "kg_triples.tsv"
@@ -192,7 +192,7 @@ text from the source abstract).
 
 Knowledge-graph embeddings were trained with PyKEEN. Three models were
 evaluated by link prediction (TransE, DistMult, RotatE); RotatE performed
-best (MRR 0.495, Hits@10 0.642). RotatE uses 256-dimensional complex
+best (MRR 0.494, Hits@10 0.633). RotatE uses 256-dimensional complex
 embeddings; the released vectors concatenate real and imaginary parts into
 {dim}-dimensional real vectors.
 

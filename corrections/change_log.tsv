@@ -1,0 +1,746 @@
+id	label	old_type	new_type
+LLM:-_-epigallocatechin-3-gallate	(-)-Epigallocatechin-3-gallate	Food	Bioactive
+LLM:r_-salbutamol	(R)-salbutamol	Food	Bioactive
+LLM:1_2_3_4-tetrahydrogen-beta-carboline-3-carboxylic_acid	1,2,3,4-tetrahydrogen-β-carboline-3-carboxylic acid	Food	Bioactive
+LLM:1_3-dioleoyl-2-palmitoylglycerol	1,3-dioleoyl-2-palmitoylglycerol	Food	Bioactive
+LLM:1-kestose	1-kestose	Food	Bioactive
+LLM:13_-carboxychromanol	13'-carboxychromanol	Food	Bioactive
+LLM:2_-fl	2'-FL	Food	Bioactive
+LLM:2_-fucosyllactose	2'-fucosyllactose	Food	Bioactive
+LLM:2_fucosyllactose	2'fucosyllactose	Food	Bioactive
+LLM:2_3_5_4_-tetrahydroxystilbene-2-o-beta-d-glucoside	2,3,5,4'-tetrahydroxystilbene-2-O-β-D-glucoside	Food	Bioactive
+LLM:2-o-beta-d-glucopyranosyl-l-ascorbic_acid	2-O-β-d-glucopyranosyl-l-ascorbic acid	Food	Bioactive
+LLM:2-ketoglutaric_acid	2-ketoglutaric acid	Food	Bioactive
+LLM:3_-sialyllactose	3'-sialyllactose	Food	Bioactive
+LLM:3_sialyllactose	3'sialyllactose	Food	Bioactive
+LLM:3_3_-diindolylmethane	3,3'-Diindolylmethane	Food	Bioactive
+LLM:3_3-diindolylmethane	3,3-Diindolylmethane	Food	Bioactive
+LLM:3-_4-hydroxyphenyl_-propionic_acid	3-(4-hydroxyphenyl)-propionic acid	Food	Bioactive
+LLM:3-indoleglyoxylic_acid	3-Indoleglyoxylic acid	Food	Bioactive
+LLM:3-deoxyflavonoid	3-deoxyflavonoid	Food	Bioactive
+LLM:3-hydroxyflavonoid	3-hydroxyflavonoid	Food	Bioactive
+LLM:5-aminosalicylic_acid	5-aminosalicylic acid	Food	Bioactive
+LLM:5-hydroxyindoleacetic_acid	5-hydroxyindoleacetic acid	Food	Bioactive
+LLM:6-paradol	6-paradol	Food	Bioactive
+LLM:6-shogaol	6-shogaol	Food	Bioactive
+LLM:7_8-dihydroxyflavone	7,8-Dihydroxyflavone	Food	Bioactive
+LLM:7-ketositosterol	7-ketositosterol	Food	Bioactive
+LLM:abelmoschi_corolla_polysaccharide	Abelmoschi Corolla polysaccharide	Food	Bioactive
+LLM:aconitum_carmichaelii_leaf_polysaccharide	Aconitum carmichaelii leaf polysaccharide	Food	Bioactive
+LLM:agaricus_bisporus_polysaccharide	Agaricus bisporus polysaccharide	Food	Bioactive
+LLM:agrocybe_cylindracea_polysaccharide	Agrocybe cylindracea polysaccharide	Food	Bioactive
+LLM:akebia_saponin_d	Akebia saponin D	Food	Bioactive
+LLM:akkermansia_muciniphila_one	Akkermansia muciniphila ONE	Food	Microbe
+LLM:akkermansia_muciniphila_extracellular_vesicles	Akkermansia muciniphila extracellular vesicles	Food	Bioactive
+LLM:akkermansia_muciniphila_fermented_metabolites	Akkermansia muciniphila fermented metabolites	Food	Bioactive
+LLM:albuca_bracteata_polysaccharide	Albuca bracteata polysaccharide	Food	Bioactive
+LLM:alfalfa_polysaccharide	Alfalfa polysaccharide	Food	Bioactive
+LLM:alhagi_honey_polysaccharide	Alhagi honey polysaccharide	Food	Bioactive
+LLM:allium_macrostemon_polysaccharide	Allium macrostemon polysaccharide	Food	Bioactive
+LLM:allium_tenuissimum_polysaccharide	Allium tenuissimum polysaccharide	Food	Bioactive
+LLM:amomum_tsaoko_flavonoids	Amomum tsaoko flavonoids	Food	Bioactive
+LLM:angelica_sinensis_polysaccharide_nanoparticles	Angelica sinensis polysaccharide nanoparticles	Food	Bioactive
+LLM:areca_catechu_polysaccharide	Areca catechu polysaccharide	Food	Bioactive
+LLM:arjunolic_acid	Arjunolic acid	Food	Bioactive
+LLM:artemisia_argyi_polyphenols	Artemisia argyi polyphenols	Food	Bioactive
+LLM:arthrospira_platensis_peptide_p1	Arthrospira platensis peptide P1	Food	Bioactive
+LLM:asiatic_acid	Asiatic acid	Food	Bioactive
+LLM:asimina_triloba_polysaccharide	Asimina triloba polysaccharide	Food	Bioactive
+LLM:aspergillus_cristatus_intracellular_polysaccharides	Aspergillus cristatus intracellular polysaccharides	Food	Bioactive
+LLM:aspergillus_oryzae_spores	Aspergillus oryzae spores	Food	Microbe
+LLM:astragalus_membranaceus_polysaccharide	Astragalus membranaceus polysaccharide	Food	Bioactive
+LLM:astragalus_polysaccharide	Astragalus polysaccharide	Food	Bioactive
+LLM:astragalus_polysaccharide_aps1	Astragalus polysaccharide APS1	Food	Bioactive
+LLM:atractylodes_chinensis_polysaccharide	Atractylodes chinensis polysaccharide	Food	Bioactive
+LLM:atractylodes_macrocephala_koidz_polysaccharide	Atractylodes macrocephala Koidz polysaccharide	Food	Bioactive
+LLM:atractylodes_macrocephala_polysaccharide	Atractylodes macrocephala polysaccharide	Food	Bioactive
+LLM:atractylodis_macrocephala_polysaccharide	Atractylodis Macrocephala polysaccharide	Food	Bioactive
+LLM:aurantii_fructus_immaturus_flavonoid_extract	Aurantii Fructus immaturus flavonoid extract	Food	Bioactive
+LLM:auricularia_auricula_exopolysaccharide	Auricularia auricula exopolysaccharide	Food	Bioactive
+LLM:auricularia_auricula_polysaccharide	Auricularia auricula polysaccharide	Food	Bioactive
+LLM:bacillus_clausii_ubbc-07	Bacillus clausii UBBC-07	Food	Microbe
+LLM:bacillus_coagulans_bc198	Bacillus coagulans BC198	Food	Microbe
+LLM:bacillus_coagulans_fcys01_spores	Bacillus coagulans FCYS01 spores	Food	Microbe
+LLM:bacillus_coagulans_mtcc5856	Bacillus coagulans MTCC5856	Food	Microbe
+LLM:bacillus_coagulans_sank_70258	Bacillus coagulans SANK 70258	Food	Microbe
+LLM:bacillus_licheniformis_bl-01	Bacillus licheniformis BL-01	Food	Microbe
+LLM:bacillus_licheniformis_mcc2514	Bacillus licheniformis MCC2514	Food	Microbe
+LLM:bacillus_thuringiensis_exopolysaccharide_bps-2	Bacillus thuringiensis exopolysaccharide BPS-2	Food	Bioactive
+LLM:bacillus_velezensis_mz09	Bacillus velezensis MZ09	Food	Microbe
+LLM:bacteroides_dorei_bdx-01	Bacteroides dorei BDX-01	Food	Microbe
+LLM:bacteroides_fragilis_capsular_polysaccharide_tp2	Bacteroides fragilis capsular polysaccharide TP2	Food	Bioactive
+LLM:bacteroides_fragilis_outer_membrane_vesicles	Bacteroides fragilis outer membrane vesicles	Food	Bioactive
+LLM:bacteroides_fragilis_strain_zy-312	Bacteroides fragilis strain ZY-312	Food	Microbe
+LLM:bacteroides_fragilis_vesicles	Bacteroides fragilis vesicles	Food	Bioactive
+LLM:bacteroides_salyersiae	Bacteroides salyersiae	Food	Microbe
+LLM:bacteroides_uniformis_f18-22	Bacteroides uniformis F18-22	Food	Microbe
+LLM:bacteroides_uniformis_capsular_polysaccharide	Bacteroides uniformis capsular polysaccharide	Food	Bioactive
+LLM:baicalin_and_berberine_hydrochloride	Baicalin and berberine hydrochloride	Food	Bioactive
+LLM:bifidobacterium_animalis_a6	Bifidobacterium animalis A6	Food	Microbe
+LLM:bifidobacterium_animalis_ssp_lactis_bx-245_powder	Bifidobacterium animalis ssp. lactis BX-245 powder	Food	Microbe
+LLM:bifidobacterium_animalis_subsp_lactis	Bifidobacterium animalis subsp. lactis	Food	Microbe
+LLM:bifidobacterium_animalis_subsp_lactis_bl-99	Bifidobacterium animalis subsp. lactis BL-99	Food	Microbe
+LLM:bifidobacterium_animalis_subsp_lactis_bla80	Bifidobacterium animalis subsp. lactis BLa80	Food	Microbe
+LLM:bifidobacterium_animalis_subsp_lactis_lkm512	Bifidobacterium animalis subsp. lactis LKM512	Food	Microbe
+LLM:bifidobacterium_animalis_subsp_lactis_nj241	Bifidobacterium animalis subsp. lactis NJ241	Food	Microbe
+LLM:bifidobacterium_animalis_subsp_lactis_xltg11	Bifidobacterium animalis subsp. lactis XLTG11	Food	Microbe
+LLM:bifidobacterium_bifidum_atcc_29521	Bifidobacterium bifidum ATCC 29521	Food	Microbe
+LLM:bifidobacterium_bifidum_bd-1	Bifidobacterium bifidum BD-1	Food	Microbe
+LLM:bifidobacterium_bifidum_bgn4-sk	Bifidobacterium bifidum BGN4-SK	Food	Microbe
+LLM:bifidobacterium_bifidum_fjswx19m5	Bifidobacterium bifidum FJSWX19M5	Food	Microbe
+LLM:bifidobacterium_bifidum_g9-1	Bifidobacterium bifidum G9-1	Food	Microbe
+LLM:bifidobacterium_bifidum_h3-r2	Bifidobacterium bifidum H3-R2	Food	Microbe
+LLM:bifidobacterium_bifidum_m1-3	Bifidobacterium bifidum M1-3	Food	Microbe
+LLM:bifidobacterium_bifidum_mimbb75	Bifidobacterium bifidum MIMBb75	Food	Microbe
+LLM:bifidobacterium_bifidum_tmc3115	Bifidobacterium bifidum TMC3115	Food	Microbe
+LLM:bifidobacterium_bifidum_wbin03	Bifidobacterium bifidum WBIN03	Food	Microbe
+LLM:bifidobacterium_breve_b2798	Bifidobacterium breve B2798	Food	Microbe
+LLM:bifidobacterium_breve_ncim5671	Bifidobacterium breve NCIM5671	Food	Microbe
+LLM:bifidobacterium_breve_shmb_8001	Bifidobacterium breve SHMB 8001	Food	Microbe
+LLM:bifidobacterium_lactis	Bifidobacterium lactis	Food	Microbe
+LLM:bifidobacterium_lactis_bl-99	Bifidobacterium lactis BL-99	Food	Microbe
+LLM:bifidobacterium_lactis_v9	Bifidobacterium lactis V9	Food	Microbe
+LLM:bifidobacterium_longum_51a	Bifidobacterium longum 51A	Food	Microbe
+LLM:bifidobacterium_longum_baa2573	Bifidobacterium longum BAA2573	Food	Microbe
+LLM:bifidobacterium_longum_bb536	Bifidobacterium longum BB536	Food	Microbe
+LLM:bifidobacterium_longum_bl986	Bifidobacterium longum BL986	Food	Microbe
+LLM:bifidobacterium_longum_cba7106	Bifidobacterium longum CBA7106	Food	Microbe
+LLM:bifidobacterium_longum_cect_7894	Bifidobacterium longum CECT 7894	Food	Microbe
+LLM:bifidobacterium_longum_nsp001-derived_extracellular_vesicles	Bifidobacterium longum NSP001-derived extracellular vesicles	Food	Bioactive
+LLM:bifidobacterium_longum_olp-01	Bifidobacterium longum OLP-01	Food	Microbe
+LLM:bifidobacterium_longum_selenium-enriched_mutant	Bifidobacterium longum selenium-enriched mutant	Food	Microbe
+LLM:bifidobacterium_longum_subsp_infantis	Bifidobacterium longum subsp. infantis	Food	Microbe
+LLM:bifidobacterium_longum_subsp_longum_ys108r_exopolysaccharide	Bifidobacterium longum subsp. longum YS108R exopolysaccharide	Food	Bioactive
+LLM:bifidobacterium_longum-endostatin	Bifidobacterium longum-Endostatin	Food	Microbe
+LLM:bifidobacterium_pseudocatenulatum_bi-ota128	Bifidobacterium pseudocatenulatum Bi-OTA128	Food	Microbe
+LLM:bifidobacterium_spp	Bifidobacterium spp.	Food	Microbe
+LLM:bilobalide	Bilobalide	Food	Bioactive
+LLM:bletilla_striata_polysaccharide	Bletilla striata polysaccharide	Food	Bioactive
+LLM:boletus_aereus_polysaccharide	Boletus aereus polysaccharide	Food	Bioactive
+LLM:candida_utilis	Candida utilis	Food	Microbe
+LLM:chinese_olive_polyphenols	Chinese olive polyphenols	Food	Bioactive
+LLM:chinese_yam_polysaccharide	Chinese yam polysaccharide	Food	Bioactive
+LLM:chinese_yam_polysaccharide_cyp-1	Chinese yam polysaccharide CYP-1	Food	Bioactive
+LLM:christensenella_intestinihominis_af73-05cm02	Christensenella intestinihominis AF73-05CM02	Food	Microbe
+LLM:christensenellaceae_minuta_probiotic	Christensenellaceae minuta probiotic	Food	Microbe
+LLM:chrysanthemum_morifolium_polysaccharide	Chrysanthemum morifolium polysaccharide	Food	Bioactive
+LLM:cili_polyphenols	CiLi polyphenols	Food	Bioactive
+LLM:cistanche_deserticola_polysaccharide	Cistanche deserticola polysaccharide	Food	Bioactive
+LLM:cistanche_tubulosa_polysaccharide	Cistanche tubulosa polysaccharide	Food	Bioactive
+LLM:clostridium_butyricum_c1-6	Clostridium butyricum C1-6	Food	Microbe
+LLM:clostridium_butyricum_gkb7	Clostridium butyricum GKB7	Food	Microbe
+LLM:clostridium_butyricum_miyairi588	Clostridium butyricum Miyairi588	Food	Microbe
+LLM:clostridium_butyricum_extracellular_vesicle	Clostridium butyricum extracellular vesicle	Food	Bioactive
+LLM:clostridium_butyricum_extracellular_vesicles	Clostridium butyricum extracellular vesicles	Food	Bioactive
+LLM:clostridium_butyricum_fermented_metabolites	Clostridium butyricum fermented metabolites	Food	Bioactive
+LLM:clostridium_butyricum-derived_antimicrobial_peptides	Clostridium butyricum-derived antimicrobial peptides	Food	Bioactive
+LLM:codonopsis_pilosula_polysaccharide	Codonopsis pilosula polysaccharide	Food	Bioactive
+LLM:coix_seed_polysaccharide	Coix seed polysaccharide	Food	Bioactive
+LLM:companilactobacillus_crustorum_mn047	Companilactobacillus crustorum MN047	Food	Microbe
+LLM:coptis_chinensis_polysaccharide	Coptis chinensis polysaccharide	Food	Bioactive
+LLM:coptis_chinensis_polysaccharide_and_berberine_combination	Coptis chinensis polysaccharide and berberine combination	Food	Bioactive
+LLM:coptis_chinensis_total_alkaloids	Coptis chinensis total alkaloids	Food	Bioactive
+LLM:cordyceps_cicadae_polysaccharide	Cordyceps cicadae polysaccharide	Food	Bioactive
+LLM:cordyceps_cicadae_polysaccharides	Cordyceps cicadae polysaccharides	Food	Bioactive
+LLM:cordyceps_militaris_peptides_and_polysaccharides	Cordyceps militaris peptides and polysaccharides	Food	Bioactive
+LLM:cordyceps_sinensis_polysaccharides	Cordyceps sinensis polysaccharides	Food	Bioactive
+LLM:corydalis_saxicola_total_alkaloids	Corydalis saxicola total alkaloids	Food	Bioactive
+LLM:cramp_peptide	Cramp peptide	Food	Bioactive
+LLM:crataegus_pinnatifida_polysaccharide	Crataegus pinnatifida polysaccharide	Food	Bioactive
+LLM:cyclocarya_paliurus_polysaccharide	Cyclocarya paliurus polysaccharide	Food	Bioactive
+LLM:d-allulose	D-allulose	Food	Bioactive
+LLM:d-tagatose	D-tagatose	Food	Bioactive
+LLM:dgps-2b_arabinoxylan	DGPS-2B arabinoxylan	Food	Bioactive
+LLM:dha-enriched_triglyceride	DHA-enriched triglyceride	Food	Bioactive
+LLM:dehydroandrographolide_succinate	Dehydroandrographolide succinate	Food	Bioactive
+LLM:dendrobium_fimbriatum_polysaccharide	Dendrobium fimbriatum polysaccharide	Food	Bioactive
+LLM:dendrobium_huoshanense_polysaccharide	Dendrobium huoshanense polysaccharide	Food	Bioactive
+LLM:dendrobium_huoshanense_stem_polysaccharide	Dendrobium huoshanense stem polysaccharide	Food	Bioactive
+LLM:dendrobium_officinale_polysaccharide	Dendrobium officinale polysaccharide	Food	Bioactive
+LLM:dictyophora_indusiata_polysaccharide	Dictyophora indusiata polysaccharide	Food	Bioactive
+LLM:dioscorea_alata_anthocyanin	Dioscorea alata anthocyanin	Food	Bioactive
+LLM:dioscorea_opposita_bulbil_polysaccharides	Dioscorea opposita bulbil polysaccharides	Food	Bioactive
+LLM:diospyros_lotus_polysaccharide	Diospyros lotus polysaccharide	Food	Bioactive
+LLM:echinacea_purpurea_polysaccharide	Echinacea purpurea polysaccharide	Food	Bioactive
+LLM:enterobacteriaceae_coli_ecn_1917	Enterobacteriaceae coli ECN 1917	Food	Microbe
+LLM:enteromorpha_clathrata_polysaccharide	Enteromorpha clathrata polysaccharide	Food	Bioactive
+LLM:escherichia_coli_nissle_1917_engineered_with_catalase_and_superoxide_dismutase	Escherichia coli Nissle 1917 engineered with catalase and superoxide dismutase	Food	Microbe
+LLM:escherichia_coli_nissle_1917_expressing_elafin	Escherichia coli Nissle 1917 expressing Elafin	Food	Microbe
+LLM:escherichia_coli_nissle_1917_membrane_vesicles_with_roflumilast_and_mno2	Escherichia coli Nissle 1917 membrane vesicles with roflumilast and MnO2	Food	Bioactive
+LLM:escherichia_coli_nissle_1917_probiotic_expressing_sj16	Escherichia coli Nissle 1917 probiotic expressing Sj16	Food	Microbe
+LLM:escherichia_coli_nissle_1917_tyrosinase_overexpressing_strain_ecn-t	Escherichia coli Nissle 1917 tyrosinase overexpressing strain (EcN-T)	Food	Microbe
+LLM:escherichia_coli_nissle_1917_with_vitreoscilla_hemoglobin	Escherichia coli Nissle 1917 with Vitreoscilla hemoglobin	Food	Microbe
+LLM:eucommia_polysaccharides	Eucommia polysaccharides	Food	Bioactive
+LLM:eucommia_ulmoides_polysaccharide_nano-selenium	Eucommia ulmoides polysaccharide nano-selenium	Food	Bioactive
+LLM:euglena_gracilis_beta-1_3-glucan	Euglena gracilis β-1,3-glucan	Food	Bioactive
+LLM:euphorbia_humifusa_polysaccharide	Euphorbia humifusa polysaccharide	Food	Bioactive
+LLM:eurotium_cristatum_intracellular_polysaccharides	Eurotium cristatum intracellular polysaccharides	Food	Bioactive
+LLM:eurotium_cristatum_polysaccharide	Eurotium cristatum polysaccharide	Food	Bioactive
+LLM:faecalibacterium_longum_cm04-06	Faecalibacterium longum CM04-06	Food	Microbe
+LLM:faecalibacterium_prausnitzii_mam	Faecalibacterium prausnitzii MAM	Food	Bioactive
+LLM:faecalibacterium_prausnitzii_extracellular_vesicles	Faecalibacterium prausnitzii extracellular vesicles	Food	Bioactive
+LLM:farrerol	Farrerol	Food	Bioactive
+LLM:ficus_carica_polysaccharide	Ficus carica polysaccharide	Food	Bioactive
+LLM:flammuliana_velutipes_polysaccharide	Flammuliana velutipes polysaccharide	Food	Bioactive
+LLM:flammulina_velutipes_polysaccharide	Flammulina velutipes polysaccharide	Food	Bioactive
+LLM:forsythia_suspensa_polyphenols	Forsythia suspensa polyphenols	Food	Bioactive
+LLM:fructo-oligosaccharide	Fructo-oligosaccharide	Food	Bioactive
+LLM:fu_brick_tea_polysaccharide	Fu brick tea polysaccharide	Food	Bioactive
+LLM:fuzhuan_brick_tea_polysaccharide	Fuzhuan brick tea polysaccharide	Food	Bioactive
+LLM:gfgfggf_peptide	GFGFGGF peptide	Food	Bioactive
+LLM:glp-1_receptor_agonist	GLP-1 receptor agonist	Food	Bioactive
+LLM:gw0742	GW0742	Food	Bioactive
+LLM:ganoderma_applanatum_polysaccharide	Ganoderma applanatum polysaccharide	Food	Bioactive
+LLM:ganoderma_lucidum_polysaccharide	Ganoderma lucidum polysaccharide	Food	Bioactive
+LLM:gastrodia_elata_polysaccharide	Gastrodia elata polysaccharide	Food	Bioactive
+LLM:gentiopicroside	Gentiopicroside	Food	Bioactive
+LLM:glehnia_littoralis_polysaccharides	Glehnia littoralis polysaccharides	Food	Bioactive
+LLM:gloiopeltis_furcata_polysaccharide	Gloiopeltis furcata polysaccharide	Food	Bioactive
+LLM:glycomacropeptide	Glycomacropeptide	Food	Bioactive
+LLM:gracilaria_lemaneiformis_polysaccharide	Gracilaria lemaneiformis polysaccharide	Food	Bioactive
+LLM:grifola_frondosa_antioxidant_peptides	Grifola frondosa antioxidant peptides	Food	Bioactive
+LLM:hansfordia_sinuosae_polysaccharide	Hansfordia sinuosae polysaccharide	Food	Bioactive
+LLM:hericium_erinaceus_mycelium-derived_polysaccharide	Hericium erinaceus mycelium-derived polysaccharide	Food	Bioactive
+LLM:hericium_erinaceus_polysaccharide	Hericium erinaceus polysaccharide	Food	Bioactive
+LLM:hericium_erinaceus_beta-glucan_extract	Hericium erinaceus β-glucan extract	Food	Bioactive
+LLM:hizikia_fusiforme_polysaccharides	Hizikia fusiforme polysaccharides	Food	Bioactive
+LLM:holothuria_leucospilota_polysaccharide	Holothuria leucospilota polysaccharide	Food	Bioactive
+LLM:hongmeiren_citrus_polysaccharide	Hongmeiren citrus polysaccharide	Food	Bioactive
+LLM:houttuynia_cordata_polysaccharides	Houttuynia cordata polysaccharides	Food	Bioactive
+LLM:huangshan_floral_mushroom_polysaccharide	Huangshan floral mushroom polysaccharide	Food	Bioactive
+LLM:humic_acids	Humic acids	Food	Bioactive
+LLM:hyaluronic_acid-melatonin_nanoparticles	Hyaluronic acid-melatonin nanoparticles	Food	Bioactive
+LLM:hypecoum_leptocarpum_polysaccharide	Hypecoum leptocarpum polysaccharide	Food	Bioactive
+LLM:iqw_peptide	IQW peptide	Food	Bioactive
+LLM:irw_peptide	IRW peptide	Food	Bioactive
+LLM:ilicifolius_acid_a	Ilicifolius acid A	Food	Bioactive
+LLM:inonotus_obliquus_polysaccharide	Inonotus obliquus polysaccharide	Food	Bioactive
+LLM:ishige_okamurae_polysaccharide	Ishige Okamurae polysaccharide	Food	Bioactive
+LLM:isorhamnetin-3-o-glucoside	Isorhamnetin-3-O-glucoside	Food	Bioactive
+LLM:l-fucose	L-fucose	Food	Bioactive
+LLM:lacticaseibacillus_paracasei_bncc345679	Lacticaseibacillus paracasei BNCC345679	Food	Microbe
+LLM:lacticaseibacillus_paracasei_hy2782	Lacticaseibacillus paracasei HY2782	Food	Microbe
+LLM:lacticaseibacillus_paracasei_jy062_postbiotic	Lacticaseibacillus paracasei JY062 postbiotic	Food	Bioactive
+LLM:lacticaseibacillus_rhamnosus_lra05	Lacticaseibacillus rhamnosus LRa05	Food	Microbe
+LLM:lacticaseibacillus_rhamnosus_ms27	Lacticaseibacillus rhamnosus MS27	Food	Microbe
+LLM:lacticaseibacillus_rhamnosus_probio-m9	Lacticaseibacillus rhamnosus Probio-M9	Food	Microbe
+LLM:lactiplantibacillus_lr-1_biofilm	Lactiplantibacillus LR-1 biofilm	Food	Microbe
+LLM:lactiplantibacillus_plantarum_as21	Lactiplantibacillus plantarum AS21	Food	Microbe
+LLM:lactiplantibacillus_plantarum_bd7807	Lactiplantibacillus plantarum BD7807	Food	Microbe
+LLM:lactiplantibacillus_plantarum_bw2013	Lactiplantibacillus plantarum BW2013	Food	Microbe
+LLM:lactiplantibacillus_plantarum_cgmcc9513	Lactiplantibacillus plantarum CGMCC9513	Food	Microbe
+LLM:lactiplantibacillus_plantarum_fbt215	Lactiplantibacillus plantarum FBT215	Food	Microbe
+LLM:lactiplantibacillus_plantarum_hy7718	Lactiplantibacillus plantarum HY7718	Food	Microbe
+LLM:lactiplantibacillus_plantarum_hyy-s10	Lactiplantibacillus plantarum HYY-S10	Food	Microbe
+LLM:lactiplantibacillus_plantarum_imc513	Lactiplantibacillus plantarum IMC513	Food	Microbe
+LLM:lactiplantibacillus_plantarum_scs2	Lactiplantibacillus plantarum SCS2	Food	Microbe
+LLM:lactiplantibacillus_plantarum_sffi23	Lactiplantibacillus plantarum SFFI23	Food	Microbe
+LLM:lactiplantibacillus_plantarum_zl1_exopolysaccharide	Lactiplantibacillus plantarum ZL1 exopolysaccharide	Food	Bioactive
+LLM:lactobacillus_acidophilus_bio5768	Lactobacillus acidophilus BIO5768	Food	Microbe
+LLM:lactobacillus_acidophilus_c4	Lactobacillus acidophilus C4	Food	Microbe
+LLM:lactobacillus_acidophilus_hscc_la042	Lactobacillus acidophilus HSCC LA042	Food	Microbe
+LLM:lactobacillus_acidophilus_kbl402	Lactobacillus acidophilus KBL402	Food	Microbe
+LLM:lactobacillus_acidophilus_klds_1_0901	Lactobacillus acidophilus KLDS 1.0901	Food	Microbe
+LLM:lactobacillus_acidophilus_la85	Lactobacillus acidophilus LA85	Food	Microbe
+LLM:lactobacillus_acidophilus_ncfm	Lactobacillus acidophilus NCFM	Food	Microbe
+LLM:lactobacillus_acidophilus_pin7_paraprobiotic	Lactobacillus acidophilus PIN7 paraprobiotic	Food	Microbe
+LLM:lactobacillus_acidophilus_xy27	Lactobacillus acidophilus XY27	Food	Microbe
+LLM:lactobacillus_brevis	Lactobacillus brevis	Food	Microbe
+LLM:lactobacillus_brevis_02	Lactobacillus brevis 02	Food	Microbe
+LLM:lactobacillus_brevis_al0035	Lactobacillus brevis AL0035	Food	Microbe
+LLM:lactobacillus_brevis_polyphosphate	Lactobacillus brevis polyphosphate	Food	Bioactive
+LLM:lactobacillus_casei_atcc_393	Lactobacillus casei ATCC 393	Food	Microbe
+LLM:lactobacillus_casei_atcc_393_metabolites	Lactobacillus casei ATCC 393 metabolites	Food	Bioactive
+LLM:lactobacillus_casei_dg	Lactobacillus casei DG	Food	Microbe
+LLM:lactobacillus_casei_lc122	Lactobacillus casei LC122	Food	Microbe
+LLM:lactobacillus_casei_strain_shirota	Lactobacillus casei Strain Shirota	Food	Microbe
+LLM:lactobacillus_casei_zhang	Lactobacillus casei Zhang	Food	Microbe
+LLM:lactobacillus_casei_rhamnosus	Lactobacillus casei rhamnosus	Food	Microbe
+LLM:lactobacillus_delbrueckii_cidca_133_postbiotic_proteins	Lactobacillus delbrueckii CIDCA 133 postbiotic proteins	Food	Bioactive
+LLM:lactobacillus_delbrueckii_yn1	Lactobacillus delbrueckii YN1	Food	Microbe
+LLM:lactobacillus_delbrueckii_subsp_bulgaricus_b3	Lactobacillus delbrueckii subsp. Bulgaricus B3	Food	Microbe
+LLM:lactobacillus_fermentum_016	Lactobacillus fermentum 016	Food	Microbe
+LLM:lactobacillus_fermentum_f-b9-1_metabolites	Lactobacillus fermentum F-B9-1 metabolites	Food	Bioactive
+LLM:lactobacillus_fermentum_glf-217	Lactobacillus fermentum GLF-217	Food	Microbe
+LLM:lactobacillus_fermentum_kbl374	Lactobacillus fermentum KBL374	Food	Microbe
+LLM:lactobacillus_fermentum_kbl375	Lactobacillus fermentum KBL375	Food	Microbe
+LLM:lactobacillus_fermentum_s1	Lactobacillus fermentum S1	Food	Microbe
+LLM:lactobacillus_fermentum_zs40	Lactobacillus fermentum ZS40	Food	Microbe
+LLM:lactobacillus_fermentum_extracellular_vesicles	Lactobacillus fermentum extracellular vesicles	Food	Bioactive
+LLM:lactobacillus_feruloyl_esterase	Lactobacillus feruloyl esterase	Food	Bioactive
+LLM:lactobacillus_gasseri_bnr17	Lactobacillus gasseri BNR17	Food	Microbe
+LLM:lactobacillus_gasseri_g098	Lactobacillus gasseri G098	Food	Microbe
+LLM:lactobacillus_gasseri_jm1	Lactobacillus gasseri JM1	Food	Microbe
+LLM:lactobacillus_gasseri_p12_fermentation_supernatant	Lactobacillus gasseri P12 fermentation supernatant	Food	Bioactive
+LLM:lactobacillus_gasseri_pi41	Lactobacillus gasseri PI41	Food	Microbe
+LLM:lactobacillus_helveticus_klds_1_8701	Lactobacillus helveticus KLDS 1.8701	Food	Microbe
+LLM:lactobacillus_helveticus_lz-r-5	Lactobacillus helveticus LZ-R-5	Food	Microbe
+LLM:lactobacillus_helveticus_exopolysaccharide	Lactobacillus helveticus exopolysaccharide	Food	Bioactive
+LLM:lactobacillus_jensenii_tl2937	Lactobacillus jensenii TL2937	Food	Microbe
+LLM:lactobacillus_johnsonii_glj001	Lactobacillus johnsonii GLJ001	Food	Microbe
+LLM:lactobacillus_johnsonii_n5	Lactobacillus johnsonii N5	Food	Microbe
+LLM:lactobacillus_johnsonii_culture_supernatant	Lactobacillus johnsonii culture supernatant	Food	Bioactive
+LLM:lactobacillus_johnsonii_extracellular_vesicles	Lactobacillus johnsonii extracellular vesicles	Food	Bioactive
+LLM:lactobacillus_kefiranofaciens	Lactobacillus kefiranofaciens	Food	Microbe
+LLM:lactobacillus_paracasei_ijh-sone68_exopolysaccharide	Lactobacillus paracasei IJH-SONE68 exopolysaccharide	Food	Bioactive
+LLM:lactobacillus_paracasei_jy062_exopolysaccharide	Lactobacillus paracasei JY062 exopolysaccharide	Food	Bioactive
+LLM:lactobacillus_paracasei_jlus66	Lactobacillus paracasei Jlus66	Food	Microbe
+LLM:lactobacillus_paracasei_l9	Lactobacillus paracasei L9	Food	Microbe
+LLM:lactobacillus_paracasei_n1115	Lactobacillus paracasei N1115	Food	Microbe
+LLM:lactobacillus_paracasei_wis43	Lactobacillus paracasei WIS43	Food	Microbe
+LLM:lactobacillus_paracasei_expressing_porcine_tff3_and_egf	Lactobacillus paracasei expressing porcine TFF3 and EGF	Food	Microbe
+LLM:lactobacillus_paracasei_subsp_paracasei_ntu_101	Lactobacillus paracasei subsp. paracasei NTU 101	Food	Microbe
+LLM:lactobacillus_pentosus_a14-6	Lactobacillus pentosus A14-6	Food	Microbe
+LLM:lactobacillus_pentosus_cmy46	Lactobacillus pentosus CMY46	Food	Microbe
+LLM:lactobacillus_plantarum_03	Lactobacillus plantarum 03	Food	Microbe
+LLM:lactobacillus_plantarum_06	Lactobacillus plantarum 06	Food	Microbe
+LLM:lactobacillus_plantarum_06cc2	Lactobacillus plantarum 06CC2	Food	Microbe
+LLM:lactobacillus_plantarum_17-1	Lactobacillus plantarum 17-1	Food	Microbe
+LLM:lactobacillus_plantarum_an1	Lactobacillus plantarum AN1	Food	Microbe
+LLM:lactobacillus_plantarum_apsulloc_331261	Lactobacillus plantarum APSulloc 331261	Food	Microbe
+LLM:lactobacillus_plantarum_cbt_lp3	Lactobacillus plantarum CBT LP3	Food	Microbe
+LLM:lactobacillus_plantarum_ccfm8610	Lactobacillus plantarum CCFM8610	Food	Microbe
+LLM:lactobacillus_plantarum_flp-215	Lactobacillus plantarum FLP-215	Food	Microbe
+LLM:lactobacillus_plantarum_hnu082	Lactobacillus plantarum HNU082	Food	Microbe
+LLM:lactobacillus_plantarum_js19	Lactobacillus plantarum JS19	Food	Microbe
+LLM:lactobacillus_plantarum_klds_1_0318	Lactobacillus plantarum KLDS 1.0318	Food	Microbe
+LLM:lactobacillus_plantarum_kimate-f	Lactobacillus plantarum Kimate-F	Food	Microbe
+LLM:lactobacillus_plantarum_l15	Lactobacillus plantarum L15	Food	Microbe
+LLM:lactobacillus_plantarum_lr002	Lactobacillus plantarum LR002	Food	Microbe
+LLM:lactobacillus_plantarum_lac16	Lactobacillus plantarum Lac16	Food	Microbe
+LLM:lactobacillus_plantarum_ms1	Lactobacillus plantarum MS1	Food	Microbe
+LLM:lactobacillus_plantarum_n13	Lactobacillus plantarum N13	Food	Microbe
+LLM:lactobacillus_plantarum_ncu116_exopolysaccharide	Lactobacillus plantarum NCU116 exopolysaccharide	Food	Bioactive
+LLM:lactobacillus_plantarum_q7_extracellular_vesicles	Lactobacillus plantarum Q7 extracellular vesicles	Food	Bioactive
+LLM:lactobacillus_plantarum_ss18-50	Lactobacillus plantarum SS18-50	Food	Microbe
+LLM:lactobacillus_plantarum_tennozu-su2	Lactobacillus plantarum Tennozu-SU2	Food	Microbe
+LLM:lactobacillus_plantarum_ujs001_extracellular_vesicles	Lactobacillus plantarum UJS001 extracellular vesicles	Food	Bioactive
+LLM:lactobacillus_plantarum_ys3	Lactobacillus plantarum YS3	Food	Microbe
+LLM:lactobacillus_plantarum_yw11_exopolysaccharide	Lactobacillus plantarum YW11 exopolysaccharide	Food	Bioactive
+LLM:lactobacillus_plantarum_zdy2013	Lactobacillus plantarum ZDY2013	Food	Microbe
+LLM:lactobacillus_plantarum_zj316	Lactobacillus plantarum ZJ316	Food	Microbe
+LLM:lactobacillus_plantarum_zs62	Lactobacillus plantarum ZS62	Food	Microbe
+LLM:lactobacillus_plantarum-12	Lactobacillus plantarum-12	Food	Microbe
+LLM:lactobacillus_reuteri_dsm_17938	Lactobacillus reuteri DSM 17938	Food	Microbe
+LLM:lactobacillus_reuteri_f-9-35	Lactobacillus reuteri F-9-35	Food	Microbe
+LLM:lactobacillus_reuteri_groel	Lactobacillus reuteri GroEL	Food	Bioactive
+LLM:lactobacillus_reuteri_l6	Lactobacillus reuteri L6	Food	Microbe
+LLM:lactobacillus_reuteri_mrd01	Lactobacillus reuteri MRD01	Food	Microbe
+LLM:lactobacillus_reuteri_postbiotics	Lactobacillus reuteri postbiotics	Food	Bioactive
+LLM:lactobacillus_rhamnosus_01	Lactobacillus rhamnosus 01	Food	Microbe
+LLM:lactobacillus_rhamnosus_1_0320	Lactobacillus rhamnosus 1.0320	Food	Microbe
+LLM:lactobacillus_rhamnosus_1_0320_postbiotics	Lactobacillus rhamnosus 1.0320 postbiotics	Food	Bioactive
+LLM:lactobacillus_rhamnosus_cy12	Lactobacillus rhamnosus CY12	Food	Microbe
+LLM:lactobacillus_rhamnosus_gg_extracellular_vesicles	Lactobacillus rhamnosus GG extracellular vesicles	Food	Bioactive
+LLM:lactobacillus_rhamnosus_kbl2290	Lactobacillus rhamnosus KBL2290	Food	Microbe
+LLM:lactobacillus_rhamnosus_lgg_mpn_l	Lactobacillus rhamnosus LGG (MPN@L)	Food	Microbe
+LLM:lactobacillus_rhamnosus_m9	Lactobacillus rhamnosus M9	Food	Microbe
+LLM:lactobacillus_rhamnosus_sha113	Lactobacillus rhamnosus SHA113	Food	Microbe
+LLM:lactobacillus_rhamnosus_zfm231_exopolysaccharide	Lactobacillus rhamnosus ZFM231 exopolysaccharide	Food	Bioactive
+LLM:lactobacillus_rhamnosus_strain_ldtm_7511	Lactobacillus rhamnosus strain LDTM 7511	Food	Microbe
+LLM:lactobacillus_sakei_07	Lactobacillus sakei 07	Food	Microbe
+LLM:lactobacillus_salivarius_ucc118	Lactobacillus salivarius UCC118	Food	Microbe
+LLM:lactobacillus_spp	Lactobacillus spp.	Food	Microbe
+LLM:lactococcus_lactis_ll-sc-c2a2	Lactococcus lactis LL-SC-C2A2	Food	Microbe
+LLM:lactococcus_lactis_ml2018	Lactococcus lactis ML2018	Food	Microbe
+LLM:lactococcus_lactis_nz9000_with_mbd14	Lactococcus lactis NZ9000 with mBD14	Food	Microbe
+LLM:laetiporus_sulphureus_polysaccharide	Laetiporus sulphureus polysaccharide	Food	Bioactive
+LLM:laiyang_pear_residue_polysaccharide	Laiyang pear residue polysaccharide	Food	Bioactive
+LLM:laminaria_japonica_polysaccharide	Laminaria japonica polysaccharide	Food	Bioactive
+LLM:large_yellow_tea_polysaccharide	Large yellow tea polysaccharide	Food	Bioactive
+LLM:large-leaf_yellow_tea_peptides	Large-leaf yellow tea peptides	Food	Bioactive
+LLM:larimichthys_crocea_isinglass_polysaccharide	Larimichthys crocea isinglass polysaccharide	Food	Bioactive
+LLM:latilactobacillus_curvatus_dcf0620	Latilactobacillus curvatus DCF0620	Food	Microbe
+LLM:latilactobacillus_sakei_ccfm1267	Latilactobacillus sakei CCFM1267	Food	Microbe
+LLM:lentinus_edodes_ergosterol_hydrogel	Lentinus edodes ergosterol hydrogel	Food	Bioactive
+LLM:levilactobacillus_brevis_m-10_exopolysaccharide	Levilactobacillus brevis M-10 exopolysaccharide	Food	Bioactive
+LLM:ligninoformic_acid	Ligninoformic acid	Food	Bioactive
+LLM:limoncella_apple_polyphenol_extract	Limoncella apple polyphenol extract	Food	Bioactive
+LLM:limosilactobacillus_fermentum_hf06_paraprobiotic	Limosilactobacillus fermentum HF06 paraprobiotic	Food	Microbe
+LLM:limosilactobacillus_fermentum_hf06_postbiotic	Limosilactobacillus fermentum HF06 postbiotic	Food	Bioactive
+LLM:limosilactobacillus_fermentum_hfy06	Limosilactobacillus fermentum HFY06	Food	Microbe
+LLM:limosilactobacillus_fermentum_im57	Limosilactobacillus fermentum IM57	Food	Microbe
+LLM:limosilactobacillus_fermentum_ir62	Limosilactobacillus fermentum IR62	Food	Microbe
+LLM:limosilactobacillus_mucosae_ccfm1273_exopolysaccharide	Limosilactobacillus mucosae CCFM1273 exopolysaccharide	Food	Bioactive
+LLM:limosilactobacillus_reuteri_fphc2951	Limosilactobacillus reuteri FPHC2951	Food	Microbe
+LLM:limosilactobacillus_reuteri_r2lc	Limosilactobacillus reuteri R2LC	Food	Microbe
+LLM:liquiritin_apioside	Liquiritin apioside	Food	Bioactive
+LLM:lonicera_caerulea_polyphenol-rich_extract	Lonicera caerulea polyphenol-rich extract	Food	Bioactive
+LLM:lonicera_japonica_thunb_polysaccharide	Lonicera japonica Thunb polysaccharide	Food	Bioactive
+LLM:lupinus_albus_galacto-oligosaccharide	Lupinus albus galacto-oligosaccharide	Food	Bioactive
+LLM:lycium_barbarum_glycopeptide	Lycium barbarum Glycopeptide	Food	Bioactive
+LLM:lycium_barbarum_polysaccharide	Lycium barbarum polysaccharide	Food	Bioactive
+LLM:lycium_barbarum_polysaccharides	Lycium barbarum polysaccharides	Food	Bioactive
+LLM:lyophyllum_decastes_polysaccharide	Lyophyllum decastes polysaccharide	Food	Bioactive
+LLM:mesna_and_n-3_polyunsaturated_fatty_acids_combination	Mesna and n-3 polyunsaturated fatty acids combination	Food	Bioactive
+LLM:mesona_chinensis_benth_polysaccharide	Mesona chinensis Benth polysaccharide	Food	Bioactive
+LLM:monascus_purpureus_exopolysaccharide	Monascus purpureus exopolysaccharide	Food	Bioactive
+LLM:moringa_oleifera_leaf_polysaccharide	Moringa oleifera leaf polysaccharide	Food	Bioactive
+LLM:moringa_oleifera_peptide	Moringa oleifera peptide	Food	Bioactive
+LLM:moringa_oleifera_polysaccharide	Moringa oleifera polysaccharide	Food	Bioactive
+LLM:mytilus_coruscus_polysaccharide	Mytilus coruscus polysaccharide	Food	Bioactive
+LLM:ngp-3_polysaccharide	NGP-3 polysaccharide	Food	Bioactive
+LLM:nanfeng_tangerine_citrus_polysaccharide	Nanfeng tangerine citrus polysaccharide	Food	Bioactive
+LLM:nanguo_pear_polysaccharide	Nanguo pear polysaccharide	Food	Bioactive
+LLM:nostoc_commune_polysaccharide	Nostoc commune polysaccharide	Food	Bioactive
+LLM:ops-2071	OPS-2071	Food	Bioactive
+LLM:ocimum_gratissimum_polyphenol_extract	Ocimum gratissimum polyphenol extract	Food	Bioactive
+LLM:omega-3_fatty_acid	Omega-3 fatty acid	Food	Bioactive
+LLM:ophiopogon_japonicus_polysaccharide	Ophiopogon japonicus polysaccharide	Food	Bioactive
+LLM:ornithine_alpha-ketoglutarate	Ornithine α-ketoglutarate	Food	Bioactive
+LLM:ovalbumin-derived_peptides	Ovalbumin-derived peptides	Food	Bioactive
+LLM:pr39_peptide	PR39 peptide	Food	Bioactive
+LLM:panax_ginseng_polysaccharide	Panax ginseng polysaccharide	Food	Bioactive
+LLM:panax_notoginseng_saponins	Panax notoginseng saponins	Food	Bioactive
+LLM:panax_quinquefolius_polysaccharide	Panax quinquefolius polysaccharide	Food	Bioactive
+LLM:parabacteroides_distasonis-derived_extracellular_vesicles	Parabacteroides distasonis-derived extracellular vesicles	Food	Bioactive
+LLM:pediococcus_acidilactici_wnym01	Pediococcus acidilactici WNYM01	Food	Microbe
+LLM:pediococcus_acidilactici_wnym02	Pediococcus acidilactici WNYM02	Food	Microbe
+LLM:pediococcus_pentosaceus_cect_8330	Pediococcus pentosaceus CECT 8330	Food	Microbe
+LLM:pediococcus_pentosaceus_li05	Pediococcus pentosaceus LI05	Food	Microbe
+LLM:perfluorolauric_acid	Perfluorolauric acid	Food	Bioactive
+LLM:pericarpium_citri_reticulatae_chachiensis_polysaccharide	Pericarpium Citri Reticulatae 'Chachiensis' polysaccharide	Food	Bioactive
+LLM:phaeodactylum_tricornutum_polysaccharide	Phaeodactylum tricornutum polysaccharide	Food	Bioactive
+LLM:phellinus_igniarius_polysaccharide	Phellinus igniarius polysaccharide	Food	Bioactive
+LLM:phellinus_linteus_acidic_polysaccharide	Phellinus linteus acidic polysaccharide	Food	Bioactive
+LLM:phellinus_linteus_polysaccharide	Phellinus linteus polysaccharide	Food	Bioactive
+LLM:phellodendri_chinensis_cortex_polysaccharide	Phellodendri chinensis Cortex polysaccharide	Food	Bioactive
+LLM:phoma_herbarum_alpha-d-glucan	Phoma herbarum α-D-glucan	Food	Bioactive
+LLM:phyllanthus_emblica_polysaccharide	Phyllanthus emblica polysaccharide	Food	Bioactive
+LLM:pine_pollen_polysaccharide_ppm60	Pine pollen polysaccharide (PPM60)	Food	Bioactive
+LLM:pleurotus_eryngii_beta-glucan_wpep	Pleurotus eryngii β-glucan (WPEP)	Food	Bioactive
+LLM:polygonatum_cyrtonema_hua_oligosaccharide	Polygonatum Cyrtonema Hua oligosaccharide	Food	Bioactive
+LLM:polygonatum_kingianum_polysaccharide	Polygonatum kingianum polysaccharide	Food	Bioactive
+LLM:polygonatum_kingianum_polysaccharide_postbiotic	Polygonatum kingianum polysaccharide postbiotic	Food	Bioactive
+LLM:polygonatum_sibiricum_polysaccharide	Polygonatum sibiricum polysaccharide	Food	Bioactive
+LLM:polygonatum_sibiricum_saponins	Polygonatum sibiricum saponins	Food	Bioactive
+LLM:polyguluronate	Polyguluronate	Food	Bioactive
+LLM:poria_cocos_polysaccharide	Poria cocos polysaccharide	Food	Bioactive
+LLM:porphyra_haitanensis_polysaccharide	Porphyra haitanensis polysaccharide	Food	Bioactive
+LLM:portulaca_oleracea_polysaccharide	Portulaca oleracea polysaccharide	Food	Bioactive
+LLM:potentilla_anserina_l_flavonoids	Potentilla anserina L. flavonoids	Food	Bioactive
+LLM:prevotella_histicola	Prevotella histicola	Food	Microbe
+LLM:proanthocyanidins_and_beta-glucan	Proanthocyanidins and β-glucan	Food	Bioactive
+LLM:propionibacterium_freudenreichii_b1	Propionibacterium freudenreichii B1	Food	Microbe
+LLM:protaetia_brevitarsis_protein_hydrolysate	Protaetia brevitarsis protein hydrolysate	Food	Bioactive
+LLM:pulsatilla_chinensis_saponins	Pulsatilla chinensis saponins	Food	Bioactive
+LLM:purple_yam_polyphenol_extracts	Purple yam polyphenol extracts	Food	Bioactive
+LLM:pyrus_pashia_buch_polysaccharide	Pyrus pashia Buch polysaccharide	Food	Bioactive
+LLM:qingqiao_polyphenols	Qingqiao polyphenols	Food	Bioactive
+LLM:qingzhuan_dark_tea_polysaccharides-zinc	Qingzhuan dark tea polysaccharides-zinc	Food	Bioactive
+LLM:r7i_peptide	R7I peptide	Food	Bioactive
+LLM:rattan_pepper_polysaccharide	Rattan pepper polysaccharide	Food	Bioactive
+LLM:rehmannia_glutinosa_polysaccharide	Rehmannia glutinosa polysaccharide	Food	Bioactive
+LLM:rhodiola_crenulata_polysaccharide	Rhodiola crenulata polysaccharide	Food	Bioactive
+LLM:rhopilema_esculentum_polysaccharide	Rhopilema esculentum polysaccharide	Food	Bioactive
+LLM:rosa_laevigata_polysaccharides	Rosa laevigata polysaccharides	Food	Bioactive
+LLM:rosa_roxburghii_tratt_fruit_polyphenols_nanogel	Rosa roxburghii Tratt fruit polyphenols nanogel	Food	Bioactive
+LLM:roseburia_intestinalis_extracellular_vesicles	Roseburia intestinalis extracellular vesicles	Food	Bioactive
+LLM:saccharina_japonica_cellulose	Saccharina japonica cellulose	Food	Bioactive
+LLM:saccharomyces_boulardii	Saccharomyces boulardii	Food	Microbe
+LLM:saccharomyces_boulardii_cncm_i-745	Saccharomyces boulardii CNCM I-745	Food	Microbe
+LLM:saccharomyces_boulardii_cell-free_supernatant	Saccharomyces boulardii cell-free supernatant	Food	Bioactive
+LLM:saccharomyces_boulardii_heat-inactivated_cells	Saccharomyces boulardii heat-inactivated cells	Food	Microbe
+LLM:saccharomyces_boulardii_postbiotics	Saccharomyces boulardii postbiotics	Food	Bioactive
+LLM:saccharomyces_boulardii_beta-glucan	Saccharomyces boulardii β-glucan	Food	Bioactive
+LLM:saccharomyces_cerevisiae_i4	Saccharomyces cerevisiae I4	Food	Microbe
+LLM:saccharomyces_cerevisiae_qhnld8l1	Saccharomyces cerevisiae QHNLD8L1	Food	Microbe
+LLM:safflower_polysaccharide	Safflower polysaccharide	Food	Bioactive
+LLM:sagittaria_sagittifolia_l_polysaccharide	Sagittaria sagittifolia L. polysaccharide	Food	Bioactive
+LLM:sanghuangporus_polyphenol_extract	Sanghuangporus polyphenol extract	Food	Bioactive
+LLM:sargassum_fusiforme_polysaccharide_fermented_with_lactobacillus_acidophilus	Sargassum fusiforme polysaccharide fermented with Lactobacillus acidophilus	Food	Bioactive
+LLM:sargassum_horneri_polysaccharide	Sargassum horneri polysaccharide	Food	Bioactive
+LLM:satsuma_citrus_polysaccharide	Satsuma citrus polysaccharide	Food	Bioactive
+LLM:saururus_chinensis_polysaccharide_scpe-ii	Saururus chinensis polysaccharide SCPE-II	Food	Bioactive
+LLM:schisandra_chinensis_pectin_polysaccharide	Schisandra chinensis pectin polysaccharide	Food	Bioactive
+LLM:schisandra_chinensis_polysaccharide	Schisandra chinensis polysaccharide	Food	Bioactive
+LLM:scorias_spongiosa_polysaccharide	Scorias spongiosa polysaccharide	Food	Bioactive
+LLM:scutellaria_baicalensis_georgi_polysaccharide	Scutellaria baicalensis Georgi polysaccharide	Food	Bioactive
+LLM:scutellaria_barbata_polysaccharide	Scutellaria barbata polysaccharide	Food	Bioactive
+LLM:selaginella_uncinata_polysaccharide	Selaginella uncinata polysaccharide	Food	Bioactive
+LLM:selenium-enriched_bifidobacterium_longum_dd98	Selenium-enriched Bifidobacterium longum DD98	Food	Microbe
+LLM:selenium-enriched_lactobacillus_acidophilus	Selenium-enriched Lactobacillus acidophilus	Food	Microbe
+LLM:shenling_baizhu_san_polysaccharides	Shenling Baizhu San polysaccharides	Food	Bioactive
+LLM:smilax_china_l_polyphenols	Smilax china L. polyphenols	Food	Bioactive
+LLM:smilax_china_polysaccharide	Smilax china polysaccharide	Food	Bioactive
+LLM:sonchus_arvensis_polysaccharide	Sonchus arvensis polysaccharide	Food	Bioactive
+LLM:sophora_alopecuroides_l_alkaloids	Sophora alopecuroides L. alkaloids	Food	Bioactive
+LLM:sophora_flavescens_flavonoids	Sophora flavescens flavonoids	Food	Bioactive
+LLM:sporisorium_reilianum_polysaccharides	Sporisorium reilianum polysaccharides	Food	Bioactive
+LLM:strain_gr-4	Strain GR-4	Food	Microbe
+LLM:sulfated_pine_pollen_polysaccharide_sppm60	Sulfated pine pollen polysaccharide (SPPM60)	Food	Bioactive
+LLM:tak-242	TAK-242	Food	Bioactive
+LLM:tmf-o-glycosides	TMF-O-glycosides	Food	Bioactive
+LLM:tetrastigma_hemsleyanum_polysaccharide	Tetrastigma hemsleyanum polysaccharide	Food	Bioactive
+LLM:tetrastigma_hemsleyanum_polysaccharides	Tetrastigma hemsleyanum polysaccharides	Food	Bioactive
+LLM:thesium_chinense_polysaccharide_tp1	Thesium chinense polysaccharide TP1	Food	Bioactive
+LLM:thinned_apple_polyphenols	Thinned apple polyphenols	Food	Bioactive
+LLM:tieguanyin_oolong_tea_polysaccharides	Tieguanyin oolong tea polysaccharides	Food	Bioactive
+LLM:total_flavonoids_from_sea_buckthorn_leaves	Total Flavonoids from Sea Buckthorn Leaves	Food	Bioactive
+LLM:tremella_fuciformis_polysaccharide	Tremella fuciformis polysaccharide	Food	Bioactive
+LLM:triptolide	Triptolide	Food	Bioactive
+LLM:ulva_lactuca_polysaccharide	Ulva lactuca polysaccharide	Food	Bioactive
+LLM:ulva_pertusa_polysaccharide	Ulva pertusa polysaccharide	Food	Bioactive
+LLM:undaria_pinnatifida_polysaccharide	Undaria pinnatifida polysaccharide	Food	Bioactive
+LLM:vegaven_lipid_emulsion_18-carbon_n-3_fatty_acids	Vegaven lipid emulsion (18-carbon n-3 fatty acids)	Food	Bioactive
+LLM:vitamin_e_delta-tocotrienol	Vitamin E delta-tocotrienol	Food	Bioactive
+LLM:weissella_paramesenteroides_nric1542	Weissella paramesenteroides NRIC1542	Food	Microbe
+LLM:xanthohumol	Xanthohumol	Food	Bioactive
+LLM:zingiber_officinale_polysaccharide	Zingiber officinale polysaccharide	Food	Bioactive
+LLM:ziziphus_jujuba_polyphenol_extract	Ziziphus jujuba polyphenol extract	Food	Bioactive
+LLM:abalone_viscera_collagen_peptide	abalone viscera collagen peptide	Food	Bioactive
+LLM:agarobiose	agarobiose	Food	Bioactive
+LLM:agarotetraose	agarotetraose	Food	Bioactive
+LLM:agarotriose	agarotriose	Food	Bioactive
+LLM:agarwood_leaf_polyphenolic_extract	agarwood leaf polyphenolic extract	Food	Bioactive
+LLM:alginate	alginate	Food	Bioactive
+LLM:alginate-based_polysaccharide_composite_hydrogel	alginate-based polysaccharide composite hydrogel	Food	Bioactive
+LLM:almond_gum_polysaccharide_eagp-w1	almond gum polysaccharide EAGP-W1	Food	Bioactive
+LLM:aloe_polysaccharides	aloe polysaccharides	Food	Bioactive
+LLM:alpha-ketoglutarate	alpha-ketoglutarate	Food	Bioactive
+LLM:alpha-tocopherol	alpha-tocopherol	Food	Bioactive
+LLM:anthocyanin-rich_extract	anthocyanin-rich extract	Food	Bioactive
+LLM:anthocyanins	anthocyanins	Food	Bioactive
+LLM:apple_peel_polyphenols	apple peel polyphenols	Food	Bioactive
+LLM:apple_polyphenol_extract	apple polyphenol extract	Food	Bioactive
+LLM:apple_polyphenols_extract	apple polyphenols extract	Food	Bioactive
+LLM:arabinoxylan_hydrolyzate	arabinoxylan hydrolyzate	Food	Bioactive
+LLM:arginine_glutamine_and_beta-hydroxy_beta-methylbutyrate_mixture	arginine, glutamine and β-hydroxy β-methylbutyrate mixture	Food	Bioactive
+LLM:aspartate	aspartate	Food	Bioactive
+LLM:bamboo_shoot_polysaccharide	bamboo shoot polysaccharide	Food	Bioactive
+LLM:berberine_hydrochloride	berberine hydrochloride	Food	Bioactive
+LLM:bergamot_polysaccharide	bergamot polysaccharide	Food	Bioactive
+LLM:bilberry_anthocyanin_extract	bilberry anthocyanin extract	Food	Bioactive
+LLM:black_wolfberry_anthocyanin	black wolfberry anthocyanin	Food	Bioactive
+LLM:black_wolfberry_polysaccharide	black wolfberry polysaccharide	Food	Bioactive
+LLM:blackened_jujube_polysaccharide-zn_complex	blackened jujube polysaccharide-Zn complex	Food	Bioactive
+LLM:bornyl_acetate	bornyl acetate	Food	Bioactive
+LLM:branched-chain_amino_acids	branched-chain amino acids	Food	Bioactive
+LLM:butylchlorogenate	butylchlorogenate	Food	Bioactive
+LLM:cannabidiol	cannabidiol	Food	Bioactive
+LLM:carboxymethyl_cellulose	carboxymethyl cellulose	Food	Bioactive
+LLM:carboxymethylated_beta-glucan	carboxymethylated β-glucan	Food	Bioactive
+LLM:carboxymethylcellulose	carboxymethylcellulose	Food	Bioactive
+LLM:carvacrol	carvacrol	Food	Bioactive
+LLM:carvacrol_and_thymol	carvacrol and thymol	Food	Bioactive
+LLM:casein_hydrolysate	casein hydrolysate	Food	Bioactive
+LLM:celery_flavonoids	celery flavonoids	Food	Bioactive
+LLM:chebulagic_acid	chebulagic acid	Food	Bioactive
+LLM:cherry_polyphenol_extract	cherry polyphenol extract	Food	Bioactive
+LLM:chestnut_nonstarch_polysaccharide	chestnut nonstarch polysaccharide	Food	Bioactive
+LLM:chicoric_acid	chicoric acid	Food	Bioactive
+LLM:chlorogenic_acid_and_sodium_alginate_combination	chlorogenic acid and sodium alginate combination	Food	Bioactive
+LLM:citrus_peel_polyphenols	citrus peel polyphenols	Food	Bioactive
+LLM:cocoa_polyphenol	cocoa polyphenol	Food	Bioactive
+LLM:cocoa_polyphenols	cocoa polyphenols	Food	Bioactive
+LLM:compound_polysaccharides	compound polysaccharides	Food	Bioactive
+LLM:corn_protein_hydrolysate	corn protein hydrolysate	Food	Bioactive
+LLM:cornelian_cherry_iridoid-polyphenolic_extract	cornelian cherry iridoid-polyphenolic extract	Food	Bioactive
+LLM:costunolide	costunolide	Food	Bioactive
+LLM:cranberry_polyphenol	cranberry polyphenol	Food	Bioactive
+LLM:curcumin-anthocyanin_nanoparticles	curcumin-anthocyanin nanoparticles	Food	Bioactive
+LLM:curcumin-egg_white_peptide_aggregations	curcumin-egg white peptide aggregations	Food	Bioactive
+LLM:curcumin-egg_white_peptide-casein-quaternary_chitosan_nanoparticles	curcumin-egg white peptide-casein-quaternary chitosan nanoparticles	Food	Bioactive
+LLM:cyanidin-3-o-glucoside	cyanidin-3-O-glucoside	Food	Bioactive
+LLM:dandelion_root_polysaccharide	dandelion root polysaccharide	Food	Bioactive
+LLM:dandelion_root_polysaccharides	dandelion root polysaccharides	Food	Bioactive
+LLM:delta-tocotrienol_13_-carboxychromanol	delta-tocotrienol 13'-carboxychromanol	Food	Bioactive
+LLM:dextran_sodium_sulfate	dextran sodium sulfate	Food	Bioactive
+LLM:dietary_ceramide	dietary ceramide	Food	Bioactive
+LLM:dihydroresveratrol	dihydroresveratrol	Food	Bioactive
+LLM:docosapentaenoic_acid	docosapentaenoic acid	Food	Bioactive
+LLM:egg-white-derived_peptides	egg-white-derived peptides	Food	Bioactive
+LLM:eicosapentaenoic_acid_monoglyceride	eicosapentaenoic acid monoglyceride	Food	Bioactive
+LLM:enzymatically_hydrolyzed_wheat_bran-derived_zinc_phytate	enzymatically hydrolyzed wheat bran-derived zinc phytate	Food	Bioactive
+LLM:epigallocatechin-3-gallate	epigallocatechin-3-gallate	Food	Bioactive
+LLM:farnesol	farnesol	Food	Bioactive
+LLM:fish_collagen_peptide	fish collagen peptide	Food	Bioactive
+LLM:fish_collagen_peptides	fish collagen peptides	Food	Bioactive
+LLM:flaxseed_oligosaccharide	flaxseed oligosaccharide	Food	Bioactive
+LLM:foxtail_millet_bran_polyphenol	foxtail millet bran polyphenol	Food	Bioactive
+LLM:fructooligosaccharide	fructooligosaccharide	Food	Bioactive
+LLM:fructose	fructose	Food	Bioactive
+LLM:fucose	fucose	Food	Bioactive
+LLM:galacto-oligosaccharide	galacto-oligosaccharide	Food	Bioactive
+LLM:galactooligosaccharide	galactooligosaccharide	Food	Bioactive
+LLM:gamma-irradiated_resveratrol	gamma-irradiated resveratrol	Food	Bioactive
+LLM:ganoderic_acid	ganoderic acid	Food	Bioactive
+LLM:ganoderic_acid_a	ganoderic acid A	Food	Bioactive
+LLM:garlic_polysaccharide	garlic polysaccharide	Food	Bioactive
+LLM:geniposide	geniposide	Food	Bioactive
+LLM:geraniol	geraniol	Food	Bioactive
+LLM:ginger_polysaccharides	ginger polysaccharides	Food	Bioactive
+LLM:ginseng_polysaccharide	ginseng polysaccharide	Food	Bioactive
+LLM:ginseng_polysaccharides	ginseng polysaccharides	Food	Bioactive
+LLM:glucose	glucose	Food	Bioactive
+LLM:glycerol_monolaurate	glycerol monolaurate	Food	Bioactive
+LLM:glycoursodeoxycholic_acid	glycoursodeoxycholic acid	Food	Bioactive
+LLM:glycyrrhizic_acid	glycyrrhizic acid	Food	Bioactive
+LLM:grape_seed_polyphenols	grape seed polyphenols	Food	Bioactive
+LLM:green_tea_polyphenols	green tea polyphenols	Food	Bioactive
+LLM:guar_gum_beta-manno-oligosaccharides	guar gum β-manno-oligosaccharides	Food	Bioactive
+LLM:hawthorn_polysaccharide_haw1-2	hawthorn polysaccharide HAW1-2	Food	Bioactive
+LLM:heat-killed_lactobacillus_casei_dkgf7	heat-killed Lactobacillus casei DKGF7	Food	Microbe
+LLM:heparan_sulfate	heparan sulfate	Food	Bioactive
+LLM:high_molecular_weight_hyaluronic_acid	high molecular weight hyaluronic acid	Food	Bioactive
+LLM:hippuric_acid	hippuric acid	Food	Bioactive
+LLM:honey_polyphenols	honey polyphenols	Food	Bioactive
+LLM:honey-processed_astragalus_polysaccharide	honey-processed Astragalus polysaccharide	Food	Bioactive
+LLM:honeysuckle_mir2911	honeysuckle MIR2911	Food	Bioactive
+LLM:honokiol	honokiol	Food	Bioactive
+LLM:hyaluronic_acid-astaxanthin_nanoparticles	hyaluronic acid-astaxanthin nanoparticles	Food	Bioactive
+LLM:hyaluronic_acid-bilirubin_nanomedicine	hyaluronic acid-bilirubin nanomedicine	Food	Bioactive
+LLM:hydroxytyrosyl_acetate	hydroxytyrosyl acetate	Food	Bioactive
+LLM:hyocholic_acid	hyocholic acid	Food	Bioactive
+LLM:indol-3-carbinol	indol-3-carbinol	Food	Bioactive
+LLM:indole_lactic_acid_producing_escherichia_coli_nissle_1917	indole lactic acid producing Escherichia coli Nissle 1917	Food	Microbe
+LLM:isomaltooligosaccharide	isomaltooligosaccharide	Food	Bioactive
+LLM:isomaltulose	isomaltulose	Food	Bioactive
+LLM:isoxanthohumol	isoxanthohumol	Food	Bioactive
+LLM:jellyfish_skin_polysaccharide	jellyfish skin polysaccharide	Food	Bioactive
+LLM:kiwifruit_polyphenol_extract	kiwifruit polyphenol extract	Food	Bioactive
+LLM:kiwifruit_polysaccharide	kiwifruit polysaccharide	Food	Bioactive
+LLM:l-arabinose	l-arabinose	Food	Bioactive
+LLM:lactic_acid_bacteria	lactic acid bacteria	Food	Microbe
+LLM:lactulose	lactulose	Food	Bioactive
+LLM:licorice_endophyte_jtzb55	licorice endophyte JTZB55	Food	Microbe
+LLM:licorice_flavonoid_extract	licorice flavonoid extract	Food	Bioactive
+LLM:ligustroside	ligustroside	Food	Bioactive
+LLM:lily_polysaccharides	lily polysaccharides	Food	Bioactive
+LLM:lipoic_acid	lipoic acid	Food	Bioactive
+LLM:locust_bean_gum_hydrolysate	locust bean gum hydrolysate	Food	Bioactive
+LLM:maggot_polysaccharide_mp-80	maggot polysaccharide MP-80	Food	Bioactive
+LLM:maggot_polysaccharide_mp-l	maggot polysaccharide MP-L	Food	Bioactive
+LLM:magnolol	magnolol	Food	Bioactive
+LLM:magnolol-whey_protein_isolate-tremella_fuciformis_polysaccharides_emulsion	magnolol-whey protein isolate-Tremella fuciformis polysaccharides emulsion	Food	Bioactive
+LLM:maize_tetrapeptide	maize tetrapeptide	Food	Bioactive
+LLM:malic_acid	malic acid	Food	Bioactive
+LLM:melezitose	melezitose	Food	Bioactive
+LLM:methylcellulose	methylcellulose	Food	Bioactive
+LLM:microcrystalline_cellulose	microcrystalline cellulose	Food	Bioactive
+LLM:microencapsulated_sodium_butyrate	microencapsulated sodium butyrate	Food	Bioactive
+LLM:millet_quinic_acid	millet quinic acid	Food	Bioactive
+LLM:montmorillonite_with_anti-tnf-alpha_nanobody	montmorillonite with anti-TNF-α nanobody	Food	Bioactive
+LLM:mulberry_anthocyanins	mulberry anthocyanins	Food	Bioactive
+LLM:mung_bean_peptides	mung bean peptides	Food	Bioactive
+LLM:n-3_polyunsaturated_fatty_acid	n-3 polyunsaturated fatty acid	Food	Bioactive
+LLM:n-3_polyunsaturated_fatty_acids	n-3 polyunsaturated fatty acids	Food	Bioactive
+LLM:nanocrystalline_cellulose	nanocrystalline cellulose	Food	Bioactive
+LLM:native_kappa-carrageenan	native κ-carrageenan	Food	Bioactive
+LLM:nicotinamide_mononucleotide	nicotinamide mononucleotide	Food	Bioactive
+LLM:nitrate	nitrate	Food	Bioactive
+LLM:non-extractable_polyphenols-rich_fraction	non-extractable polyphenols-rich fraction	Food	Bioactive
+LLM:noni_fruit_polysaccharides	noni fruit polysaccharides	Food	Bioactive
+LLM:okra_flower_polysaccharide	okra flower polysaccharide	Food	Bioactive
+LLM:oligofructose	oligofructose	Food	Bioactive
+LLM:oligonol	oligonol	Food	Bioactive
+LLM:oryzanol	oryzanol	Food	Bioactive
+LLM:ovotransferrin-derived_peptide_iqw	ovotransferrin-derived peptide IQW	Food	Bioactive
+LLM:oxidized_cholesterol	oxidized cholesterol	Food	Bioactive
+LLM:oxidized_polyunsaturated_fatty_acid	oxidized polyunsaturated fatty acid	Food	Bioactive
+LLM:p-hydroxybenzoic_acid	p-hydroxybenzoic acid	Food	Bioactive
+LLM:pacific_abalone_sulfated_polysaccharide	pacific abalone sulfated polysaccharide	Food	Bioactive
+LLM:paeonol	paeonol	Food	Bioactive
+LLM:palmitoleic_acid	palmitoleic acid	Food	Bioactive
+LLM:panaxynol	panaxynol	Food	Bioactive
+LLM:patchoulene_epoxide	patchoulene epoxide	Food	Bioactive
+LLM:patchouli_alcohol	patchouli alcohol	Food	Bioactive
+LLM:pear_peel_polyphenols	pear peel polyphenols	Food	Bioactive
+LLM:pectin-based_polysaccharide_composite_hydrogel	pectin-based polysaccharide composite hydrogel	Food	Bioactive
+LLM:pelargonidin-3-galactoside	pelargonidin-3-galactoside	Food	Bioactive
+LLM:peonidin-3-o-_3_6-o-dimalonyl-beta-d-glucoside	peonidin-3-O-(3,6-O-dimalonyl-β-D-glucoside)	Food	Bioactive
+LLM:petunidin_3-o-_rhamnopyranosyl-_trans-p-coumaroyl_-5-o-_beta-d-glucopyranoside	petunidin 3-O-[rhamnopyranosyl-(trans-p-coumaroyl)]-5-O-[β-d-glucopyranoside]	Food	Bioactive
+LLM:phenolic_glycosides	phenolic glycosides	Food	Bioactive
+LLM:phytic_acid	phytic acid	Food	Bioactive
+LLM:piceatannol	piceatannol	Food	Bioactive
+LLM:pine_pollen_polysaccharide_ppm60-iii	pine pollen polysaccharide PPM60-III	Food	Bioactive
+LLM:plantamajoside	plantamajoside	Food	Bioactive
+LLM:poly-d-3-hydroxybutyric_acid	poly-D-3-hydroxybutyric acid	Food	Bioactive
+LLM:polydextrose	polydextrose	Food	Bioactive
+LLM:polysorbate-80	polysorbate-80	Food	Bioactive
+LLM:pomegranate_polysaccharide	pomegranate polysaccharide	Food	Bioactive
+LLM:porcine_intestinal_mucosal_peptides	porcine intestinal mucosal peptides	Food	Bioactive
+LLM:propyl-propane_thiosulfonate	propyl-propane thiosulfonate	Food	Bioactive
+LLM:protected_butyrate	protected butyrate	Food	Bioactive
+LLM:protocatechuic_acid_sodium_alginate_coated_lactiplantibacillus_plantarum	protocatechuic acid sodium alginate coated Lactiplantibacillus plantarum	Food	Microbe
+LLM:pumpkin_polysaccharides	pumpkin polysaccharides	Food	Bioactive
+LLM:purple_sweet_potato_anthocyanin_extract	purple sweet potato anthocyanin extract	Food	Bioactive
+LLM:purple_sweet_potato_polysaccharide	purple sweet potato polysaccharide	Food	Bioactive
+LLM:quercetin_monoglycosides	quercetin monoglycosides	Food	Bioactive
+LLM:quinoa_peptide	quinoa peptide	Food	Bioactive
+LLM:quinoa_peptide_tpgaff	quinoa peptide TPGAFF	Food	Bioactive
+LLM:quinoa_polysaccharides	quinoa polysaccharides	Food	Bioactive
+LLM:quinoa_saponins	quinoa saponins	Food	Bioactive
+LLM:ramulus_mori_polysaccharide-plga_nanoparticles	ramulus mori polysaccharide-PLGA nanoparticles	Food	Bioactive
+LLM:resistant_starch_and_tannic_acid_mixture	resistant starch and tannic acid mixture	Food	Bioactive
+LLM:resveratrol-loaded_mesona_chinensis_polysaccharides_nanoparticles	resveratrol-loaded Mesona chinensis polysaccharides nanoparticles	Food	Bioactive
+LLM:rheum_officinale_polysaccharide	rheum officinale polysaccharide	Food	Bioactive
+LLM:rice_protein_peptides	rice protein peptides	Food	Bioactive
+LLM:salidroside	salidroside	Food	Bioactive
+LLM:sanguinarine_chloride_hydrate	sanguinarine chloride hydrate	Food	Bioactive
+LLM:sanshool	sanshool	Food	Bioactive
+LLM:sea_buckthorn_pericarp_polysaccharide	sea buckthorn pericarp polysaccharide	Food	Bioactive
+LLM:sea_buckthorn_polysaccharide	sea buckthorn polysaccharide	Food	Bioactive
+LLM:sea_buckthorn_polysaccharides	sea buckthorn polysaccharides	Food	Bioactive
+LLM:sea_conch_peptide_hydrolysate	sea conch peptide hydrolysate	Food	Bioactive
+LLM:sea_cucumber_peptide	sea cucumber peptide	Food	Bioactive
+LLM:sedanolide	sedanolide	Food	Bioactive
+LLM:selenium-containing_soybean_peptides	selenium-containing soybean peptides	Food	Bioactive
+LLM:selenium-containing_tea_polysaccharide	selenium-containing tea polysaccharide	Food	Bioactive
+LLM:selenium-enriched_spirulina_peptides	selenium-enriched spirulina peptides	Food	Bioactive
+LLM:sesaminol	sesaminol	Food	Bioactive
+LLM:shikimic_acid	shikimic acid	Food	Bioactive
+LLM:short_chain_fatty_acid_mixture	short chain fatty acid mixture	Food	Bioactive
+LLM:short_chain_fatty_acids	short chain fatty acids	Food	Bioactive
+LLM:sinapic_acid	sinapic acid	Food	Bioactive
+LLM:skipjack_enzymatic_peptide	skipjack enzymatic peptide	Food	Bioactive
+LLM:sodium_butyrate	sodium butyrate	Food	Bioactive
+LLM:sodium_houttuyfonate	sodium houttuyfonate	Food	Bioactive
+LLM:sodium_isobutyrate	sodium isobutyrate	Food	Bioactive
+LLM:sodium_propionate	sodium propionate	Food	Bioactive
+LLM:sodium-butyrate	sodium-butyrate	Food	Bioactive
+LLM:squid-derived_chondroitin_sulfate	squid-derived chondroitin sulfate	Food	Bioactive
+LLM:stigmasterol	stigmasterol	Food	Bioactive
+LLM:sturgeon_hydrolysate	sturgeon hydrolysate	Food	Bioactive
+LLM:sturgeon-derived_peptide_llle	sturgeon-derived peptide LLLE	Food	Bioactive
+LLM:sucralose	sucralose	Food	Bioactive
+LLM:sulfated_polysaccharide_sppm60-iii	sulfated polysaccharide SPPM60-III	Food	Bioactive
+LLM:syringic_acid	syringic acid	Food	Bioactive
+LLM:tamarind_seed_polysaccharide_hydrolysate	tamarind seed polysaccharide hydrolysate	Food	Bioactive
+LLM:tannic_acid	tannic acid	Food	Bioactive
+LLM:taurocholic_acid	taurocholic acid	Food	Bioactive
+LLM:taurodeoxycholic_acid	taurodeoxycholic acid	Food	Bioactive
+LLM:tea_flower_polysaccharide	tea flower polysaccharide	Food	Bioactive
+LLM:tea_polyphenol	tea polyphenol	Food	Bioactive
+LLM:tea_polyphenols	tea polyphenols	Food	Bioactive
+LLM:tea_polysaccharide	tea polysaccharide	Food	Bioactive
+LLM:tea_polysaccharides	tea polysaccharides	Food	Bioactive
+LLM:tea_residue_protein-derived_oligopeptides	tea residue protein-derived oligopeptides	Food	Bioactive
+LLM:teasaponin	teasaponin	Food	Bioactive
+LLM:thiol-modified_hyaluronic_acid_hydrogel	thiol-modified hyaluronic acid hydrogel	Food	Bioactive
+LLM:thymol	thymol	Food	Bioactive
+LLM:tuna_bioactive_peptide	tuna bioactive peptide	Food	Bioactive
+LLM:turmeric_polysaccharides	turmeric polysaccharides	Food	Bioactive
+LLM:uromyrtoside	uromyrtoside	Food	Bioactive
+LLM:walnut_green_husk_polysaccharide	walnut green husk polysaccharide	Food	Bioactive
+LLM:walnut_protein_peptides	walnut protein peptides	Food	Bioactive
+LLM:walnut_septum_polyphenol	walnut septum polyphenol	Food	Bioactive
+LLM:wampee_polyphenol_extract	wampee polyphenol extract	Food	Bioactive
+LLM:water-soluble_garlic_polysaccharide	water-soluble garlic polysaccharide	Food	Bioactive
+LLM:wheat_germ_peptide_ape	wheat germ peptide APE	Food	Bioactive
+LLM:whey_protein_hydrolysate	whey protein hydrolysate	Food	Bioactive
+LLM:whey_protein_isolate-tremella_fuciformis_polysaccharides_emulsion	whey protein isolate-Tremella fuciformis polysaccharides emulsion	Food	Bioactive
+LLM:xylo-oligosaccharide	xylo-oligosaccharide	Food	Bioactive
+LLM:xylooligosaccharide	xylooligosaccharide	Food	Bioactive
+LLM:yeast_beta-glucan	yeast β-glucan	Food	Bioactive
+LLM:yellow_passion_fruit_peel_polysaccharide	yellow passion fruit peel polysaccharide	Food	Bioactive
+LLM:zinc_hyaluronate	zinc hyaluronate	Food	Bioactive
+LLM:alpha-lactalbumin_hydrolysate	α-lactalbumin hydrolysate	Food	Bioactive
+LLM:alpha-muricholic_acid	α-muricholic acid	Food	Bioactive
+LLM:alphas2-casein_peptide_vyqhqkamkpwiqpktkvipyvryl	αs2-casein peptide (VYQHQKAMKPWIQPKTKVIPYVRYL)	Food	Bioactive
+LLM:beta-hydroxybutyrate	β-Hydroxybutyrate	Food	Bioactive
+LLM:beta-arbutin	β-arbutin	Food	Bioactive
+LLM:beta-carotene	β-carotene	Food	Bioactive
+LLM:beta-casofensin	β-casofensin	Food	Bioactive
+LLM:beta-hydroxy_beta-methylbutyrate	β-hydroxy β-methylbutyrate	Food	Bioactive
+LLM:kappa-selenocarrageenan_oligosaccharides	κ-selenocarrageenan oligosaccharides	Food	Bioactive

@@ -1,0 +1,129 @@
+id	recommended_decision	note
+LLM:vsl_3	keep	multi-strain probiotic product
+LLM:4-sure_diet	keep	a diet
+LLM:mume_fructus_extract_mfe40	keep	plant extract preparation
+LLM:2_3_5_4_-tetrahydroxystilbene-2-o-beta-d-glucoside	Bioactive	stilbene glycoside compound
+LLM:bacillus_subtilis-fermented_milk	keep	fermented food
+LLM:lactiplantibacillus_plantarum_zj316-fermented_milk	keep	fermented food
+LLM:lactobacillus_plantarum_sc-5_and_tyrosol_combination	keep	combination
+LLM:n1-aminopropylagmatine	Bioactive	polyamine compound (already Bioactive)
+LLM:bacillus_natto_jlcc513_and_ginseng-soluble_dietary_fiber	keep	synbiotic combination
+LLM:biolex_mb40	keep	commercial yeast beta-glucan product; borderline, could be Bioactive
+LLM:lactiplantibacillus_plantarum_as21	Microbe	genuine strain
+LLM:lactiplantibacillus_plantarum_cgmcc9513	Microbe	genuine strain
+LLM:lactiplantibacillus_plantarum_hy7718	Microbe	genuine strain
+LLM:lactiplantibacillus_plantarum_hyy-s10	Microbe	genuine strain
+LLM:lactiplantibacillus_plantarum_js19-fermented_goat_milk	keep	fermented food
+LLM:lactobacillus_delbrueckii_cidca_133_fermented_milk	keep	fermented food
+LLM:lactobacillus_rhamnosus_and_l_plantarum_combination	keep	combination
+LLM:limosilactobacillus_fermentum_hf06_and_lactiplatibacillus_plantarum_hf05	keep	two-microbe combination
+LLM:peonidin-3-o-_3_6-o-dimalonyl-beta-d-glucoside	Bioactive	anthocyanin compound
+LLM:bifidobacterium_longum_subsp_longum_ys108r_exopolysaccharide	Bioactive	exopolysaccharide
+LLM:chinese_yam_polysaccharide_cyp-1	Bioactive	polysaccharide
+LLM:companilactobacillus_crustorum_mn047	Microbe	genuine strain
+LLM:dgps-2b_arabinoxylan	Bioactive	arabinoxylan (dietary fibre)
+LLM:diesel_pm2_5	keep	environmental pollutant; out-of-scope oddity
+LLM:enterococcus_faecium_kimate-x_and_lactobacillus_plantarum_kimate-f	keep	two-microbe combination
+LLM:escherichia_coli_nissle_1917_engineered_with_catalase_and_superoxide_dismutase	Microbe	engineered strain
+LLM:escherichia_coli_nissle_1917_expressing_elafin	Microbe	engineered strain
+LLM:escherichia_coli_nissle_1917_membrane_vesicles_with_roflumilast_and_mno2	Bioactive	engineered membrane-vesicle drug carrier
+LLM:glp-1_receptor_agonist	Bioactive	drug class
+LLM:lacticaseibacillus_paracasei_bncc345679	Microbe	genuine strain
+LLM:lacticaseibacillus_paracasei_jy062_postbiotic	Bioactive	postbiotic
+LLM:lacticaseibacillus_rhamnosus_ms27	Microbe	genuine strain
+LLM:lacticaseibacillus_rhamnosus_probio-m9	Microbe	genuine strain
+LLM:lactiplantibacillus_lr-1_biofilm	Microbe	biofilm form of the strain; borderline
+LLM:lactiplantibacillus_plantarum_bw2013	Microbe	genuine strain
+LLM:lactobacillus_acidophilus_huan_kui_le_suspension	keep	combination (microbe + TCM formula)
+LLM:lactobacillus_delbrueckii_cidca_133_postbiotic_proteins	Bioactive	postbiotic proteins
+LLM:lactobacillus_rhamnosus_lgg_mpn_l_with_egc	keep	combination (microbe + EGC)
+LLM:ngp-3_polysaccharide	Bioactive	polysaccharide
+LLM:pine_pollen_polysaccharide_ppm60	Bioactive	polysaccharide
+LLM:selenium-enriched_bifidobacterium_longum_dd98	Microbe	selenium-enriched strain
+LLM:shewanella_oneidensis_mr-1_with_ta-cof-magnolol	keep	combination / construct
+LLM:sulfated_pine_pollen_polysaccharide_sppm60	Bioactive	polysaccharide
+LLM:fermented_soymilk_fsm4	keep	fermented food
+LLM:hawthorn_polysaccharide_haw1-2	Bioactive	polysaccharide
+LLM:pine_pollen_polysaccharide_ppm60-iii	Bioactive	polysaccharide
+LLM:sulfated_polysaccharide_sppm60-iii	Bioactive	polysaccharide
+LLM:astragalus_polysaccharide_aps1	Bioactive	polysaccharide
+LLM:escherichia_coli_nissle_1917_keratin_hydrogel	keep	microbe-in-material construct; borderline
+LLM:escherichia_coli_nissle_1917_probiotic_expressing_sj16	Microbe	engineered strain
+LLM:fpsp-2	keep	AMBIGUOUS acronym; likely a polysaccharide - verify, set Bioactive if so
+LLM:gw0742	Bioactive	drug (PPAR-delta agonist)
+LLM:lacticaseibacillus_rhamnosus_lra05	Microbe	genuine strain
+LLM:lactiplantibacillus_plantarum_bd7807	Microbe	genuine strain
+LLM:lactiplantibacillus_plantarum_scs2	Microbe	genuine strain
+LLM:lactiplantibacillus_plantarum_sffi23	Microbe	genuine strain
+LLM:lactobacillus_acidophilus_and_pediococcus_acidilactici_combination	keep	combination
+LLM:lactobacillus_casei_zhang_lactobacillus_plantarum_p-8_and_bifidobacterium_animal	keep	multi-strain combination
+LLM:lactobacillus_paracasei_kbl382_and_lactobacillus_plantarum_kbl396	keep	combination
+LLM:lactobacillus_rhamnosus_gg_vitamin_d3	keep	combination (microbe + vitamin D3)
+LLM:limosilactobacillus_fermentum_hf06_paraprobiotic	Microbe	paraprobiotic (inactivated whole cells)
+LLM:limosilactobacillus_fermentum_hf06_postbiotic	Bioactive	postbiotic
+LLM:limosilactobacillus_mucosae_ccfm1273_exopolysaccharide	Bioactive	exopolysaccharide
+LLM:limosilactobacillus_reuteri_fphc2951	Microbe	genuine strain
+LLM:lycium_barbarum_polysaccharides_and_bifidobacterium_longum_olp-01	keep	combination
+LLM:mh002_bacterial_consortium	keep	multi-strain consortium
+LLM:mof-818	keep	synthetic material (nanozyme); out-of-scope oddity
+LLM:ops-2071	Bioactive	drug (antibiotic candidate)
+LLM:sea_buckthorn_fermented_milk_with_lactiplantibacillus_plantarum_yhg-87	keep	fermented food
+LLM:tak-242	Bioactive	drug (TLR4 inhibitor, resatorvid)
+LLM:tgf-beta2_enriched_food_for_special_medical_purposes	keep	medical food
+LLM:vsl_3_synbiotic_with_yacon-based_concentrate	keep	combination / product
+LLM:almond_gum_polysaccharide_eagp-w1	Bioactive	polysaccharide
+LLM:honeysuckle_mir2911	Bioactive	plant microRNA
+LLM:maggot_polysaccharide_mp-80	Bioactive	polysaccharide
+LLM:orange_juice_containing_pediococcus_acidilactici_ce51	keep	food product
+LLM:1h-indole-3-carboxaldehyde	Bioactive	indole metabolite (already Bioactive)
+LLM:il-10	Bioactive	cytokine (already Bioactive)
+LLM:il-22	Bioactive	cytokine (already Bioactive)
+LLM:il-4	Bioactive	cytokine (already Bioactive)
+LLM:anti-inflammatory_il-10	Bioactive	cytokine (already Bioactive)
+LLM:2_-fl	Bioactive	2'-fucosyllactose (oligosaccharide)
+LLM:ain93g_diet	keep	standard rodent diet
+LLM:akkermansia_muciniphila_fermented_metabolites	Bioactive	fermented metabolites
+LLM:bio-25_probiotic	keep	multi-strain probiotic product
+LLM:bleps-1	keep	AMBIGUOUS acronym; likely an exopolysaccharide - verify, set Bioactive if so
+LLM:bacillus_coagulans_fcys01_spores_chitooligosaccharides	keep	synbiotic combination
+LLM:bacillus_coagulans_mtcc5856_with_sugar_cane_fibre	keep	combination
+LLM:bacillus_coagulans_with_rosmarinic_acid_and_silk_fibroin	keep	combination
+LLM:bifidobacterium_animalis_ssp_lactis_bx-245_powder	Microbe	strain as a powder (whole-cell prep)
+LLM:bifidobacterium_animalis_ssp_lactis_bx-245-fermented_milk	keep	fermented food
+LLM:cdd-2103	keep	AMBIGUOUS; likely a botanical/herbal drug formulation - verify
+LLM:cawo4_ycw	keep	synthetic material construct; out-of-scope oddity
+LLM:clostridium_butyricum_fermented_metabolites	Bioactive	fermented metabolites
+LLM:ehlj7	keep	AMBIGUOUS acronym - verify
+LLM:escherichia_coli_nissle_1917_tyrosinase_overexpressing_strain_ecn-t	Microbe	engineered strain
+LLM:escherichia_coli_nissle_1917_with_fe-ta_mgn_shield	keep	microbe-in-material construct; borderline
+LLM:escherichia_coli_nissle_1917_with_vitreoscilla_hemoglobin	Microbe	engineered strain
+LLM:isorhamnetin-3-o-glucoside	Bioactive	flavonoid glycoside compound
+LLM:lacticaseibacillus_paracasei_hy2782	Microbe	genuine strain
+LLM:lactiplantibacillus_plantarum_fbt215	Microbe	genuine strain
+LLM:lactiplantibacillus_plantarum_imc513	Microbe	genuine strain
+LLM:lactobacillus_delbrueckii_cidca_133_pexu_hsp65_milk_ferment	keep	engineered-strain milk ferment
+LLM:lactobacillus_fermentum_fermented_whey	keep	fermented food
+LLM:lactobacillus_paracasei_tk1501_fermented_soybean	keep	fermented food
+LLM:lactobacillus_paracasei_expressing_porcine_tff3_and_egf	Microbe	engineered strain
+LLM:lactobacillus_paracasei_subsp_paracasei_ntu_101	Microbe	genuine strain
+LLM:limosilactobacillus_fermentum_hfy06	Microbe	genuine strain
+LLM:limosilactobacillus_fermentum_im57	Microbe	genuine strain
+LLM:limosilactobacillus_fermentum_ir62	Microbe	genuine strain
+LLM:limosilactobacillus_reuteri_r2lc	Microbe	genuine strain
+LLM:lpmp-8	keep	AMBIGUOUS acronym; likely a polysaccharide - verify
+LLM:nmw1	keep	AMBIGUOUS acronym - verify
+LLM:nmw2	keep	AMBIGUOUS acronym - verify
+LLM:pat1_loss	keep	host gene knockout condition; out-of-scope oddity
+LLM:pr39_peptide	Bioactive	peptide
+LLM:sel001	keep	AMBIGUOUS acronym - verify
+LLM:slc26a6	keep	host transporter gene; out-of-scope oddity
+LLM:saccharomyces_cerevisiae_fermentation_product	keep	fermentation product / preparation
+LLM:strain_gr-4	Microbe	a microbial strain
+LLM:vitamin_a_and_bifidobacterium_longum_subsp_infantis_ccfm1426_combination	keep	combination
+LLM:arabinoxylan_and_lactobacillus_fermentum_hfy06_synbiotic	keep	synbiotic combination
+LLM:corn_with_3-hf_anthocyanins	keep	food
+LLM:heat-killed_lactobacillus_casei_dkgf7	Microbe	heat-killed cells (whole-cell prep)
+LLM:human_muc2	keep	host mucin protein; out-of-scope oddity
+LLM:licorice_endophyte_jtzb55	Microbe	endophytic microbe strain
+LLM:petunidin_3-o-_rhamnopyranosyl-_trans-p-coumaroyl_-5-o-_beta-d-glucopyranoside	Bioactive	anthocyanin compound
+LLM:yacon_juice_fermented_by_lactiplantibacillus_plantarum_qs7t	keep	fermented food

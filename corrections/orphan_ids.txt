@@ -1,0 +1,7 @@
+LLM:5-_3_4_-dihydroxyphenyl_-gamma-valerolactone
+LLM:antioxidant_compound
+LLM:homogalacturonan
+LLM:rhamnogalacturonan-i
+LLM:triterpenoid_saponin
+LLM:cranberry_polyphenol
+LLM:phenolic_glycosides

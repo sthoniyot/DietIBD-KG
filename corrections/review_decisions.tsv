@@ -1,0 +1,938 @@
+id	label	current_type	bucket	degree	suggested_decision	decision
+LLM:sodium_butyrate	sodium butyrate	Food	compound_candidate	33	Bioactive	Bioactive
+LLM:lycium_barbarum_polysaccharide	Lycium barbarum polysaccharide	Food	compound_candidate	20	Bioactive	Bioactive
+LLM:2_-fucosyllactose	2'-fucosyllactose	Food	compound_candidate	19	Bioactive	Bioactive
+LLM:high-fat_diet	high-fat diet	Food	dietary_pattern	13	keep	keep
+LLM:saccharomyces_boulardii	Saccharomyces boulardii	Food	high_confidence_microbe	12	Microbe	Microbe
+LLM:vsl_3	VSL#3	Food	medium_microbe	11	Microbe	keep
+LLM:chrysanthemum_morifolium_polysaccharide	Chrysanthemum morifolium polysaccharide	Food	compound_candidate	10	Bioactive	Bioactive
+LLM:schisandra_chinensis_polysaccharide	Schisandra chinensis polysaccharide	Food	compound_candidate	9	Bioactive	Bioactive
+LLM:red_meat_diet	red meat diet	Food	dietary_pattern	9	keep	keep
+LLM:panax_notoginseng_saponins	Panax notoginseng saponins	Food	compound_candidate	8	Bioactive	Bioactive
+LLM:carboxymethylcellulose	carboxymethylcellulose	Food	compound_candidate	8	Bioactive	Bioactive
+LLM:chicoric_acid	chicoric acid	Food	compound_candidate	8	Bioactive	Bioactive
+LLM:paeonol	paeonol	Food	compound_candidate	8	Bioactive	Bioactive
+LLM:high-protein_diet	high-protein diet	Food	dietary_pattern	8	keep	keep
+LLM:specific_carbohydrate_diet	specific carbohydrate diet	Food	dietary_pattern	8	keep	keep
+LLM:akkermansia_muciniphila_extracellular_vesicles	Akkermansia muciniphila extracellular vesicles	Food	high_confidence_microbe	7	Microbe	Bioactive
+LLM:bifidobacterium_bifidum_tmc3115	Bifidobacterium bifidum TMC3115	Food	high_confidence_microbe	7	Microbe	Microbe
+LLM:lactobacillus_reuteri_dsm_17938	Lactobacillus reuteri DSM 17938	Food	high_confidence_microbe	7	Microbe	Microbe
+LLM:4-sure_diet	4-SURE diet	Food	medium_microbe	7	Microbe	keep
+LLM:mume_fructus_extract_mfe40	Mume Fructus extract MFE40	Food	medium_microbe	7	Microbe	keep
+LLM:bletilla_striata_polysaccharide	Bletilla striata polysaccharide	Food	compound_candidate	7	Bioactive	Bioactive
+LLM:dendrobium_officinale_polysaccharide	Dendrobium officinale polysaccharide	Food	compound_candidate	7	Bioactive	Bioactive
+LLM:echinacea_purpurea_polysaccharide	Echinacea purpurea polysaccharide	Food	compound_candidate	7	Bioactive	Bioactive
+LLM:fuzhuan_brick_tea_polysaccharide	Fuzhuan brick tea polysaccharide	Food	compound_candidate	7	Bioactive	Bioactive
+LLM:salidroside	salidroside	Food	compound_candidate	7	Bioactive	Bioactive
+LLM:sucralose	sucralose	Food	compound_candidate	7	Bioactive	Bioactive
+LLM:tea_flower_polysaccharide	tea flower polysaccharide	Food	compound_candidate	7	Bioactive	Bioactive
+LLM:tea_polysaccharides	tea polysaccharides	Food	compound_candidate	7	Bioactive	Bioactive
+LLM:thyme_polyphenol	thyme polyphenol	Food	compound_candidate	7	Bioactive	keep
+LLM:xylo-oligosaccharide	xylo-oligosaccharide	Food	compound_candidate	7	Bioactive	Bioactive
+LLM:bacillus_clausii_ubbc-07	Bacillus clausii UBBC-07	Food	high_confidence_microbe	6	Microbe	Microbe
+LLM:bifidobacterium_animalis_subsp_lactis_xltg11	Bifidobacterium animalis subsp. lactis XLTG11	Food	high_confidence_microbe	6	Microbe	Microbe
+LLM:saccharomyces_cerevisiae_qhnld8l1	Saccharomyces cerevisiae QHNLD8L1	Food	high_confidence_microbe	6	Microbe	Microbe
+LLM:allium_macrostemon_polysaccharide	Allium macrostemon polysaccharide	Food	compound_candidate	6	Bioactive	Bioactive
+LLM:chinese_yam_polysaccharide	Chinese yam polysaccharide	Food	compound_candidate	6	Bioactive	Bioactive
+LLM:panax_quinquefolius_polysaccharide	Panax quinquefolius polysaccharide	Food	compound_candidate	6	Bioactive	Bioactive
+LLM:polygonatum_kingianum_polysaccharide	Polygonatum kingianum polysaccharide	Food	compound_candidate	6	Bioactive	Bioactive
+LLM:xanthohumol	Xanthohumol	Food	compound_candidate	6	Bioactive	Bioactive
+LLM:apple_polyphenols_extract	apple polyphenols extract	Food	compound_candidate	6	Bioactive	Bioactive
+LLM:fructooligosaccharide	fructooligosaccharide	Food	compound_candidate	6	Bioactive	Bioactive
+LLM:glycerol_monolaurate	glycerol monolaurate	Food	compound_candidate	6	Bioactive	Bioactive
+LLM:tea_polyphenols	tea polyphenols	Food	compound_candidate	6	Bioactive	Bioactive
+LLM:yeast_beta-glucan	yeast β-glucan	Food	compound_candidate	6	Bioactive	Bioactive
+LLM:beta-carotene	β-carotene	Food	compound_candidate	6	Bioactive	Bioactive
+LLM:mediterranean_diet	Mediterranean diet	Food	dietary_pattern	6	keep	keep
+LLM:bifidobacterium_animalis_subsp_lactis_bl-99	Bifidobacterium animalis subsp. lactis BL-99	Food	high_confidence_microbe	5	Microbe	Microbe
+LLM:bifidobacterium_longum_cect_7894	Bifidobacterium longum CECT 7894	Food	high_confidence_microbe	5	Microbe	Microbe
+LLM:candida_utilis	Candida utilis	Food	high_confidence_microbe	5	Microbe	Microbe
+LLM:lactobacillus_plantarum_lac16	Lactobacillus plantarum Lac16	Food	high_confidence_microbe	5	Microbe	Microbe
+LLM:lactobacillus_plantarum_zj316	Lactobacillus plantarum ZJ316	Food	high_confidence_microbe	5	Microbe	Microbe
+LLM:lactobacillus_rhamnosus_sha113	Lactobacillus rhamnosus SHA113	Food	high_confidence_microbe	5	Microbe	Microbe
+LLM:2_3_5_4_-tetrahydroxystilbene-2-o-beta-d-glucoside	2,3,5,4'-tetrahydroxystilbene-2-O-β-D-glucoside	Food	medium_microbe	5	Microbe	Bioactive
+LLM:bacillus_subtilis-fermented_milk	Bacillus subtilis-fermented milk	Food	medium_microbe	5	Microbe	keep
+LLM:lactiplantibacillus_plantarum_zj316-fermented_milk	Lactiplantibacillus plantarum ZJ316-fermented milk	Food	medium_microbe	5	Microbe	keep
+LLM:lactobacillus_plantarum_sc-5_and_tyrosol_combination	Lactobacillus plantarum SC-5 and tyrosol combination	Food	medium_microbe	5	Microbe	keep
+LLM:5-aminosalicylic_acid	5-aminosalicylic acid	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:amomum_tsaoko_flavonoids	Amomum tsaoko flavonoids	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:atractylodes_macrocephala_polysaccharide	Atractylodes macrocephala polysaccharide	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:cili_polyphenols	CiLi polyphenols	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:codonopsis_pilosula_polysaccharide	Codonopsis pilosula polysaccharide	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:dehydroandrographolide_succinate	Dehydroandrographolide succinate	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:dendrobium_fimbriatum_polysaccharide	Dendrobium fimbriatum polysaccharide	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:ficus_carica_polysaccharide	Ficus carica polysaccharide	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:fu_brick_tea_polyphenols	Fu brick tea polyphenols	Food	compound_candidate	5	Bioactive	keep
+LLM:gastrodia_elata_polysaccharide	Gastrodia elata polysaccharide	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:grifola_frondosa_antioxidant_peptides	Grifola frondosa antioxidant peptides	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:hansfordia_sinuosae_polysaccharide	Hansfordia sinuosae polysaccharide	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:hericium_erinaceus_polysaccharide	Hericium erinaceus polysaccharide	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:lonicera_japonica_thunb_polysaccharide	Lonicera japonica Thunb polysaccharide	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:lycium_barbarum_glycopeptide	Lycium barbarum Glycopeptide	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:mesona_chinensis_benth_polysaccharide	Mesona chinensis Benth polysaccharide	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:ornithine_alpha-ketoglutarate	Ornithine α-ketoglutarate	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:phellodendri_chinensis_cortex_polysaccharide	Phellodendri chinensis Cortex polysaccharide	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:polygonatum_kingianum_polysaccharide_postbiotic	Polygonatum kingianum polysaccharide postbiotic	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:polygonatum_sibiricum_polysaccharide	Polygonatum sibiricum polysaccharide	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:poria_cocos_polysaccharide	Poria cocos polysaccharide	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:rhodiola_crenulata_polysaccharide	Rhodiola crenulata polysaccharide	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:smilax_china_polysaccharide	Smilax china polysaccharide	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:tieguanyin_oolong_tea_polysaccharides	Tieguanyin oolong tea polysaccharides	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:undaria_pinnatifida_polysaccharide	Undaria pinnatifida polysaccharide	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:arabinoxylan_hydrolyzate	arabinoxylan hydrolyzate	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:aspartate	aspartate	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:black_wolfberry_polysaccharide	black wolfberry polysaccharide	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:chebulagic_acid	chebulagic acid	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:kiwifruit_polyphenol_extract	kiwifruit polyphenol extract	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:lactulose	lactulose	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:pelargonidin-3-galactoside	pelargonidin-3-galactoside	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:plantamajoside	plantamajoside	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:short_chain_fatty_acids	short chain fatty acids	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:squid-derived_chondroitin_sulfate	squid-derived chondroitin sulfate	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:taurodeoxycholic_acid	taurodeoxycholic acid	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:walnut_septum_polyphenol	walnut septum polyphenol	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:kappa-selenocarrageenan_oligosaccharides	κ-selenocarrageenan oligosaccharides	Food	compound_candidate	5	Bioactive	Bioactive
+LLM:crohn_s_disease_exclusion_diet_with_partial_enteral_nutrition	Crohn's Disease Exclusion Diet with Partial Enteral Nutrition	Food	dietary_pattern	5	keep	keep
+LLM:mediterranean_diet_pattern	Mediterranean Diet Pattern	Food	dietary_pattern	5	keep	keep
+LLM:western_diet	Western diet	Food	dietary_pattern	5	keep	keep
+LLM:anti-inflammatory_diet	anti-inflammatory diet	Food	dietary_pattern	5	keep	keep
+LLM:elemental_diet	elemental diet	Food	dietary_pattern	5	keep	keep
+LLM:hydrolyzed_protein_diet	hydrolyzed protein diet	Food	dietary_pattern	5	keep	keep
+LLM:ketogenic_diet	ketogenic diet	Food	dietary_pattern	5	keep	keep
+LLM:bacillus_thuringiensis_exopolysaccharide_bps-2	Bacillus thuringiensis exopolysaccharide BPS-2	Food	high_confidence_microbe	4	Microbe	Bioactive
+LLM:bacillus_velezensis_mz09	Bacillus velezensis MZ09	Food	high_confidence_microbe	4	Microbe	Microbe
+LLM:bacteroides_fragilis_capsular_polysaccharide_tp2	Bacteroides fragilis capsular polysaccharide TP2	Food	high_confidence_microbe	4	Microbe	Bioactive
+LLM:bifidobacterium_bifidum_m1-3	Bifidobacterium bifidum M1-3	Food	high_confidence_microbe	4	Microbe	Microbe
+LLM:bifidobacterium_breve_shmb_8001	Bifidobacterium breve SHMB 8001	Food	high_confidence_microbe	4	Microbe	Microbe
+LLM:bifidobacterium_longum-endostatin	Bifidobacterium longum-Endostatin	Food	high_confidence_microbe	4	Microbe	Microbe
+LLM:clostridium_butyricum-derived_antimicrobial_peptides	Clostridium butyricum-derived antimicrobial peptides	Food	high_confidence_microbe	4	Microbe	Bioactive
+LLM:lactobacillus_brevis_al0035	Lactobacillus brevis AL0035	Food	high_confidence_microbe	4	Microbe	Microbe
+LLM:lactobacillus_gasseri_jm1	Lactobacillus gasseri JM1	Food	high_confidence_microbe	4	Microbe	Microbe
+LLM:lactobacillus_plantarum_q7_extracellular_vesicles	Lactobacillus plantarum Q7 extracellular vesicles	Food	high_confidence_microbe	4	Microbe	Bioactive
+LLM:lactococcus_lactis_nz9000_with_mbd14	Lactococcus lactis NZ9000 with mBD14	Food	high_confidence_microbe	4	Microbe	Microbe
+LLM:latilactobacillus_sakei_ccfm1267	Latilactobacillus sakei CCFM1267	Food	high_confidence_microbe	4	Microbe	Microbe
+LLM:pediococcus_pentosaceus_cect_8330	Pediococcus pentosaceus CECT 8330	Food	high_confidence_microbe	4	Microbe	Microbe
+LLM:pediococcus_pentosaceus_li05	Pediococcus pentosaceus LI05	Food	high_confidence_microbe	4	Microbe	Microbe
+LLM:prevotella_histicola	Prevotella histicola	Food	high_confidence_microbe	4	Microbe	Microbe
+LLM:saccharomyces_boulardii_postbiotics	Saccharomyces boulardii postbiotics	Food	high_confidence_microbe	4	Microbe	Bioactive
+LLM:saccharomyces_cerevisiae_i4	Saccharomyces cerevisiae I4	Food	high_confidence_microbe	4	Microbe	Microbe
+LLM:weissella_paramesenteroides_nric1542	Weissella paramesenteroides NRIC1542	Food	high_confidence_microbe	4	Microbe	Microbe
+LLM:n1-aminopropylagmatine	N1-Aminopropylagmatine	Bioactive	medium_microbe	4	Microbe	Bioactive
+LLM:bacillus_natto_jlcc513_and_ginseng-soluble_dietary_fiber	Bacillus natto JLCC513 and ginseng-soluble dietary fiber	Food	medium_microbe	4	Microbe	keep
+LLM:biolex_mb40	Biolex MB40	Food	medium_microbe	4	Microbe	keep
+LLM:lactiplantibacillus_plantarum_as21	Lactiplantibacillus plantarum AS21	Food	medium_microbe	4	Microbe	Microbe
+LLM:lactiplantibacillus_plantarum_cgmcc9513	Lactiplantibacillus plantarum CGMCC9513	Food	medium_microbe	4	Microbe	Microbe
+LLM:lactiplantibacillus_plantarum_hy7718	Lactiplantibacillus plantarum HY7718	Food	medium_microbe	4	Microbe	Microbe
+LLM:lactiplantibacillus_plantarum_hyy-s10	Lactiplantibacillus plantarum HYY-S10	Food	medium_microbe	4	Microbe	Microbe
+LLM:lactiplantibacillus_plantarum_js19-fermented_goat_milk	Lactiplantibacillus plantarum JS19-fermented goat milk	Food	medium_microbe	4	Microbe	keep
+LLM:lactobacillus_delbrueckii_cidca_133_fermented_milk	Lactobacillus delbrueckii CIDCA 133 fermented milk	Food	medium_microbe	4	Microbe	keep
+LLM:lactobacillus_rhamnosus_and_l_plantarum_combination	Lactobacillus rhamnosus and L. plantarum combination	Food	medium_microbe	4	Microbe	keep
+LLM:limosilactobacillus_fermentum_hf06_and_lactiplatibacillus_plantarum_hf05	Limosilactobacillus fermentum HF06 and Lactiplatibacillus plantarum HF05	Food	medium_microbe	4	Microbe	keep
+LLM:peonidin-3-o-_3_6-o-dimalonyl-beta-d-glucoside	peonidin-3-O-(3,6-O-dimalonyl-β-D-glucoside)	Food	medium_microbe	4	Microbe	Bioactive
+LLM:agaricus_bisporus_polysaccharide	Agaricus bisporus polysaccharide	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:arthrospira_platensis_peptide_p1	Arthrospira platensis peptide P1	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:cistanche_deserticola_polysaccharide	Cistanche deserticola polysaccharide	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:cordyceps_sinensis_polysaccharides	Cordyceps sinensis polysaccharides	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:cramp_peptide	Cramp peptide	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:euglena_gracilis_beta-1_3-glucan	Euglena gracilis β-1,3-glucan	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:hongmeiren_citrus_polysaccharide	Hongmeiren citrus polysaccharide	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:houttuynia_cordata_polysaccharides	Houttuynia cordata polysaccharides	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:laetiporus_sulphureus_polysaccharide	Laetiporus sulphureus polysaccharide	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:laminaria_japonica_polysaccharide	Laminaria japonica polysaccharide	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:large-leaf_yellow_tea_peptides	Large-leaf yellow tea peptides	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:larimichthys_crocea_isinglass_polysaccharide	Larimichthys crocea isinglass polysaccharide	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:lyophyllum_decastes_polysaccharide	Lyophyllum decastes polysaccharide	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:nanfeng_tangerine_citrus_polysaccharide	Nanfeng tangerine citrus polysaccharide	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:phaeodactylum_tricornutum_polysaccharide	Phaeodactylum tricornutum polysaccharide	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:porphyra_haitanensis_polysaccharide	Porphyra haitanensis polysaccharide	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:safflower_polysaccharide	Safflower polysaccharide	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:sagittaria_sagittifolia_l_polysaccharide	Sagittaria sagittifolia L. polysaccharide	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:satsuma_citrus_polysaccharide	Satsuma citrus polysaccharide	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:scutellaria_baicalensis_georgi_polysaccharide	Scutellaria baicalensis Georgi polysaccharide	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:vitamin_e_delta-tocotrienol	Vitamin E delta-tocotrienol	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:agarwood_leaf_polyphenolic_extract	agarwood leaf polyphenolic extract	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:bamboo_shoot_polysaccharide	bamboo shoot polysaccharide	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:bornyl_acetate	bornyl acetate	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:butylchlorogenate	butylchlorogenate	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:carvacrol	carvacrol	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:compound_polysaccharides	compound polysaccharides	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:docosapentaenoic_acid	docosapentaenoic acid	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:fructose	fructose	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:galactooligosaccharide	galactooligosaccharide	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:glucose	glucose	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:guar_gum_beta-manno-oligosaccharides	guar gum β-manno-oligosaccharides	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:isoxanthohumol	isoxanthohumol	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:maize_tetrapeptide	maize tetrapeptide	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:microencapsulated_sodium_butyrate	microencapsulated sodium butyrate	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:nicotinamide_mononucleotide	nicotinamide mononucleotide	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:pear_peel_polyphenols	pear peel polyphenols	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:piceatannol	piceatannol	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:purple_sweet_potato_anthocyanin_extract	purple sweet potato anthocyanin extract	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:sea_cucumber_peptide	sea cucumber peptide	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:sinapic_acid	sinapic acid	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:sodium_houttuyfonate	sodium houttuyfonate	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:tannic_acid	tannic acid	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:turmeric_nonextractable_polyphenols	turmeric nonextractable polyphenols	Food	compound_candidate	4	Bioactive	keep
+LLM:walnut_protein_peptides	walnut protein peptides	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:wheat_bran_polyphenols	wheat bran polyphenols	Food	compound_candidate	4	Bioactive	keep
+LLM:wheat_germ_peptide_ape	wheat germ peptide APE	Food	compound_candidate	4	Bioactive	Bioactive
+LLM:beef_protein_diet	beef protein diet	Food	dietary_pattern	4	keep	keep
+LLM:low_fodmap_diet	low FODMAP diet	Food	dietary_pattern	4	keep	keep
+LLM:low-fat_high-fiber_diet	low-fat, high-fiber diet	Food	dietary_pattern	4	keep	keep
+LLM:mature_diet	mature diet	Food	dietary_pattern	4	keep	keep
+LLM:pro-inflammatory_diet	pro-inflammatory diet	Food	dietary_pattern	4	keep	keep
+LLM:akkermansia_muciniphila_one	Akkermansia muciniphila ONE	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:aspergillus_cristatus_intracellular_polysaccharides	Aspergillus cristatus intracellular polysaccharides	Food	high_confidence_microbe	3	Microbe	Bioactive
+LLM:bacillus_coagulans_mtcc5856	Bacillus coagulans MTCC5856	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:bacillus_coagulans_sank_70258	Bacillus coagulans SANK 70258	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:bacillus_licheniformis_bl-01	Bacillus licheniformis BL-01	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:bacteroides_salyersiae	Bacteroides salyersiae	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:bacteroides_uniformis_f18-22	Bacteroides uniformis F18-22	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:bifidobacterium_animalis_subsp_lactis_bla80	Bifidobacterium animalis subsp. lactis BLa80	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:bifidobacterium_animalis_subsp_lactis_lkm512	Bifidobacterium animalis subsp. lactis LKM512	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:bifidobacterium_bifidum_bd-1	Bifidobacterium bifidum BD-1	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:bifidobacterium_breve_b2798	Bifidobacterium breve B2798	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:bifidobacterium_lactis_v9	Bifidobacterium lactis V9	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:bifidobacterium_pseudocatenulatum_bi-ota128	Bifidobacterium pseudocatenulatum Bi-OTA128	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:christensenella_intestinihominis_af73-05cm02	Christensenella intestinihominis AF73-05CM02	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:clostridium_butyricum_extracellular_vesicles	Clostridium butyricum extracellular vesicles	Food	high_confidence_microbe	3	Microbe	Bioactive
+LLM:faecalibacterium_longum_cm04-06	Faecalibacterium longum CM04-06	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:faecalibacterium_prausnitzii_mam	Faecalibacterium prausnitzii MAM	Food	high_confidence_microbe	3	Microbe	Bioactive
+LLM:lactobacillus_acidophilus_kbl402	Lactobacillus acidophilus KBL402	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:lactobacillus_acidophilus_la85	Lactobacillus acidophilus LA85	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:lactobacillus_casei_rhamnosus	Lactobacillus casei rhamnosus	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:lactobacillus_fermentum_016	Lactobacillus fermentum 016	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:lactobacillus_fermentum_kbl375	Lactobacillus fermentum KBL375	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:lactobacillus_fermentum_s1	Lactobacillus fermentum S1	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:lactobacillus_gasseri_g098	Lactobacillus gasseri G098	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:lactobacillus_helveticus_lz-r-5	Lactobacillus helveticus LZ-R-5	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:lactobacillus_johnsonii_glj001	Lactobacillus johnsonii GLJ001	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:lactobacillus_johnsonii_n5	Lactobacillus johnsonii N5	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:lactobacillus_johnsonii_extracellular_vesicles	Lactobacillus johnsonii extracellular vesicles	Food	high_confidence_microbe	3	Microbe	Bioactive
+LLM:lactobacillus_paracasei_wis43	Lactobacillus paracasei WIS43	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:lactobacillus_plantarum_17-1	Lactobacillus plantarum 17-1	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:lactobacillus_plantarum_an1	Lactobacillus plantarum AN1	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:lactobacillus_plantarum_hnu082	Lactobacillus plantarum HNU082	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:lactobacillus_plantarum_lr002	Lactobacillus plantarum LR002	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:lactobacillus_plantarum_ujs001_extracellular_vesicles	Lactobacillus plantarum UJS001 extracellular vesicles	Food	high_confidence_microbe	3	Microbe	Bioactive
+LLM:lactobacillus_plantarum_yw11_exopolysaccharide	Lactobacillus plantarum YW11 exopolysaccharide	Food	high_confidence_microbe	3	Microbe	Bioactive
+LLM:lactobacillus_plantarum-12	Lactobacillus plantarum-12	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:lactobacillus_rhamnosus_kbl2290	Lactobacillus rhamnosus KBL2290	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:lactobacillus_salivarius_ucc118	Lactobacillus salivarius UCC118	Food	high_confidence_microbe	3	Microbe	Microbe
+LLM:bifidobacterium_longum_subsp_longum_ys108r_exopolysaccharide	Bifidobacterium longum subsp. longum YS108R exopolysaccharide	Food	medium_microbe	3	Microbe	Bioactive
+LLM:chinese_yam_polysaccharide_cyp-1	Chinese yam polysaccharide CYP-1	Food	medium_microbe	3	Microbe	Bioactive
+LLM:companilactobacillus_crustorum_mn047	Companilactobacillus crustorum MN047	Food	medium_microbe	3	Microbe	Microbe
+LLM:dgps-2b_arabinoxylan	DGPS-2B arabinoxylan	Food	medium_microbe	3	Microbe	Bioactive
+LLM:diesel_pm2_5	Diesel PM2.5	Food	medium_microbe	3	Microbe	keep
+LLM:enterococcus_faecium_kimate-x_and_lactobacillus_plantarum_kimate-f	Enterococcus faecium Kimate-X and Lactobacillus plantarum Kimate-F	Food	medium_microbe	3	Microbe	keep
+LLM:escherichia_coli_nissle_1917_engineered_with_catalase_and_superoxide_dismutase	Escherichia coli Nissle 1917 engineered with catalase and superoxide dismutase	Food	medium_microbe	3	Microbe	Microbe
+LLM:escherichia_coli_nissle_1917_expressing_elafin	Escherichia coli Nissle 1917 expressing Elafin	Food	medium_microbe	3	Microbe	Microbe
+LLM:escherichia_coli_nissle_1917_membrane_vesicles_with_roflumilast_and_mno2	Escherichia coli Nissle 1917 membrane vesicles with roflumilast and MnO2	Food	medium_microbe	3	Microbe	Bioactive
+LLM:glp-1_receptor_agonist	GLP-1 receptor agonist	Food	medium_microbe	3	Microbe	Bioactive
+LLM:lacticaseibacillus_paracasei_bncc345679	Lacticaseibacillus paracasei BNCC345679	Food	medium_microbe	3	Microbe	Microbe
+LLM:lacticaseibacillus_paracasei_jy062_postbiotic	Lacticaseibacillus paracasei JY062 postbiotic	Food	medium_microbe	3	Microbe	Bioactive
+LLM:lacticaseibacillus_rhamnosus_ms27	Lacticaseibacillus rhamnosus MS27	Food	medium_microbe	3	Microbe	Microbe
+LLM:lacticaseibacillus_rhamnosus_probio-m9	Lacticaseibacillus rhamnosus Probio-M9	Food	medium_microbe	3	Microbe	Microbe
+LLM:lactiplantibacillus_lr-1_biofilm	Lactiplantibacillus LR-1 biofilm	Food	medium_microbe	3	Microbe	Microbe
+LLM:lactiplantibacillus_plantarum_bw2013	Lactiplantibacillus plantarum BW2013	Food	medium_microbe	3	Microbe	Microbe
+LLM:lactobacillus_acidophilus_huan_kui_le_suspension	Lactobacillus acidophilus + Huan Kui Le suspension	Food	medium_microbe	3	Microbe	keep
+LLM:lactobacillus_delbrueckii_cidca_133_postbiotic_proteins	Lactobacillus delbrueckii CIDCA 133 postbiotic proteins	Food	medium_microbe	3	Microbe	Bioactive
+LLM:lactobacillus_rhamnosus_lgg_mpn_l_with_egc	Lactobacillus rhamnosus LGG (MPN@L with EGC)	Food	medium_microbe	3	Microbe	keep
+LLM:ngp-3_polysaccharide	NGP-3 polysaccharide	Food	medium_microbe	3	Microbe	Bioactive
+LLM:pine_pollen_polysaccharide_ppm60	Pine pollen polysaccharide (PPM60)	Food	medium_microbe	3	Microbe	Bioactive
+LLM:selenium-enriched_bifidobacterium_longum_dd98	Selenium-enriched Bifidobacterium longum DD98	Food	medium_microbe	3	Microbe	Microbe
+LLM:shewanella_oneidensis_mr-1_with_ta-cof-magnolol	Shewanella oneidensis MR-1 with TA-COF-magnolol	Food	medium_microbe	3	Microbe	keep
+LLM:sulfated_pine_pollen_polysaccharide_sppm60	Sulfated pine pollen polysaccharide (SPPM60)	Food	medium_microbe	3	Microbe	Bioactive
+LLM:fermented_soymilk_fsm4	fermented soymilk FSM4	Food	medium_microbe	3	Microbe	keep
+LLM:hawthorn_polysaccharide_haw1-2	hawthorn polysaccharide HAW1-2	Food	medium_microbe	3	Microbe	Bioactive
+LLM:pine_pollen_polysaccharide_ppm60-iii	pine pollen polysaccharide PPM60-III	Food	medium_microbe	3	Microbe	Bioactive
+LLM:sulfated_polysaccharide_sppm60-iii	sulfated polysaccharide SPPM60-III	Food	medium_microbe	3	Microbe	Bioactive
+LLM:r_-salbutamol	(R)-salbutamol	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:2-ketoglutaric_acid	2-ketoglutaric acid	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:6-shogaol	6-shogaol	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:7_8-dihydroxyflavone	7,8-Dihydroxyflavone	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:abelmoschi_corolla_polysaccharide	Abelmoschi Corolla polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:akebia_saponin_d	Akebia saponin D	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:albuca_bracteata_polysaccharide	Albuca bracteata polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:alfalfa_polysaccharide	Alfalfa polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:areca_catechu_polysaccharide	Areca catechu polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:artemisia_argyi_polyphenols	Artemisia argyi polyphenols	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:atractylodes_chinensis_polysaccharide	Atractylodes chinensis polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:aurantii_fructus_immaturus_flavonoid_extract	Aurantii Fructus immaturus flavonoid extract	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:chinese_olive_polyphenols	Chinese olive polyphenols	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:coptis_chinensis_total_alkaloids	Coptis chinensis total alkaloids	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:cyclocarya_paliurus_polysaccharide	Cyclocarya paliurus polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:diospyros_lotus_polysaccharide	Diospyros lotus polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:eucommia_polysaccharides	Eucommia polysaccharides	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:euphorbia_humifusa_polysaccharide	Euphorbia humifusa polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:eurotium_cristatum_polysaccharide	Eurotium cristatum polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:ganoderma_applanatum_polysaccharide	Ganoderma applanatum polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:ganoderma_lucidum_polysaccharide	Ganoderma lucidum polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:gentiopicroside	Gentiopicroside	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:gloiopeltis_furcata_polysaccharide	Gloiopeltis furcata polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:gracilaria_lemaneiformis_polysaccharide	Gracilaria lemaneiformis polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:hericium_erinaceus_beta-glucan_extract	Hericium erinaceus β-glucan extract	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:humic_acids	Humic acids	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:hyaluronic_acid-melatonin_nanoparticles	Hyaluronic acid-melatonin nanoparticles	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:hypecoum_leptocarpum_polysaccharide	Hypecoum leptocarpum polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:iqw_peptide	IQW peptide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:irw_peptide	IRW peptide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:inonotus_obliquus_polysaccharide	Inonotus obliquus polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:laiyang_pear_residue_polysaccharide	Laiyang pear residue polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:lentinus_edodes_ergosterol_hydrogel	Lentinus edodes ergosterol hydrogel	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:levilactobacillus_brevis_m-10_exopolysaccharide	Levilactobacillus brevis M-10 exopolysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:ligninoformic_acid	Ligninoformic acid	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:lupinus_albus_galacto-oligosaccharide	Lupinus albus galacto-oligosaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:moringa_oleifera_leaf_polysaccharide	Moringa oleifera leaf polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:moringa_oleifera_polysaccharide	Moringa oleifera polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:mytilus_coruscus_polysaccharide	Mytilus coruscus polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:nanguo_pear_polysaccharide	Nanguo pear polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:nostoc_commune_polysaccharide	Nostoc commune polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:perfluorolauric_acid	Perfluorolauric acid	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:phellinus_igniarius_polysaccharide	Phellinus igniarius polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:phoma_herbarum_alpha-d-glucan	Phoma herbarum α-D-glucan	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:polygonatum_sibiricum_saponins	Polygonatum sibiricum saponins	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:proanthocyanidins_and_beta-glucan	Proanthocyanidins and β-glucan	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:pulsatilla_chinensis_saponins	Pulsatilla chinensis saponins	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:r7i_peptide	R7I peptide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:rhopilema_esculentum_polysaccharide	Rhopilema esculentum polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:rosa_laevigata_polysaccharides	Rosa laevigata polysaccharides	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:rosa_roxburghii_tratt_fruit_polyphenols_nanogel	Rosa roxburghii Tratt fruit polyphenols nanogel	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:saccharina_japonica_cellulose	Saccharina japonica cellulose	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:sargassum_fusiforme_polysaccharide_fermented_with_lactobacillus_acidophilus	Sargassum fusiforme polysaccharide fermented with Lactobacillus acidophilus	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:scutellaria_barbata_polysaccharide	Scutellaria barbata polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:selaginella_uncinata_polysaccharide	Selaginella uncinata polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:selenium-enriched_lactobacillus_acidophilus	Selenium-enriched Lactobacillus acidophilus	Food	compound_candidate	3	Bioactive	Microbe
+LLM:shenling_baizhu_san_polysaccharides	Shenling Baizhu San polysaccharides	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:smilax_china_l_polyphenols	Smilax china L. polyphenols	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:sonchus_arvensis_polysaccharide	Sonchus arvensis polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:sophora_alopecuroides_l_alkaloids	Sophora alopecuroides L. alkaloids	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:sophora_flavescens_flavonoids	Sophora flavescens flavonoids	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:ziziphus_jujuba_polyphenol_extract	Ziziphus jujuba polyphenol extract	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:agarotriose	agarotriose	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:alginate	alginate	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:alginate-based_polysaccharide_composite_hydrogel	alginate-based polysaccharide composite hydrogel	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:aloe_polysaccharides	aloe polysaccharides	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:apple_peel_polyphenols	apple peel polyphenols	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:apple_polyphenol_extract	apple polyphenol extract	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:casein_hydrolysate	casein hydrolysate	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:celery_flavonoids	celery flavonoids	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:chlorogenic_acid_and_sodium_alginate_combination	chlorogenic acid and sodium alginate combination	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:corn_protein_hydrolysate	corn protein hydrolysate	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:delta-tocotrienol_13_-carboxychromanol	delta-tocotrienol 13'-carboxychromanol	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:enzymatically_hydrolyzed_wheat_bran-derived_zinc_phytate	enzymatically hydrolyzed wheat bran-derived zinc phytate	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:flaxseed_oligosaccharide	flaxseed oligosaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:ganoderic_acid	ganoderic acid	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:garlic_polysaccharide	garlic polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:geniposide	geniposide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:geraniol	geraniol	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:ginseng_polysaccharides	ginseng polysaccharides	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:high_molecular_weight_hyaluronic_acid	high molecular weight hyaluronic acid	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:high-polyphenol_lettuce_extract	high-polyphenol lettuce extract	Food	compound_candidate	3	Bioactive	keep
+LLM:hippuric_acid	hippuric acid	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:honey_polyphenols	honey polyphenols	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:hyaluronic_acid-astaxanthin_nanoparticles	hyaluronic acid-astaxanthin nanoparticles	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:hyaluronic_acid-bilirubin_nanomedicine	hyaluronic acid-bilirubin nanomedicine	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:kiwifruit_polysaccharide	kiwifruit polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:lacidophilin_tablets	lacidophilin tablets	Food	compound_candidate	3	Bioactive	keep
+LLM:licorice_flavonoid_extract	licorice flavonoid extract	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:locust_bean_gum_hydrolysate	locust bean gum hydrolysate	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:mango_polyphenolics	mango polyphenolics	Food	compound_candidate	3	Bioactive	keep
+LLM:millet_quinic_acid	millet quinic acid	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:mixed_probiotics_and_oligofructose	mixed probiotics and oligofructose	Food	compound_candidate	3	Bioactive	keep
+LLM:montmorillonite_with_anti-tnf-alpha_nanobody	montmorillonite with anti-TNF-α nanobody	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:mulberry_anthocyanins	mulberry anthocyanins	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:nanocrystalline_cellulose	nanocrystalline cellulose	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:native_kappa-carrageenan	native κ-carrageenan	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:nitrate	nitrate	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:noni_fruit_polysaccharides	noni fruit polysaccharides	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:oryzanol	oryzanol	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:oxidized_cholesterol	oxidized cholesterol	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:oxidized_polyunsaturated_fatty_acid	oxidized polyunsaturated fatty acid	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:panaxynol	panaxynol	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:patchoulene_epoxide	patchoulene epoxide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:polysorbate-80	polysorbate-80	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:probiotic_combination_saccharomyces_boulardii_lactobacillus_rhamnosus_lactobacil	probiotic combination (Saccharomyces boulardii, Lactobacillus rhamnosus, Lactobacillus acidophilus, Bifidobacterium breve with amylase)	Food	compound_candidate	3	Bioactive	keep
+LLM:protected_butyrate	protected butyrate	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:pumpkin_polysaccharides	pumpkin polysaccharides	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:quinoa_polysaccharides	quinoa polysaccharides	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:sanguinarine_chloride_hydrate	sanguinarine chloride hydrate	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:sanshool	sanshool	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:sea_buckthorn_polysaccharides	sea buckthorn polysaccharides	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:sea_conch_peptide_hydrolysate	sea conch peptide hydrolysate	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:selenium-containing_soybean_peptides	selenium-containing soybean peptides	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:selenium-enriched_spirulina_peptides	selenium-enriched spirulina peptides	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:shikimic_acid	shikimic acid	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:skipjack_enzymatic_peptide	skipjack enzymatic peptide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:sturgeon_hydrolysate	sturgeon hydrolysate	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:sturgeon-derived_peptide_llle	sturgeon-derived peptide LLLE	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:tamarind_seed_polysaccharide_hydrolysate	tamarind seed polysaccharide hydrolysate	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:teasaponin	teasaponin	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:thymol	thymol	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:turmeric_polysaccharides	turmeric polysaccharides	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:walnut_green_husk_polysaccharide	walnut green husk polysaccharide	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:whey_protein_hydrolysate	whey protein hydrolysate	Food	compound_candidate	3	Bioactive	Bioactive
+LLM:ascophyllum_nodosum_supplemented_hydrolysed_protein_diet	Ascophyllum nodosum supplemented hydrolysed protein diet	Food	dietary_pattern	3	keep	keep
+LLM:elental_elemental_diet	Elental elemental diet	Food	dietary_pattern	3	keep	keep
+LLM:mediterranean-like_dietary_pattern	Mediterranean-like dietary pattern	Food	dietary_pattern	3	keep	keep
+LLM:prescription_diet_gastrointestinal_biome	Prescription Diet Gastrointestinal Biome	Food	dietary_pattern	3	keep	keep
+LLM:amino_acid-balanced_diet	amino acid-balanced diet	Food	dietary_pattern	3	keep	keep
+LLM:balanced_vegetable_protein_diet	balanced vegetable protein diet	Food	dietary_pattern	3	keep	keep
+LLM:fasting-mimicking_diet	fasting-mimicking diet	Food	dietary_pattern	3	keep	keep
+LLM:fructose_diet	fructose diet	Food	dietary_pattern	3	keep	keep
+LLM:high_fodmap_diet	high FODMAP diet	Food	dietary_pattern	3	keep	keep
+LLM:high_fiber_diet	high fiber diet	Food	dietary_pattern	3	keep	keep
+LLM:high_fructose_diet	high fructose diet	Food	dietary_pattern	3	keep	keep
+LLM:high_salt_diet	high salt diet	Food	dietary_pattern	3	keep	keep
+LLM:high-fiber_diet	high-fiber diet	Food	dietary_pattern	3	keep	keep
+LLM:high-sugar_diet	high-sugar diet	Food	dietary_pattern	3	keep	keep
+LLM:iron-supplemented_diet	iron-supplemented diet	Food	dietary_pattern	3	keep	keep
+LLM:low-protein_soy_protein_diet	low-protein soy protein diet	Food	dietary_pattern	3	keep	keep
+LLM:milk-derived_fat_diet	milk-derived fat diet	Food	dietary_pattern	3	keep	keep
+LLM:multifiber_mix_diet	multifiber mix diet	Food	dietary_pattern	3	keep	keep
+LLM:reduced_sulfur_diet	reduced sulfur diet	Food	dietary_pattern	3	keep	keep
+LLM:westernized_diet	westernized diet	Food	dietary_pattern	3	keep	keep
+LLM:bacteroides_fragilis_toxin	Bacteroides fragilis toxin	Bioactive	high_confidence_microbe	2	Microbe	Bioactive
+LLM:aspergillus_oryzae_spores	Aspergillus oryzae spores	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:bacillus_coagulans_fcys01_spores	Bacillus coagulans FCYS01 spores	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:bacteroides_uniformis_capsular_polysaccharide	Bacteroides uniformis capsular polysaccharide	Food	high_confidence_microbe	2	Microbe	Bioactive
+LLM:bifidobacterium_animalis_a6	Bifidobacterium animalis A6	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:bifidobacterium_animalis_subsp_lactis_nj241	Bifidobacterium animalis subsp. lactis NJ241	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:bifidobacterium_bifidum_atcc_29521	Bifidobacterium bifidum ATCC 29521	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:bifidobacterium_bifidum_fjswx19m5	Bifidobacterium bifidum FJSWX19M5	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:bifidobacterium_bifidum_g9-1	Bifidobacterium bifidum G9-1	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:bifidobacterium_bifidum_h3-r2	Bifidobacterium bifidum H3-R2	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:bifidobacterium_bifidum_wbin03	Bifidobacterium bifidum WBIN03	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:bifidobacterium_longum_51a	Bifidobacterium longum 51A	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:bifidobacterium_longum_baa2573	Bifidobacterium longum BAA2573	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:bifidobacterium_longum_bl986	Bifidobacterium longum BL986	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:bifidobacterium_longum_cba7106	Bifidobacterium longum CBA7106	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:bifidobacterium_longum_selenium-enriched_mutant	Bifidobacterium longum selenium-enriched mutant	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:bifidobacterium_longum_subsp_infantis	Bifidobacterium longum subsp. infantis	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:clostridium_butyricum_c1-6	Clostridium butyricum C1-6	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:clostridium_butyricum_miyairi588	Clostridium butyricum Miyairi588	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:clostridium_butyricum_and_bifidobacterium_infantis	Clostridium butyricum and Bifidobacterium infantis	Food	high_confidence_microbe	2	Microbe	keep
+LLM:faecalibacterium_prausnitzii_extracellular_vesicles	Faecalibacterium prausnitzii extracellular vesicles	Food	high_confidence_microbe	2	Microbe	Bioactive
+LLM:lactobacillus_acidophilus_bio5768	Lactobacillus acidophilus BIO5768	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:lactobacillus_acidophilus_hscc_la042	Lactobacillus acidophilus HSCC LA042	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:lactobacillus_and_bifidobacterium_probiotic	Lactobacillus and Bifidobacterium probiotic	Food	high_confidence_microbe	2	Microbe	keep
+LLM:lactobacillus_casei_lc122	Lactobacillus casei LC122	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:lactobacillus_casei_zhang	Lactobacillus casei Zhang	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:lactobacillus_cocktail	Lactobacillus cocktail	Food	high_confidence_microbe	2	Microbe	keep
+LLM:lactobacillus_fermentum_glf-217	Lactobacillus fermentum GLF-217	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:lactobacillus_fermentum_extracellular_vesicles	Lactobacillus fermentum extracellular vesicles	Food	high_confidence_microbe	2	Microbe	Bioactive
+LLM:lactobacillus_feruloyl_esterase	Lactobacillus feruloyl esterase	Food	high_confidence_microbe	2	Microbe	Bioactive
+LLM:lactobacillus_gasseri_bnr17	Lactobacillus gasseri BNR17	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:lactobacillus_gasseri_pi41	Lactobacillus gasseri PI41	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:lactobacillus_kefiranofaciens	Lactobacillus kefiranofaciens	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:lactobacillus_paracasei_l9	Lactobacillus paracasei L9	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:lactobacillus_plantarum_apsulloc_331261	Lactobacillus plantarum APSulloc 331261	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:lactobacillus_plantarum_flp-215	Lactobacillus plantarum FLP-215	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:lactobacillus_plantarum_js19	Lactobacillus plantarum JS19	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:lactobacillus_plantarum_ncu116_exopolysaccharide	Lactobacillus plantarum NCU116 exopolysaccharide	Food	high_confidence_microbe	2	Microbe	Bioactive
+LLM:lactobacillus_plantarum_zdy2013	Lactobacillus plantarum ZDY2013	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:lactobacillus_reuteri_groel	Lactobacillus reuteri GroEL	Food	high_confidence_microbe	2	Microbe	Bioactive
+LLM:lactobacillus_reuteri_l6	Lactobacillus reuteri L6	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:lactobacillus_reuteri_mrd01	Lactobacillus reuteri MRD01	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:lactobacillus_rhamnosus_1_0320	Lactobacillus rhamnosus 1.0320	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:lactobacillus_rhamnosus_1_0320_postbiotics	Lactobacillus rhamnosus 1.0320 postbiotics	Food	high_confidence_microbe	2	Microbe	Bioactive
+LLM:lactobacillus_rhamnosus_m9	Lactobacillus rhamnosus M9	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:lactobacillus_rhamnosus_zfm231_exopolysaccharide	Lactobacillus rhamnosus ZFM231 exopolysaccharide	Food	high_confidence_microbe	2	Microbe	Bioactive
+LLM:lactobacillus_sakei_07	Lactobacillus sakei 07	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:propionibacterium_freudenreichii_b1	Propionibacterium freudenreichii B1	Food	high_confidence_microbe	2	Microbe	Microbe
+LLM:roseburia_intestinalis_extracellular_vesicles	Roseburia intestinalis extracellular vesicles	Food	high_confidence_microbe	2	Microbe	Bioactive
+LLM:citrobacter_rodentium-induced_colitis	Citrobacter rodentium-induced colitis	IBD_Outcome	high_confidence_microbe	2	Microbe	IBD_Outcome
+LLM:clostridium_difficile_colonization	Clostridium difficile colonization	IBD_Outcome	high_confidence_microbe	2	Microbe	IBD_Outcome
+LLM:astragalus_polysaccharide_aps1	Astragalus polysaccharide APS1	Food	medium_microbe	2	Microbe	Bioactive
+LLM:escherichia_coli_nissle_1917_keratin_hydrogel	Escherichia coli Nissle 1917 keratin hydrogel	Food	medium_microbe	2	Microbe	keep
+LLM:escherichia_coli_nissle_1917_probiotic_expressing_sj16	Escherichia coli Nissle 1917 probiotic expressing Sj16	Food	medium_microbe	2	Microbe	Microbe
+LLM:fpsp-2	FPSP-2	Food	medium_microbe	2	Microbe	keep
+LLM:gw0742	GW0742	Food	medium_microbe	2	Microbe	Bioactive
+LLM:lacticaseibacillus_rhamnosus_lra05	Lacticaseibacillus rhamnosus LRa05	Food	medium_microbe	2	Microbe	Microbe
+LLM:lactiplantibacillus_plantarum_bd7807	Lactiplantibacillus plantarum BD7807	Food	medium_microbe	2	Microbe	Microbe
+LLM:lactiplantibacillus_plantarum_scs2	Lactiplantibacillus plantarum SCS2	Food	medium_microbe	2	Microbe	Microbe
+LLM:lactiplantibacillus_plantarum_sffi23	Lactiplantibacillus plantarum SFFI23	Food	medium_microbe	2	Microbe	Microbe
+LLM:lactobacillus_acidophilus_and_pediococcus_acidilactici_combination	Lactobacillus acidophilus and Pediococcus acidilactici combination	Food	medium_microbe	2	Microbe	keep
+LLM:lactobacillus_casei_zhang_lactobacillus_plantarum_p-8_and_bifidobacterium_animal	Lactobacillus casei Zhang, Lactobacillus plantarum P-8 and Bifidobacterium animalis subsp. lactis V9 probiotics	Food	medium_microbe	2	Microbe	keep
+LLM:lactobacillus_paracasei_kbl382_and_lactobacillus_plantarum_kbl396	Lactobacillus paracasei KBL382 and Lactobacillus plantarum KBL396	Food	medium_microbe	2	Microbe	keep
+LLM:lactobacillus_rhamnosus_gg_vitamin_d3	Lactobacillus rhamnosus GG + vitamin D3	Food	medium_microbe	2	Microbe	keep
+LLM:limosilactobacillus_fermentum_hf06_paraprobiotic	Limosilactobacillus fermentum HF06 paraprobiotic	Food	medium_microbe	2	Microbe	Microbe
+LLM:limosilactobacillus_fermentum_hf06_postbiotic	Limosilactobacillus fermentum HF06 postbiotic	Food	medium_microbe	2	Microbe	Bioactive
+LLM:limosilactobacillus_mucosae_ccfm1273_exopolysaccharide	Limosilactobacillus mucosae CCFM1273 exopolysaccharide	Food	medium_microbe	2	Microbe	Bioactive
+LLM:limosilactobacillus_reuteri_fphc2951	Limosilactobacillus reuteri FPHC2951	Food	medium_microbe	2	Microbe	Microbe
+LLM:lycium_barbarum_polysaccharides_and_bifidobacterium_longum_olp-01	Lycium barbarum polysaccharides and Bifidobacterium longum OLP-01	Food	medium_microbe	2	Microbe	keep
+LLM:mh002_bacterial_consortium	MH002 bacterial consortium	Food	medium_microbe	2	Microbe	keep
+LLM:mof-818	MOF-818	Food	medium_microbe	2	Microbe	keep
+LLM:ops-2071	OPS-2071	Food	medium_microbe	2	Microbe	Bioactive
+LLM:sea_buckthorn_fermented_milk_with_lactiplantibacillus_plantarum_yhg-87	Sea buckthorn fermented milk with Lactiplantibacillus plantarum YHG-87	Food	medium_microbe	2	Microbe	keep
+LLM:tak-242	TAK-242	Food	medium_microbe	2	Microbe	Bioactive
+LLM:tgf-beta2_enriched_food_for_special_medical_purposes	TGF-β2 enriched food for special medical purposes	Food	medium_microbe	2	Microbe	keep
+LLM:vsl_3_synbiotic_with_yacon-based_concentrate	VSL#3 synbiotic with yacon-based concentrate	Food	medium_microbe	2	Microbe	keep
+LLM:almond_gum_polysaccharide_eagp-w1	almond gum polysaccharide EAGP-W1	Food	medium_microbe	2	Microbe	Bioactive
+LLM:honeysuckle_mir2911	honeysuckle MIR2911	Food	medium_microbe	2	Microbe	Bioactive
+LLM:maggot_polysaccharide_mp-80	maggot polysaccharide MP-80	Food	medium_microbe	2	Microbe	Bioactive
+LLM:orange_juice_containing_pediococcus_acidilactici_ce51	orange juice containing Pediococcus acidilactici CE51	Food	medium_microbe	2	Microbe	keep
+LLM:1-kestose	1-kestose	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:2_fucosyllactose	2'fucosyllactose	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:2-o-beta-d-glucopyranosyl-l-ascorbic_acid	2-O-β-d-glucopyranosyl-l-ascorbic acid	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:3_-sialyllactose	3'-sialyllactose	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:3_sialyllactose	3'sialyllactose	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:3_3_-diindolylmethane	3,3'-Diindolylmethane	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:3-_4-hydroxyphenyl_-propionic_acid	3-(4-hydroxyphenyl)-propionic acid	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:7-ketositosterol	7-ketositosterol	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:aconitum_carmichaelii_leaf_polysaccharide	Aconitum carmichaelii leaf polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:agrocybe_cylindracea_polysaccharide	Agrocybe cylindracea polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:allium_tenuissimum_polysaccharide	Allium tenuissimum polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:arjunolic_acid	Arjunolic acid	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:astragalus_membranaceus_polysaccharide	Astragalus membranaceus polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:atractylodes_macrocephala_koidz_polysaccharide	Atractylodes macrocephala Koidz polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:auricularia_auricula_polysaccharide	Auricularia auricula polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:baicalin_and_berberine_hydrochloride	Baicalin and berberine hydrochloride	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:bilobalide	Bilobalide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:boletus_aereus_polysaccharide	Boletus aereus polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:coix_seed_polysaccharide	Coix seed polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:coptis_chinensis_polysaccharide_and_berberine_combination	Coptis chinensis polysaccharide and berberine combination	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:cordyceps_cicadae_polysaccharide	Cordyceps cicadae polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:cordyceps_cicadae_polysaccharides	Cordyceps cicadae polysaccharides	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:corydalis_saxicola_total_alkaloids	Corydalis saxicola total alkaloids	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:crataegus_pinnatifida_polysaccharide	Crataegus pinnatifida polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:d-tagatose	D-tagatose	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:dha-enriched_triglyceride	DHA-enriched triglyceride	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:dendrobium_huoshanense_polysaccharide	Dendrobium huoshanense polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:enteromorpha_clathrata_polysaccharide	Enteromorpha clathrata polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:eurotium_cristatum_intracellular_polysaccharides	Eurotium cristatum intracellular polysaccharides	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:farrerol	Farrerol	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:flammuliana_velutipes_polysaccharide	Flammuliana velutipes polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:flammulina_velutipes_polysaccharide	Flammulina velutipes polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:fructo-oligosaccharide	Fructo-oligosaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:gfgfggf_peptide	GFGFGGF peptide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:glehnia_littoralis_polysaccharides	Glehnia littoralis polysaccharides	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:glycomacropeptide	Glycomacropeptide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:hericium_erinaceus_mycelium-derived_polysaccharide	Hericium erinaceus mycelium-derived polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:hizikia_fusiforme_polysaccharides	Hizikia fusiforme polysaccharides	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:huangshan_floral_mushroom_polysaccharide	Huangshan floral mushroom polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:large_yellow_tea_polysaccharide	Large yellow tea polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:lycium_barbarum_polysaccharides	Lycium barbarum polysaccharides	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:monascus_purpureus_exopolysaccharide	Monascus purpureus exopolysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:ophiopogon_japonicus_polysaccharide	Ophiopogon japonicus polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:panax_ginseng_polysaccharide	Panax ginseng polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:pericarpium_citri_reticulatae_chachiensis_polysaccharide	Pericarpium Citri Reticulatae 'Chachiensis' polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:phellinus_linteus_acidic_polysaccharide	Phellinus linteus acidic polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:polygonatum_cyrtonema_hua_oligosaccharide	Polygonatum Cyrtonema Hua oligosaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:polyguluronate	Polyguluronate	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:portulaca_oleracea_polysaccharide	Portulaca oleracea polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:potentilla_anserina_l_flavonoids	Potentilla anserina L. flavonoids	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:pyrus_pashia_buch_polysaccharide	Pyrus pashia Buch polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:rehmannia_glutinosa_polysaccharide	Rehmannia glutinosa polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:sanghuangporus_polyphenol_extract	Sanghuangporus polyphenol extract	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:sargassum_horneri_polysaccharide	Sargassum horneri polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:schisandra_chinensis_pectin_polysaccharide	Schisandra chinensis pectin polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:scorias_spongiosa_polysaccharide	Scorias spongiosa polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:sporisorium_reilianum_polysaccharides	Sporisorium reilianum polysaccharides	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:tetrastigma_hemsleyanum_polysaccharide	Tetrastigma hemsleyanum polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:tetrastigma_hemsleyanum_polysaccharides	Tetrastigma hemsleyanum polysaccharides	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:total_flavonoids_from_sea_buckthorn_leaves	Total Flavonoids from Sea Buckthorn Leaves	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:triptolide	Triptolide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:ulva_lactuca_polysaccharide	Ulva lactuca polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:zingiber_officinale_polysaccharide	Zingiber officinale polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:abalone_viscera_collagen_peptide	abalone viscera collagen peptide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:alpha-ketoglutarate	alpha-ketoglutarate	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:alpha-tocopherol	alpha-tocopherol	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:berberine_hydrochloride	berberine hydrochloride	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:bergamot_polysaccharide	bergamot polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:blackened_jujube_polysaccharide-zn_complex	blackened jujube polysaccharide-Zn complex	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:branched-chain_amino_acids	branched-chain amino acids	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:carboxymethylated_beta-glucan	carboxymethylated β-glucan	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:carvacrol_and_thymol	carvacrol and thymol	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:chestnut_nonstarch_polysaccharide	chestnut nonstarch polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:cyanidin-3-o-glucoside	cyanidin-3-O-glucoside	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:dandelion_root_polysaccharide	dandelion root polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:dandelion_root_polysaccharides	dandelion root polysaccharides	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:epigallocatechin-3-gallate	epigallocatechin-3-gallate	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:fish_collagen_peptide	fish collagen peptide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:ginseng_polysaccharide	ginseng polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:green_tea_polyphenols	green tea polyphenols	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:heparan_sulfate	heparan sulfate	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:hyocholic_acid	hyocholic acid	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:jellyfish_skin_polysaccharide	jellyfish skin polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:l-arabinose	l-arabinose	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:lactic_acid_bacteria	lactic acid bacteria	Food	compound_candidate	2	Bioactive	Microbe
+LLM:lily_polysaccharides	lily polysaccharides	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:mung_bean_peptides	mung bean peptides	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:n-3_polyunsaturated_fatty_acid_formulation	n-3 polyunsaturated fatty acid formulation	Food	compound_candidate	2	Bioactive	keep
+LLM:non-extractable_polyphenols-rich_fraction	non-extractable polyphenols-rich fraction	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:oligofructose	oligofructose	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:ovotransferrin-derived_peptide_iqw	ovotransferrin-derived peptide IQW	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:pacific_abalone_sulfated_polysaccharide	pacific abalone sulfated polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:palmitoleic_acid	palmitoleic acid	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:poly-d-3-hydroxybutyric_acid	poly-D-3-hydroxybutyric acid	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:quinoa_peptide_tpgaff	quinoa peptide TPGAFF	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:ramulus_mori_polysaccharide-plga_nanoparticles	ramulus mori polysaccharide-PLGA nanoparticles	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:rice_protein_peptides	rice protein peptides	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:sea_buckthorn_pericarp_polysaccharide	sea buckthorn pericarp polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:sea_buckthorn_polysaccharide	sea buckthorn polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:sedanolide	sedanolide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:selenium-containing_tea_polysaccharide	selenium-containing tea polysaccharide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:sodium_propionate	sodium propionate	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:stigmasterol	stigmasterol	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:syringic_acid	syringic acid	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:thiol-modified_hyaluronic_acid_hydrogel	thiol-modified hyaluronic acid hydrogel	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:tuna_bioactive_peptide	tuna bioactive peptide	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:uromyrtoside	uromyrtoside	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:wampee_polyphenol_extract	wampee polyphenol extract	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:whey_protein_isolate-tremella_fuciformis_polysaccharides_emulsion	whey protein isolate-Tremella fuciformis polysaccharides emulsion	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:zinc_hyaluronate	zinc hyaluronate	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:alpha-lactalbumin_hydrolysate	α-lactalbumin hydrolysate	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:beta-hydroxybutyrate	β-Hydroxybutyrate	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:beta-arbutin	β-arbutin	Food	compound_candidate	2	Bioactive	Bioactive
+LLM:antioxidant_diet	Antioxidant diet	Food	dietary_pattern	2	keep	keep
+LLM:crohn_s_disease_exclusion_diet_plus_partial_enteral_nutrition	Crohn's Disease Exclusion Diet plus partial enteral nutrition	Food	dietary_pattern	2	keep	keep
+LLM:mediterranean_diet_fat_blend	Mediterranean diet fat blend	Food	dietary_pattern	2	keep	keep
+LLM:tasty_healthy_diet	Tasty&Healthy diet	Food	dietary_pattern	2	keep	keep
+LLM:uc_exclusion_diet	UC Exclusion Diet	Food	dietary_pattern	2	keep	keep
+LLM:fiber-free_diet	fiber-free diet	Food	dietary_pattern	2	keep	keep
+LLM:fiber-rich_diet	fiber-rich diet	Food	dietary_pattern	2	keep	keep
+LLM:gluten-free_diet	gluten-free diet	Food	dietary_pattern	2	keep	keep
+LLM:grain-based_chow_diet	grain-based chow diet	Food	dietary_pattern	2	keep	keep
+LLM:high_sucrose_diet	high sucrose diet	Food	dietary_pattern	2	keep	keep
+LLM:high_sugar_diet	high sugar diet	Food	dietary_pattern	2	keep	keep
+LLM:high-fat_diet_with_sugar-sweetened_beverages	high-fat diet with sugar-sweetened beverages	Food	dietary_pattern	2	keep	keep
+LLM:high-fructose_diet	high-fructose diet	Food	dietary_pattern	2	keep	keep
+LLM:intermittent_ketogenic_diet	intermittent ketogenic diet	Food	dietary_pattern	2	keep	keep
+LLM:multi-fibre_mix_diet	multi-fibre mix diet	Food	dietary_pattern	2	keep	keep
+LLM:non-autoclaved_diet	non-autoclaved diet	Food	dietary_pattern	2	keep	keep
+LLM:plant-based_diet	plant-based diet	Food	dietary_pattern	2	keep	keep
+LLM:purified_diet	purified diet	Food	dietary_pattern	2	keep	keep
+LLM:vegetarian_diet	vegetarian diet	Food	dietary_pattern	2	keep	keep
+LLM:bacillus_coagulans_bc198	Bacillus coagulans BC198	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:bacillus_licheniformis_mcc2514	Bacillus licheniformis MCC2514	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:bacteroides_dorei_bdx-01	Bacteroides dorei BDX-01	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:bacteroides_fragilis_outer_membrane_vesicles	Bacteroides fragilis outer membrane vesicles	Food	high_confidence_microbe	1	Microbe	Bioactive
+LLM:bacteroides_fragilis_strain_zy-312	Bacteroides fragilis strain ZY-312	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:bacteroides_fragilis_vesicles	Bacteroides fragilis vesicles	Food	high_confidence_microbe	1	Microbe	Bioactive
+LLM:bifidobacterium_animalis_subsp_lactis	Bifidobacterium animalis subsp. lactis	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:bifidobacterium_bifidum_bgn4-sk	Bifidobacterium bifidum BGN4-SK	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:bifidobacterium_bifidum_mimbb75	Bifidobacterium bifidum MIMBb75	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:bifidobacterium_breve_ncim5671	Bifidobacterium breve NCIM5671	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:bifidobacterium_infantis_and_xylooligosaccharide	Bifidobacterium infantis and xylooligosaccharide	Food	high_confidence_microbe	1	Microbe	keep
+LLM:bifidobacterium_lactis	Bifidobacterium lactis	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:bifidobacterium_lactis_bl-99	Bifidobacterium lactis BL-99	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:bifidobacterium_longum_bb536	Bifidobacterium longum BB536	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:bifidobacterium_longum_nsp001-derived_extracellular_vesicles	Bifidobacterium longum NSP001-derived extracellular vesicles	Food	high_confidence_microbe	1	Microbe	Bioactive
+LLM:bifidobacterium_longum_olp-01	Bifidobacterium longum OLP-01	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:bifidobacterium_spp	Bifidobacterium spp.	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:christensenellaceae_minuta_probiotic	Christensenellaceae minuta probiotic	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:clostridium_butyricum_gkb7	Clostridium butyricum GKB7	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:clostridium_butyricum_and_chitooligosaccharides	Clostridium butyricum and chitooligosaccharides	Food	high_confidence_microbe	1	Microbe	keep
+LLM:clostridium_butyricum_extracellular_vesicle	Clostridium butyricum extracellular vesicle	Food	high_confidence_microbe	1	Microbe	Bioactive
+LLM:enterobacteriaceae_coli_ecn_1917	Enterobacteriaceae coli ECN 1917	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_acidophilus_c4	Lactobacillus acidophilus C4	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_acidophilus_klds_1_0901	Lactobacillus acidophilus KLDS 1.0901	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_acidophilus_ncfm	Lactobacillus acidophilus NCFM	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_acidophilus_pin7_paraprobiotic	Lactobacillus acidophilus PIN7 paraprobiotic	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_acidophilus_xy27	Lactobacillus acidophilus XY27	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_brevis	Lactobacillus brevis	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_brevis_02	Lactobacillus brevis 02	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_brevis_polyphosphate	Lactobacillus brevis polyphosphate	Food	high_confidence_microbe	1	Microbe	Bioactive
+LLM:lactobacillus_casei_atcc_393	Lactobacillus casei ATCC 393	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_casei_atcc_393_metabolites	Lactobacillus casei ATCC 393 metabolites	Food	high_confidence_microbe	1	Microbe	Bioactive
+LLM:lactobacillus_casei_dg	Lactobacillus casei DG	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_casei_strain_shirota	Lactobacillus casei Strain Shirota	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_delbrueckii_yn1	Lactobacillus delbrueckii YN1	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_delbrueckii_subsp_bulgaricus_b3	Lactobacillus delbrueckii subsp. Bulgaricus B3	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_fermentum_f-b9-1_metabolites	Lactobacillus fermentum F-B9-1 metabolites	Food	high_confidence_microbe	1	Microbe	Bioactive
+LLM:lactobacillus_fermentum_kbl374	Lactobacillus fermentum KBL374	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_fermentum_zs40	Lactobacillus fermentum ZS40	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_gasseri_p12_fermentation_supernatant	Lactobacillus gasseri P12 fermentation supernatant	Food	high_confidence_microbe	1	Microbe	Bioactive
+LLM:lactobacillus_helveticus_klds_1_8701	Lactobacillus helveticus KLDS 1.8701	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_helveticus_exopolysaccharide	Lactobacillus helveticus exopolysaccharide	Food	high_confidence_microbe	1	Microbe	Bioactive
+LLM:lactobacillus_jensenii_tl2937	Lactobacillus jensenii TL2937	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_johnsonii_culture_supernatant	Lactobacillus johnsonii culture supernatant	Food	high_confidence_microbe	1	Microbe	Bioactive
+LLM:lactobacillus_paracasei_ijh-sone68_exopolysaccharide	Lactobacillus paracasei IJH-SONE68 exopolysaccharide	Food	high_confidence_microbe	1	Microbe	Bioactive
+LLM:lactobacillus_paracasei_jy062_exopolysaccharide	Lactobacillus paracasei JY062 exopolysaccharide	Food	high_confidence_microbe	1	Microbe	Bioactive
+LLM:lactobacillus_paracasei_jlus66	Lactobacillus paracasei Jlus66	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_paracasei_n1115	Lactobacillus paracasei N1115	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_pentosus_a14-6	Lactobacillus pentosus A14-6	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_pentosus_a14-6_with_xylooligosaccharide	Lactobacillus pentosus A14-6 with xylooligosaccharide	Food	high_confidence_microbe	1	Microbe	keep
+LLM:lactobacillus_pentosus_cmy46	Lactobacillus pentosus CMY46	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_pentosus_cmy46_with_galactooligosaccharide	Lactobacillus pentosus CMY46 with galactooligosaccharide	Food	high_confidence_microbe	1	Microbe	keep
+LLM:lactobacillus_plantarum_03	Lactobacillus plantarum 03	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_plantarum_06	Lactobacillus plantarum 06	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_plantarum_06cc2	Lactobacillus plantarum 06CC2	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_plantarum_cbt_lp3	Lactobacillus plantarum CBT LP3	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_plantarum_ccfm8610	Lactobacillus plantarum CCFM8610	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_plantarum_klds_1_0318	Lactobacillus plantarum KLDS 1.0318	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_plantarum_kimate-f	Lactobacillus plantarum Kimate-F	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_plantarum_l15	Lactobacillus plantarum L15	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_plantarum_ms1	Lactobacillus plantarum MS1	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_plantarum_n13	Lactobacillus plantarum N13	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_plantarum_ss18-50	Lactobacillus plantarum SS18-50	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_plantarum_tennozu-su2	Lactobacillus plantarum Tennozu-SU2	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_plantarum_ys3	Lactobacillus plantarum YS3	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_plantarum_zs62	Lactobacillus plantarum ZS62	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_plantarum_with_lignin	Lactobacillus plantarum with lignin	Food	high_confidence_microbe	1	Microbe	keep
+LLM:lactobacillus_reuteri_f-9-35	Lactobacillus reuteri F-9-35	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_reuteri_postbiotics	Lactobacillus reuteri postbiotics	Food	high_confidence_microbe	1	Microbe	Bioactive
+LLM:lactobacillus_rhamnosus_01	Lactobacillus rhamnosus 01	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_rhamnosus_cy12	Lactobacillus rhamnosus CY12	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_rhamnosus_gg_extracellular_vesicles	Lactobacillus rhamnosus GG extracellular vesicles	Food	high_confidence_microbe	1	Microbe	Bioactive
+LLM:lactobacillus_rhamnosus_lgg_mpn_l	Lactobacillus rhamnosus LGG (MPN@L)	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_rhamnosus_strain_ldtm_7511	Lactobacillus rhamnosus strain LDTM 7511	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactobacillus_rhamnosus_with_inulin	Lactobacillus rhamnosus with inulin	Food	high_confidence_microbe	1	Microbe	keep
+LLM:lactobacillus_spp	Lactobacillus spp.	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactococcus_lactis_ll-sc-c2a2	Lactococcus lactis LL-SC-C2A2	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:lactococcus_lactis_ml2018	Lactococcus lactis ML2018	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:latilactobacillus_curvatus_dcf0620	Latilactobacillus curvatus DCF0620	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:parabacteroides_distasonis-derived_extracellular_vesicles	Parabacteroides distasonis-derived extracellular vesicles	Food	high_confidence_microbe	1	Microbe	Bioactive
+LLM:pediococcus_acidilactici_wnym01	Pediococcus acidilactici WNYM01	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:pediococcus_acidilactici_wnym02	Pediococcus acidilactici WNYM02	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:saccharomyces_boulardii_cncm_i-745	Saccharomyces boulardii CNCM I-745	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:saccharomyces_boulardii_cell-free_supernatant	Saccharomyces boulardii cell-free supernatant	Food	high_confidence_microbe	1	Microbe	Bioactive
+LLM:saccharomyces_boulardii_heat-inactivated_cells	Saccharomyces boulardii heat-inactivated cells	Food	high_confidence_microbe	1	Microbe	Microbe
+LLM:saccharomyces_boulardii_beta-glucan	Saccharomyces boulardii β-glucan	Food	high_confidence_microbe	1	Microbe	Bioactive
+LLM:clostridioides_difficile_colitis	Clostridioides difficile colitis	IBD_Outcome	high_confidence_microbe	1	Microbe	IBD_Outcome
+LLM:clostridioides_difficile_infection	Clostridioides difficile infection	IBD_Outcome	high_confidence_microbe	1	Microbe	IBD_Outcome
+LLM:salmonella_typhimurium_infection	Salmonella typhimurium infection	IBD_Outcome	high_confidence_microbe	1	Microbe	IBD_Outcome
+LLM:1h-indole-3-carboxaldehyde	1H-Indole-3-carboxaldehyde	Bioactive	medium_microbe	1	Microbe	Bioactive
+LLM:il-10	IL-10	Bioactive	medium_microbe	1	Microbe	Bioactive
+LLM:il-22	IL-22	Bioactive	medium_microbe	1	Microbe	Bioactive
+LLM:il-4	IL-4	Bioactive	medium_microbe	1	Microbe	Bioactive
+LLM:anti-inflammatory_il-10	anti-inflammatory IL-10	Bioactive	medium_microbe	1	Microbe	Bioactive
+LLM:2_-fl	2'-FL	Food	medium_microbe	1	Microbe	Bioactive
+LLM:ain93g_diet	AIN93G diet	Food	medium_microbe	1	Microbe	keep
+LLM:akkermansia_muciniphila_fermented_metabolites	Akkermansia muciniphila fermented metabolites	Food	medium_microbe	1	Microbe	Bioactive
+LLM:bio-25_probiotic	BIO-25 probiotic	Food	medium_microbe	1	Microbe	keep
+LLM:bleps-1	BLEPS-1	Food	medium_microbe	1	Microbe	keep
+LLM:bacillus_coagulans_fcys01_spores_chitooligosaccharides	Bacillus coagulans FCYS01 spores + chitooligosaccharides	Food	medium_microbe	1	Microbe	keep
+LLM:bacillus_coagulans_mtcc5856_with_sugar_cane_fibre	Bacillus coagulans MTCC5856 with sugar cane fibre	Food	medium_microbe	1	Microbe	keep
+LLM:bacillus_coagulans_with_rosmarinic_acid_and_silk_fibroin	Bacillus coagulans with rosmarinic acid and silk fibroin	Food	medium_microbe	1	Microbe	keep
+LLM:bifidobacterium_animalis_ssp_lactis_bx-245_powder	Bifidobacterium animalis ssp. lactis BX-245 powder	Food	medium_microbe	1	Microbe	Microbe
+LLM:bifidobacterium_animalis_ssp_lactis_bx-245-fermented_milk	Bifidobacterium animalis ssp. lactis BX-245-fermented milk	Food	medium_microbe	1	Microbe	keep
+LLM:cdd-2103	CDD-2103	Food	medium_microbe	1	Microbe	keep
+LLM:cawo4_ycw	CaWO4@YCW	Food	medium_microbe	1	Microbe	keep
+LLM:clostridium_butyricum_fermented_metabolites	Clostridium butyricum fermented metabolites	Food	medium_microbe	1	Microbe	Bioactive
+LLM:ehlj7	EHLJ7	Food	medium_microbe	1	Microbe	keep
+LLM:escherichia_coli_nissle_1917_tyrosinase_overexpressing_strain_ecn-t	Escherichia coli Nissle 1917 tyrosinase overexpressing strain (EcN-T)	Food	medium_microbe	1	Microbe	Microbe
+LLM:escherichia_coli_nissle_1917_with_fe-ta_mgn_shield	Escherichia coli Nissle 1917 with Fe-TA@mGN shield	Food	medium_microbe	1	Microbe	keep
+LLM:escherichia_coli_nissle_1917_with_vitreoscilla_hemoglobin	Escherichia coli Nissle 1917 with Vitreoscilla hemoglobin	Food	medium_microbe	1	Microbe	Microbe
+LLM:isorhamnetin-3-o-glucoside	Isorhamnetin-3-O-glucoside	Food	medium_microbe	1	Microbe	Bioactive
+LLM:lacticaseibacillus_paracasei_hy2782	Lacticaseibacillus paracasei HY2782	Food	medium_microbe	1	Microbe	Microbe
+LLM:lactiplantibacillus_plantarum_fbt215	Lactiplantibacillus plantarum FBT215	Food	medium_microbe	1	Microbe	Microbe
+LLM:lactiplantibacillus_plantarum_imc513	Lactiplantibacillus plantarum IMC513	Food	medium_microbe	1	Microbe	Microbe
+LLM:lactobacillus_delbrueckii_cidca_133_pexu_hsp65_milk_ferment	Lactobacillus delbrueckii CIDCA 133 (pExu:hsp65) milk ferment	Food	medium_microbe	1	Microbe	keep
+LLM:lactobacillus_fermentum_fermented_whey	Lactobacillus fermentum fermented whey	Food	medium_microbe	1	Microbe	keep
+LLM:lactobacillus_paracasei_tk1501_fermented_soybean	Lactobacillus paracasei TK1501 fermented soybean	Food	medium_microbe	1	Microbe	keep
+LLM:lactobacillus_paracasei_expressing_porcine_tff3_and_egf	Lactobacillus paracasei expressing porcine TFF3 and EGF	Food	medium_microbe	1	Microbe	Microbe
+LLM:lactobacillus_paracasei_subsp_paracasei_ntu_101	Lactobacillus paracasei subsp. paracasei NTU 101	Food	medium_microbe	1	Microbe	Microbe
+LLM:limosilactobacillus_fermentum_hfy06	Limosilactobacillus fermentum HFY06	Food	medium_microbe	1	Microbe	Microbe
+LLM:limosilactobacillus_fermentum_im57	Limosilactobacillus fermentum IM57	Food	medium_microbe	1	Microbe	Microbe
+LLM:limosilactobacillus_fermentum_ir62	Limosilactobacillus fermentum IR62	Food	medium_microbe	1	Microbe	Microbe
+LLM:limosilactobacillus_reuteri_r2lc	Limosilactobacillus reuteri R2LC	Food	medium_microbe	1	Microbe	Microbe
+LLM:lpmp-8	LpMP-8	Food	medium_microbe	1	Microbe	keep
+LLM:nmw1	NMW1	Food	medium_microbe	1	Microbe	keep
+LLM:nmw2	NMW2	Food	medium_microbe	1	Microbe	keep
+LLM:pat1_loss	PAT1 loss	Food	medium_microbe	1	Microbe	keep
+LLM:pr39_peptide	PR39 peptide	Food	medium_microbe	1	Microbe	Bioactive
+LLM:sel001	SEL001	Food	medium_microbe	1	Microbe	keep
+LLM:slc26a6	SLC26A6	Food	medium_microbe	1	Microbe	keep
+LLM:saccharomyces_cerevisiae_fermentation_product	Saccharomyces cerevisiae fermentation product	Food	medium_microbe	1	Microbe	keep
+LLM:strain_gr-4	Strain GR-4	Food	medium_microbe	1	Microbe	Microbe
+LLM:vitamin_a_and_bifidobacterium_longum_subsp_infantis_ccfm1426_combination	Vitamin A and Bifidobacterium longum subsp. infantis CCFM1426 combination	Food	medium_microbe	1	Microbe	keep
+LLM:arabinoxylan_and_lactobacillus_fermentum_hfy06_synbiotic	arabinoxylan and Lactobacillus fermentum HFY06 synbiotic	Food	medium_microbe	1	Microbe	keep
+LLM:corn_with_3-hf_anthocyanins	corn with 3-HF (anthocyanins)	Food	medium_microbe	1	Microbe	keep
+LLM:heat-killed_lactobacillus_casei_dkgf7	heat-killed Lactobacillus casei DKGF7	Food	medium_microbe	1	Microbe	Microbe
+LLM:human_muc2	human MUC2	Food	medium_microbe	1	Microbe	keep
+LLM:licorice_endophyte_jtzb55	licorice endophyte JTZB55	Food	medium_microbe	1	Microbe	Microbe
+LLM:petunidin_3-o-_rhamnopyranosyl-_trans-p-coumaroyl_-5-o-_beta-d-glucopyranoside	petunidin 3-O-[rhamnopyranosyl-(trans-p-coumaroyl)]-5-O-[β-d-glucopyranoside]	Food	medium_microbe	1	Microbe	Bioactive
+LLM:yacon_juice_fermented_by_lactiplantibacillus_plantarum_qs7t	yacon juice fermented by Lactiplantibacillus plantarum QS7T	Food	medium_microbe	1	Microbe	keep
+LLM:-_-epigallocatechin-3-gallate	(-)-Epigallocatechin-3-gallate	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:1_2_3_4-tetrahydrogen-beta-carboline-3-carboxylic_acid	1,2,3,4-tetrahydrogen-β-carboline-3-carboxylic acid	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:1_3-dioleoyl-2-palmitoylglycerol	1,3-dioleoyl-2-palmitoylglycerol	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:13_-carboxychromanol	13'-carboxychromanol	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:3_3-diindolylmethane	3,3-Diindolylmethane	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:3-indoleglyoxylic_acid	3-Indoleglyoxylic acid	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:3-deoxyflavonoid	3-deoxyflavonoid	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:3-hydroxyflavonoid	3-hydroxyflavonoid	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:5-hydroxyindoleacetic_acid	5-hydroxyindoleacetic acid	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:6-paradol	6-paradol	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:alhagi_honey_polysaccharide	Alhagi honey polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:angelica_sinensis_polysaccharide_nanoparticles	Angelica sinensis polysaccharide nanoparticles	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:asiatic_acid	Asiatic acid	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:asimina_triloba_polysaccharide	Asimina triloba polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:astragalus_polysaccharide	Astragalus polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:atractylodis_macrocephala_polysaccharide	Atractylodis Macrocephala polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:auricularia_auricula_exopolysaccharide	Auricularia auricula exopolysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:cistanche_tubulosa_polysaccharide	Cistanche tubulosa polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:coptis_chinensis_polysaccharide	Coptis chinensis polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:cordyceps_militaris_peptides_and_polysaccharides	Cordyceps militaris peptides and polysaccharides	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:d-allulose	D-allulose	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:dendrobium_huoshanense_stem_polysaccharide	Dendrobium huoshanense stem polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:dictyophora_indusiata_polysaccharide	Dictyophora indusiata polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:dioscorea_alata_anthocyanin	Dioscorea alata anthocyanin	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:dioscorea_opposita_bulbil_polysaccharides	Dioscorea opposita bulbil polysaccharides	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:eucommia_ulmoides_polysaccharide_nano-selenium	Eucommia ulmoides polysaccharide nano-selenium	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:forsythia_suspensa_polyphenols	Forsythia suspensa polyphenols	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:fu_brick_tea_polysaccharide	Fu brick tea polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:holothuria_leucospilota_polysaccharide	Holothuria leucospilota polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:ilicifolius_acid_a	Ilicifolius acid A	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:ishige_okamurae_polysaccharide	Ishige Okamurae polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:l-fucose	L-fucose	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:lactiplantibacillus_plantarum_zl1_exopolysaccharide	Lactiplantibacillus plantarum ZL1 exopolysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:limoncella_apple_polyphenol_extract	Limoncella apple polyphenol extract	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:liquiritin_apioside	Liquiritin apioside	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:lonicera_caerulea_polyphenol-rich_extract	Lonicera caerulea polyphenol-rich extract	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:mesna_and_n-3_polyunsaturated_fatty_acids_combination	Mesna and n-3 polyunsaturated fatty acids combination	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:moringa_oleifera_peptide	Moringa oleifera peptide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:ocimum_gratissimum_polyphenol_extract	Ocimum gratissimum polyphenol extract	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:omega-3_fatty_acid	Omega-3 fatty acid	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:ovalbumin-derived_peptides	Ovalbumin-derived peptides	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:phellinus_linteus_polysaccharide	Phellinus linteus polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:phyllanthus_emblica_polysaccharide	Phyllanthus emblica polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:pleurotus_eryngii_beta-glucan_wpep	Pleurotus eryngii β-glucan (WPEP)	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:protaetia_brevitarsis_protein_hydrolysate	Protaetia brevitarsis protein hydrolysate	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:purple_yam_polyphenol_extracts	Purple yam polyphenol extracts	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:qingqiao_polyphenols	Qingqiao polyphenols	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:qingzhuan_dark_tea_polysaccharides-zinc	Qingzhuan dark tea polysaccharides-zinc	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:rattan_pepper_polysaccharide	Rattan pepper polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:saururus_chinensis_polysaccharide_scpe-ii	Saururus chinensis polysaccharide SCPE-II	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:tmf-o-glycosides	TMF-O-glycosides	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:thesium_chinense_polysaccharide_tp1	Thesium chinense polysaccharide TP1	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:thinned_apple_polyphenols	Thinned apple polyphenols	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:tremella_fuciformis_polysaccharide	Tremella fuciformis polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:ulva_pertusa_polysaccharide	Ulva pertusa polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:vegaven_lipid_emulsion_18-carbon_n-3_fatty_acids	Vegaven lipid emulsion (18-carbon n-3 fatty acids)	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:agarobiose	agarobiose	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:agarotetraose	agarotetraose	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:anthocyanin-containing_potatoes	anthocyanin-containing potatoes	Food	compound_candidate	1	Bioactive	keep
+LLM:anthocyanin-enriched_maize	anthocyanin-enriched maize	Food	compound_candidate	1	Bioactive	keep
+LLM:anthocyanin-rich_extract	anthocyanin-rich extract	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:anthocyanins	anthocyanins	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:arginine_glutamine_and_beta-hydroxy_beta-methylbutyrate_mixture	arginine, glutamine and β-hydroxy β-methylbutyrate mixture	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:bilberry_anthocyanin_extract	bilberry anthocyanin extract	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:black_wolfberry_anthocyanin	black wolfberry anthocyanin	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:cannabidiol	cannabidiol	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:carboxymethyl_cellulose	carboxymethyl cellulose	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:cherry_polyphenol_extract	cherry polyphenol extract	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:chitin-glucan_and_lactobacillus_acidophilus_ncfm_synbiotic	chitin-glucan and Lactobacillus acidophilus NCFM synbiotic	Food	compound_candidate	1	Bioactive	keep
+LLM:citrus_peel_polyphenols	citrus peel polyphenols	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:cocoa_polyphenol	cocoa polyphenol	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:cocoa_polyphenols	cocoa polyphenols	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:cornelian_cherry_iridoid-polyphenolic_extract	cornelian cherry iridoid-polyphenolic extract	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:costunolide	costunolide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:cranberry_polyphenol	cranberry polyphenol	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:curcumin-anthocyanin_nanoparticles	curcumin-anthocyanin nanoparticles	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:curcumin-egg_white_peptide_aggregations	curcumin-egg white peptide aggregations	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:curcumin-egg_white_peptide-casein-quaternary_chitosan_nanoparticles	curcumin-egg white peptide-casein-quaternary chitosan nanoparticles	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:dextran_sodium_sulfate	dextran sodium sulfate	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:dietary_ceramide	dietary ceramide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:dihydroresveratrol	dihydroresveratrol	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:egg-white-derived_peptides	egg-white-derived peptides	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:eicosapentaenoic_acid_monoglyceride	eicosapentaenoic acid monoglyceride	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:farnesol	farnesol	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:fish_collagen_peptides	fish collagen peptides	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:foxtail_millet_bran_polyphenol	foxtail millet bran polyphenol	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:fucose	fucose	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:galacto-oligosaccharide	galacto-oligosaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:gamma-irradiated_resveratrol	gamma-irradiated resveratrol	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:ganoderic_acid_a	ganoderic acid A	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:ginger_polysaccharides	ginger polysaccharides	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:glycoursodeoxycholic_acid	glycoursodeoxycholic acid	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:glycyrrhizic_acid	glycyrrhizic acid	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:grape_seed_polyphenols	grape seed polyphenols	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:honey-processed_astragalus_polysaccharide	honey-processed Astragalus polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:honokiol	honokiol	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:hydroxytyrosyl_acetate	hydroxytyrosyl acetate	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:indol-3-carbinol	indol-3-carbinol	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:indole_lactic_acid_producing_escherichia_coli_nissle_1917	indole lactic acid producing Escherichia coli Nissle 1917	Food	compound_candidate	1	Bioactive	Microbe
+LLM:isomaltooligosaccharide	isomaltooligosaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:isomaltulose	isomaltulose	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:ligustroside	ligustroside	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:lipoic_acid	lipoic acid	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:maggot_polysaccharide_mp-l	maggot polysaccharide MP-L	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:magnolol	magnolol	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:magnolol-whey_protein_isolate-tremella_fuciformis_polysaccharides_emulsion	magnolol-whey protein isolate-Tremella fuciformis polysaccharides emulsion	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:malic_acid	malic acid	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:melezitose	melezitose	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:methylcellulose	methylcellulose	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:microcrystalline_cellulose	microcrystalline cellulose	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:n-3_polyunsaturated_fatty_acid	n-3 polyunsaturated fatty acid	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:n-3_polyunsaturated_fatty_acids	n-3 polyunsaturated fatty acids	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:okra_flower_polysaccharide	okra flower polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:oligonol	oligonol	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:p-hydroxybenzoic_acid	p-hydroxybenzoic acid	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:patchouli_alcohol	patchouli alcohol	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:pectin-based_polysaccharide_composite_hydrogel	pectin-based polysaccharide composite hydrogel	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:phenolic_glycosides	phenolic glycosides	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:phytic_acid	phytic acid	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:polydextrose	polydextrose	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:pomegranate_polysaccharide	pomegranate polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:porcine_intestinal_mucosal_peptides	porcine intestinal mucosal peptides	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:propyl-propane_thiosulfonate	propyl-propane thiosulfonate	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:protocatechuic_acid_sodium_alginate_coated_lactiplantibacillus_plantarum	protocatechuic acid sodium alginate coated Lactiplantibacillus plantarum	Food	compound_candidate	1	Bioactive	Microbe
+LLM:purple_sweet_potato_polysaccharide	purple sweet potato polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:quercetin_monoglycosides	quercetin monoglycosides	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:quinoa_peptide	quinoa peptide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:quinoa_saponins	quinoa saponins	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:resistant_starch_and_tannic_acid_mixture	resistant starch and tannic acid mixture	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:resveratrol-loaded_mesona_chinensis_polysaccharides_nanoparticles	resveratrol-loaded Mesona chinensis polysaccharides nanoparticles	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:rheum_officinale_polysaccharide	rheum officinale polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:sesaminol	sesaminol	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:short_chain_fatty_acid_mixture	short chain fatty acid mixture	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:short-peptide_enteral_nutrition_with_lactobacillus_acidophilus	short-peptide enteral nutrition with Lactobacillus acidophilus	Food	compound_candidate	1	Bioactive	keep
+LLM:sodium_isobutyrate	sodium isobutyrate	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:sodium-butyrate	sodium-butyrate	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:taurocholic_acid	taurocholic acid	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:tea_polyphenol	tea polyphenol	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:tea_polysaccharide	tea polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:tea_residue_protein-derived_oligopeptides	tea residue protein-derived oligopeptides	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:water-soluble_garlic_polysaccharide	water-soluble garlic polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:xylooligosaccharide	xylooligosaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:yellow_passion_fruit_peel_polysaccharide	yellow passion fruit peel polysaccharide	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:alpha-muricholic_acid	α-muricholic acid	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:alphas2-casein_peptide_vyqhqkamkpwiqpktkvipyvryl	αs2-casein peptide (VYQHQKAMKPWIQPKTKVIPYVRYL)	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:beta-casofensin	β-casofensin	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:beta-hydroxy_beta-methylbutyrate	β-hydroxy β-methylbutyrate	Food	compound_candidate	1	Bioactive	Bioactive
+LLM:cd-treat_food-based_diet	CD-TREAT food-based diet	Food	dietary_pattern	1	keep	keep
+LLM:crohn_s_disease_exclusion_diet	Crohn's Disease Exclusion Diet	Food	dietary_pattern	1	keep	keep
+LLM:ibd-maid_diet	IBD-MAID diet	Food	dietary_pattern	1	keep	keep
+LLM:mediterranean-like_diet	Mediterranean-like diet	Food	dietary_pattern	1	keep	keep
+LLM:mi-ibd_diet	Mi-IBD diet	Food	dietary_pattern	1	keep	keep
+LLM:monash_pouch_diet	Monash Pouch diet	Food	dietary_pattern	1	keep	keep
+LLM:western_style_diet	Western style diet	Food	dietary_pattern	1	keep	keep
+LLM:western-style_diet	Western-style diet	Food	dietary_pattern	1	keep	keep
+LLM:westernised_diet_with_deoxycholic_acid	Westernised diet with deoxycholic acid	Food	dietary_pattern	1	keep	keep
+LLM:anti-inflammatory_dietary_pattern	anti-inflammatory dietary pattern	Food	dietary_pattern	1	keep	keep
+LLM:antigen-free_diet	antigen-free diet	Food	dietary_pattern	1	keep	keep
+LLM:balanced_n-6_n-3_pufa_diet	balanced n-6/n-3 PUFA diet	Food	dietary_pattern	1	keep	keep
+LLM:control_diet	control diet	Food	dietary_pattern	1	keep	keep
+LLM:diet_2019	diet 2019	Food	dietary_pattern	1	keep	keep
+LLM:diversified_diet	diversified diet	Food	dietary_pattern	1	keep	keep
+LLM:exclusive_enteral_nutrition_diet	exclusive enteral nutrition diet	Food	dietary_pattern	1	keep	keep
+LLM:fiber-deprived_diet	fiber-deprived diet	Food	dietary_pattern	1	keep	keep
+LLM:fiber-free_exclusive_enteral_nutrition_diet	fiber-free exclusive enteral nutrition diet	Food	dietary_pattern	1	keep	keep
+LLM:glucose-free_high-protein_diet	glucose-free, high-protein diet	Food	dietary_pattern	1	keep	keep
+LLM:high_diet_quality	high diet quality	Food	dietary_pattern	1	keep	keep
+LLM:high_fat_diet	high fat diet	Food	dietary_pattern	1	keep	keep
+LLM:high_fat-high_protein_diet	high fat-high protein diet	Food	dietary_pattern	1	keep	keep
+LLM:high_tryptophan_diet	high tryptophan diet	Food	dietary_pattern	1	keep	keep
+LLM:high-casein_diet	high-casein diet	Food	dietary_pattern	1	keep	keep
+LLM:high-fat_high-sucrose_diet	high-fat high-sucrose diet	Food	dietary_pattern	1	keep	keep
+LLM:high-fat_high-sucrose_high-fiber_diet	high-fat, high-sucrose, high-fiber diet	Food	dietary_pattern	1	keep	keep
+LLM:iron-deficient_diet	iron-deficient diet	Food	dietary_pattern	1	keep	keep
+LLM:low_emulsifier_diet	low emulsifier diet	Food	dietary_pattern	1	keep	keep
+LLM:low_fiber_diet	low fiber diet	Food	dietary_pattern	1	keep	keep
+LLM:low-fodmap_diet	low-FODMAP diet	Food	dietary_pattern	1	keep	keep
+LLM:low-fiber_diet	low-fiber diet	Food	dietary_pattern	1	keep	keep
+LLM:maternal_high_fat_diet	maternal high fat diet	Food	dietary_pattern	1	keep	keep
+LLM:methionine_tryptophan_and_niacin-deficient_diet	methionine, tryptophan, and niacin-deficient diet	Food	dietary_pattern	1	keep	keep
+LLM:n-3_pufa_diet	n-3 PUFA diet	Food	dietary_pattern	1	keep	keep
+LLM:omega-3_polyunsaturated_fatty_acid_diet	omega-3 polyunsaturated fatty acid diet	Food	dietary_pattern	1	keep	keep
+LLM:omnivore_diet	omnivore diet	Food	dietary_pattern	1	keep	keep
+LLM:pea_protein_diet	pea protein diet	Food	dietary_pattern	1	keep	keep
+LLM:polyphenol_enriched_diet	polyphenol enriched diet	Food	dietary_pattern	1	keep	keep
+LLM:purified_low-fat_diet_with_cellulose	purified low-fat diet with cellulose	Food	dietary_pattern	1	keep	keep
+LLM:reduced-fat_diet	reduced-fat diet	Food	dietary_pattern	1	keep	keep
+LLM:standard_diet	standard diet	Food	dietary_pattern	1	keep	keep
+LLM:sugar-sweetened_beverages_with_high-fat_diet	sugar-sweetened beverages with high-fat diet	Food	dietary_pattern	1	keep	keep
+LLM:tributyrin_diet	tributyrin diet	Food	dietary_pattern	1	keep	keep
+LLM:vegan_diet	vegan diet	Food	dietary_pattern	1	keep	keep
