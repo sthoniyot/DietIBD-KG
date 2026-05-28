@@ -1,11 +1,11 @@
-# DietIBD-KG — Objective 1 Embedding Results
+# DietIBD-KG — Objective 1 Embedding Results (v1.2.0)
 
-Generated: 2026-05-27 21:52
+Generated: 2026-05-27 22:08
 
 ## Setup
 
-- Triples: 14,850 (11,880 train / 1,485 test / 1,485 valid), 80/10/10 split
-- Entities: 4,603  |  Relations: 12
+- Triples: 14,818 (11,854 train / 1,482 test / 1,482 valid), 80/10/10 split
+- Entities: 4,539  |  Relations: 12
 - Embedding dimension: 256  |  Epochs: 200
 - Random seed: 42  |  Library: PyKEEN  |  Device: cuda
 
@@ -17,11 +17,11 @@ Note: ComplEx was originally planned as the semantic-matching baseline but exhib
 
 | Model | MRR | Hits@1 | Hits@3 | Hits@10 | Mean Rank |
 |---|---|---|---|---|---|
-| TransE | 0.4468 | 0.3444 | 0.5061 | 0.6286 | 133.3 |
-| DistMult | 0.1883 | 0.1488 | 0.2061 | 0.2269 | 1098.5 |
-| RotatE | 0.4935 | 0.4104 | 0.5512 | 0.6330 | 198.8 |
+| TransE | 0.4572 | 0.3657 | 0.5091 | 0.6279 | 129.7 |
+| DistMult | 0.2092 | 0.1741 | 0.2210 | 0.2460 | 1064.9 |
+| RotatE | 0.5130 | 0.4379 | 0.5631 | 0.6424 | 196.4 |
 
-**Best model by MRR: RotatE (MRR = 0.4935, Hits@10 = 0.6330)**
+**Best model by MRR: RotatE (MRR = 0.5130, Hits@10 = 0.6424)**
 
 ## Interpretation
 

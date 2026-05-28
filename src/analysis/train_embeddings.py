@@ -9,10 +9,10 @@ Note: ComplEx was originally planned but exhibited unstable training on this
 KG across multiple configurations; DistMult is reported as the
 semantic-matching baseline in its place.
 
-Outputs:
-  - data/processed/embeddings/<model>/ : trained model + artifacts per model
-  - data/processed/embeddings/embedding_results.json : raw metrics
-  - docs/objective1_embeddings_results.md : results report
+Outputs (v1.2.0 — consolidated graph):
+  - data/processed/embeddings/v1.2.0/<model>/ : trained model + artifacts per model
+  - data/processed/embeddings/v1.2.0/embedding_results.json : raw metrics
+  - docs/objective1_embeddings_results_v1.2.0.md : results report
 
 Usage:
     python src/analysis/train_embeddings.py
@@ -25,11 +25,14 @@ import torch
 from pykeen.pipeline import pipeline
 from pykeen.triples import TriplesFactory
 
+VERSION = "v1.2.0"
+
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 EMB_DIR = PROJECT_ROOT / "data" / "processed" / "embeddings"
-TRIPLES_FILE = EMB_DIR / "kg_triples.tsv"
-RESULTS_MD = PROJECT_ROOT / "docs" / "objective1_embeddings_results.md"
-RESULTS_JSON = EMB_DIR / "embedding_results.json"
+VERSION_DIR = EMB_DIR / VERSION
+TRIPLES_FILE = EMB_DIR / f"kg_triples_{VERSION}.tsv"
+RESULTS_MD = PROJECT_ROOT / "docs" / f"objective1_embeddings_results_{VERSION}.md"
+RESULTS_JSON = VERSION_DIR / "embedding_results.json"
 
 MODELS = ["TransE", "DistMult", "RotatE"]
 EMBEDDING_DIM = 256
@@ -54,6 +57,9 @@ COMMON_CONFIG = dict(
 def main():
     device = "cuda" if torch.cuda.is_available() else "cpu"
     print(f"Device: {device}")
+    print(f"Version: {VERSION}")
+
+    VERSION_DIR.mkdir(parents=True, exist_ok=True)
 
     print(f"\nLoading triples from {TRIPLES_FILE}...")
     tf = TriplesFactory.from_path(str(TRIPLES_FILE))
@@ -90,7 +96,7 @@ def main():
         }
         results[model_name] = metrics
 
-        model_dir = EMB_DIR / model_name.lower()
+        model_dir = VERSION_DIR / model_name.lower()
         result.save_to_directory(str(model_dir))
 
         print(f"\n  {model_name} link-prediction results:")
@@ -102,7 +108,7 @@ def main():
 
     # ── Write results report ──
     lines = [
-        "# DietIBD-KG — Objective 1 Embedding Results",
+        f"# DietIBD-KG — Objective 1 Embedding Results ({VERSION})",
         "",
         f"Generated: {datetime.now().strftime('%Y-%m-%d %H:%M')}",
         "",

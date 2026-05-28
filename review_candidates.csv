@@ -1,0 +1,298 @@
+entity_type,recommendation,id_a,label_a,id_b,label_b,similarity,reason
+IBD_Outcome,likely-same,LLM:recurrent_clostridiodes_difficile_infection,recurrent Clostridiodes difficile infection,LLM:recurrent_clostridioides_difficile_infection,recurrent Clostridioides difficile infection,98.9,spelling variant: clostridiode/clostridioide
+Bioactive,likely-same,LLM:flammuliana_velutipes_polysaccharide,Flammuliana velutipes polysaccharide,LLM:flammulina_velutipes_polysaccharide,Flammulina velutipes polysaccharide,98.6,spelling variant: flammuliana/flammulina
+Bioactive,likely-same,LLM:atractylodes_macrocephala_polysaccharide,Atractylodes macrocephala polysaccharide,LLM:atractylodis_macrocephala_polysaccharide,Atractylodis Macrocephala polysaccharide,97.5,spelling variant: atractylode/atractylodi
+Food,likely-same,LLM:partially_hydrolysed_guar_gum,partially hydrolysed guar gum,LLM:partially_hydrolyzed_guar_gum,partially hydrolyzed guar gum,96.6,spelling variant: hydrolysed/hydrolyzed
+IBD_Outcome,likely-same,LLM:necrotising_enterocolitis,necrotising enterocolitis,LLM:necrotizing_enterocolitis,necrotizing enterocolitis,96.0,spelling variant: necrotising/necrotizing
+Food,likely-same,LLM:pectic_oligosaccharides,pectic oligosaccharides,LLM:pectin_oligosaccharides,pectin oligosaccharides,95.7,spelling variant: pectic/pectin
+Bioactive,likely-same,LLM:indole_propionic_acid,indole propionic acid,LLM:indole-3-propionic_acid,indole-3-propionic acid,95.5,one name omits locant ['3']
+Bioactive,likely-same,LLM:3-indoleacrylic_acid,3-indoleacrylic acid,LLM:indoleacrylic_acid,indoleacrylic acid,94.7,one name omits locant ['3']
+Bioactive,likely-same,LLM:indole_acetic_acid,indole acetic acid,LLM:indole-3-acetic_acid,indole-3-acetic acid,94.7,one name omits locant ['3']
+Bioactive,likely-same,LLM:indole_lactic_acid,indole lactic acid,LLM:indole-3-lactic_acid,indole-3-lactic acid,94.7,one name omits locant ['3']
+Bioactive,likely-same,LLM:indole_acetamide,indole acetamide,LLM:indole-3-acetamide,indole-3-acetamide,94.1,one name omits locant ['3']
+Bioactive,likely-same,LLM:luteolin,luteolin,LLM:luterolin,luterolin,94.1,spelling variant: luteolin/luterolin
+Bioactive,likely-same,CHEBI:28189,Isomaltose,LLM:isomaltulose,isomaltulose,90.9,spelling variant: isomaltose/isomaltulose
+Bioactive,likely-same,LLM:docosapentaenoic_acid,docosapentaenoic acid,LLM:eicosapentaenoic_acid,eicosapentaenoic acid,90.5,spelling variant: docosapentaenoic/eicosapentaenoic
+Food,likely-distinct,LLM:resistant_starch_type_2,Resistant starch type 2,LLM:resistant_starch_type_5,Resistant starch type 5,95.7,different locant/isomer: 2/5
+Bioactive,likely-distinct,LLM:caffeoylquinic_acid,caffeoylquinic acid,LLM:dicaffeoylquinic_acid,dicaffeoylquinic acid,95.0,multiplier prefix: caffeoylquinic/dicaffeoylquinic
+Food,likely-distinct,LLM:qingzhuan_tea_aged_10_years,Qingzhuan tea aged 10 years,LLM:qingzhuan_tea_aged_5_years,Qingzhuan tea aged 5 years,94.3,different locant/isomer: 10/5
+Bioactive,likely-distinct,LLM:1h-indole-3-carboxaldehyde,1H-Indole-3-carboxaldehyde,LLM:indole-3-carboxaldehyde,indole-3-carboxaldehyde,93.9,strain/code token ['1h']
+Bioactive,likely-distinct,LLM:bisdemethoxycurcumin,bisdemethoxycurcumin,LLM:demethoxycurcumin,demethoxycurcumin,91.9,multiplier prefix: bisdemethoxycurcumin/demethoxycurcumin
+Food,likely-distinct,LLM:lacticaseibacillus_paracasei_18,Lacticaseibacillus paracasei 18,LLM:lacticaseibacillus_paracasei_6235,Lacticaseibacillus paracasei 6235,90.6,different locant/isomer: 18/6235
+Microbe,verify-taxonomy,LLM:clostridium_xiv,Clostridium XIV,LLM:clostridium_xivalpha,Clostridium XIVα,100.0,[] vs ['alpha'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:eubacterium_coprostanoligenes,Eubacterium coprostanoligenes,LLM:eubacterium_coprostanoloigenes,Eubacterium coprostanoloigenes,98.3,['coprostanoligene'] vs ['coprostanoloigene'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:333367,Clostridium asparagiform,LLM:clostridium_asparagiforme,Clostridium asparagiforme,98.0,['asparagiform'] vs ['asparagiforme'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:208479,Clostridium boltae,LLM:clostridium_bolteae,Clostridium bolteae,97.3,['boltae'] vs ['bolteae'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_klds_1_0318,Lactobacillus plantarum KLDS 1.0318,LLM:lactobacillus_plantarum_klds_1_0386,Lactobacillus plantarum KLDS 1.0386,97.1,['0318'] vs ['0386'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:egerthella_lenta,Egerthella lenta,LLM:eggerthella_lenta,Eggerthella lenta,97.0,['egerthella'] vs ['eggerthella'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:clostridium_xiv,Clostridium XIV,LLM:clostridium_xiva,Clostridium XIVa,96.8,['xiv'] vs ['xiva'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:clostridium_xiva,Clostridium XIVa,LLM:clostridium_xivalpha,Clostridium XIVα,96.8,"['xiva'] vs ['alpha', 'xiv'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,LLM:parabacterioides,Parabacterioides,NCBITaxon:1869337,Parabacteroides,96.8,['parabacterioide'] vs ['parabacteroide'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:pediococcus_acidilactici_wnym01,Pediococcus acidilactici WNYM01,LLM:pediococcus_acidilactici_wnym02,Pediococcus acidilactici WNYM02,96.8,['wnym01'] vs ['wnym02'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_fermentum_kbl374,Lactobacillus fermentum KBL374,LLM:lactobacillus_fermentum_kbl375,Lactobacillus fermentum KBL375,96.7,['kbl374'] vs ['kbl375'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:bifidobacterium_pseudolongulum,Bifidobacterium pseudolongulum,LLM:bifidobacterium_pseudolongum,Bifidobacterium pseudolongum,96.6,['pseudolongulum'] vs ['pseudolongum'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:clostridium_iv,Clostridium IV,LLM:clostridium_xiv,Clostridium XIV,96.6,['iv'] vs ['xiv'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:clostridium_iv,Clostridium IV,LLM:clostridium_xivalpha,Clostridium XIVα,96.6,"['iv'] vs ['alpha', 'xiv'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,LLM:clostridium_xiv,Clostridium XIV,LLM:clostridium_xi,Clostridium_XI,96.6,['xiv'] vs ['xi'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:clostridium_xivalpha,Clostridium XIVα,LLM:clostridium_xi,Clostridium_XI,96.6,"['alpha', 'xiv'] vs ['xi'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_17-1,Lactobacillus plantarum 17-1,LLM:lactobacillus_plantarum_ar17-1,Lactobacillus plantarum AR17-1,96.6,['17'] vs ['ar17'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:bifidobacterium_longum_bif10,Bifidobacterium longum Bif10,LLM:bifidobacterium_longum_bif16,Bifidobacterium longum Bif16,96.4,['bif10'] vs ['bif16'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:clostridium_sensu_stricto,Clostridium sensu stricto,LLM:clostridium_sensu_stricto_1,Clostridium sensu stricto 1,96.2,[] vs ['1'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:clostridium_sensu_stricto,Clostridium sensu stricto,LLM:clostridium_sensu_stricto-1,Clostridium sensu stricto-1,96.2,[] vs ['1'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_03,Lactobacillus plantarum 03,LLM:lactobacillus_plantarum_06,Lactobacillus plantarum 06,96.2,['03'] vs ['06'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:bacteriodetes,Bacteriodetes,LLM:bacterodetes,Bacterodetes,96.0,['bacteriodete'] vs ['bacterodete'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:bacterodetes,Bacterodetes,NCBITaxon:976,Bacteroidetes,96.0,['bacterodete'] vs ['bacteroidete'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:580024,Enterorhabdus,LLM:enterorhadus,Enterorhadus,96.0,['enterorhabdu'] vs ['enterorhadu'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:28026,Bifidobacterium pseudocatenulatum,LLM:bifidobacterium_pseudocatenulatum_g7,Bifidobacterium pseudocatenulatum G7,95.7,[] vs ['g7'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:clostridium_cluster_iv,Clostridium cluster IV,LLM:clostridium_cluster_xiva,Clostridium cluster XIVa,95.7,['iv'] vs ['xiva'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lachnospiraceae-ucg-001,Lachnospiraceae-UCG-001,LLM:lachnospiraceae_ucg-006,Lachnospiraceae_UCG-006,95.7,['001'] vs ['006'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:ruminococcaceae_ucg-013,Ruminococcaceae UCG-013,LLM:ruminococcaceae_ucg-014,Ruminococcaceae UCG-014,95.7,['013'] vs ['014'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:propionibacterium_freudenreichii,Propionibacterium freudenreichii,LLM:propionibacterium_freudenreichii_b1,Propionibacterium freudenreichii B1,95.5,[] vs ['b1'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:360807,Roseburia Inulinivorans,LLM:roseburia_inulivorans,Roseburia inulivorans,95.5,['inulinivoran'] vs ['inulivoran'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:820,Bacteriodes uniformis,LLM:bacteroides_uniformis,Bacteroides uniformis,95.2,['bacteriode'] vs ['bacteroide'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:escherichia-shigella,Escherichia-Shigella,LLM:escherichia-shihella,Escherichia-Shihella,95.0,['shigella'] vs ['shihella'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:escherichia-shigella,Escherichia-Shigella,LLM:escherichia-shinella,Escherichia-Shinella,95.0,['shigella'] vs ['shinella'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:escherichia-shihella,Escherichia-Shihella,LLM:escherichia-shinella,Escherichia-Shinella,95.0,['shihella'] vs ['shinella'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:escherichia-shihella,Escherichia-Shihella,LLM:escherichia_shigella,Escherichia/Shigella,95.0,['shihella'] vs ['shigella'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:escherichia-shinella,Escherichia-Shinella,LLM:escherichia_shigella,Escherichia/Shigella,95.0,['shinella'] vs ['shigella'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:33038,Ruminococcus gnavus,LLM:ruminococcus_b_gnavus,Ruminococcus_B gnavus,95.0,[] vs ['b'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:bifidobacterium_bifidum_bgn4,Bifidobacterium bifidum BGN4,LLM:bifidobacterium_bifidum_bgn4-sk,Bifidobacterium bifidum BGN4-SK,94.9,[] vs ['sk'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lacticaseibacillus_rhamnosus,Lacticaseibacillus rhamnosus,LLM:lacticaseibacillus_rhamnosus_gg,Lacticaseibacillus rhamnosus GG,94.9,[] vs ['gg'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_acidophilus_la1,Lactobacillus acidophilus LA1,LLM:lactobacillus_acidophilus_la85,Lactobacillus acidophilus LA85,94.9,['la1'] vs ['la85'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:butyrate-producing_bacteria,butyrate-producing bacteria,LLM:isobutyrate-producing_bacteria,isobutyrate-producing bacteria,94.7,['butyrate'] vs ['isobutyrate'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_06,Lactobacillus plantarum 06,LLM:lactobacillus_plantarum_06cc2,Lactobacillus plantarum 06CC2,94.5,['06'] vs ['06cc2'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:desulfovibrioceae,Desulfovibrioceae,LLM:desulfovibrionaceae,Desulfovibrionaceae,94.4,['desulfovibrioceae'] vs ['desulfovibrionaceae'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:1508657,Ruminiclostridium,LLM:ruminiclostridium_9,Ruminiclostridium_9,94.4,[] vs ['9'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_acidophilus,Lactobacillus acidophilus,LLM:lactobacillus_acidophilus_c4,Lactobacillus acidophilus C4,94.3,[] vs ['c4'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_paracasei_f19,Lactobacillus paracasei F19,LLM:lactobacillus_paracasei_l9,Lactobacillus paracasei L9,94.3,['f19'] vs ['l9'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_an1,Lactobacillus plantarum AN1,LLM:lactobacillus_plantarum-12,Lactobacillus plantarum-12,94.3,['an1'] vs ['12'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_l15,Lactobacillus plantarum L15,LLM:lactobacillus_plantarum-12,Lactobacillus plantarum-12,94.3,['l15'] vs ['12'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:28025,Bifidobacterium animalis,LLM:bifidobacterium_animalis_a6,Bifidobacterium animalis A6,94.1,[] vs ['a6'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:clostridium_cluster_xiva,Clostridium cluster XIVa,LLM:clostridium_subcluster_xiva,Clostridium subcluster XIVa,94.1,['cluster'] vs ['subcluster'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:helicobacteraceae,Helicobacteraceae,LLM:heliobacteriaceae,Heliobacteriaceae,94.1,['helicobacteraceae'] vs ['heliobacteriaceae'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:4932,Saccharomyces cerevisiae,LLM:saccharomyces_cerevisiae_i4,Saccharomyces cerevisiae I4,94.1,[] vs ['i4'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:1613,Lactobacillus fermentum,LLM:lactobacillus_fermentum_s1,Lactobacillus fermentum S1,93.9,[] vs ['s1'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_johnsonii,Lactobacillus johnsonii,LLM:lactobacillus_johnsonii_46,Lactobacillus johnsonii 46,93.9,[] vs ['46'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_johnsonii,Lactobacillus johnsonii,LLM:lactobacillus_johnsonii_n5,Lactobacillus johnsonii N5,93.9,[] vs ['n5'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_paracasei,Lactobacillus paracasei,LLM:lactobacillus_paracasei_l9,Lactobacillus paracasei L9,93.9,[] vs ['l9'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum,Lactobacillus plantarum,LLM:lactobacillus_plantarum_03,Lactobacillus plantarum 03,93.9,[] vs ['03'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum,Lactobacillus plantarum,LLM:lactobacillus_plantarum_06,Lactobacillus plantarum 06,93.9,[] vs ['06'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum,Lactobacillus plantarum,LLM:lactobacillus_plantarum-12,Lactobacillus plantarum-12,93.9,[] vs ['12'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_rhamnosus,Lactobacillus rhamnosus,LLM:lactobacillus_rhamnosus_01,Lactobacillus rhamnosus 01,93.9,[] vs ['01'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_rhamnosus,Lactobacillus rhamnosus,LLM:lactobacillus_rhamnosus_gg,Lactobacillus rhamnosus GG,93.9,[] vs ['gg'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_rhamnosus,Lactobacillus rhamnosus,LLM:lactobacillus_rhamnosus_m9,Lactobacillus rhamnosus M9,93.9,[] vs ['m9'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:bifidobacterium_bifidum_fl-228_1,Bifidobacterium bifidum FL-228.1,LLM:bifidobacterium_bifidum_fl-276_1,Bifidobacterium bifidum FL-276.1,93.8,['228'] vs ['276'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:blastocystis_st4,Blastocystis ST4,LLM:blastocystis_st7,Blastocystis ST7,93.8,['st4'] vs ['st7'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:verrucomicrobia,Verrucomicrobia,LLM:verrucomicrobiota,Verrucomicrobiota,93.8,['verrucomicrobia'] vs ['verrucomicrobiota'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:bifidobacterium_lactis,Bifidobacterium lactis,LLM:bifidobacterium_lactis_v9,Bifidobacterium lactis V9,93.6,[] vs ['v9'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:actinobacteria,Actinobacteria,LLM:actinobacteriota,Actinobacteriota,93.3,['actinobacterium'] vs ['actinobacteriota'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:clostridium_iv,Clostridium IV,LLM:clostridium_xiva,Clostridium XIVa,93.3,['iv'] vs ['xiva'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:clostridium_xiva,Clostridium XIVa,LLM:clostridium_xi,Clostridium_XI,93.3,['xiva'] vs ['xi'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactiplantibacillus_plantarum_cgmcc9513,Lactiplantibacillus plantarum CGMCC9513,LLM:lactiplantibacillus_plantarum_imc513,Lactiplantibacillus plantarum IMC513,93.3,['cgmcc9513'] vs ['imc513'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_reuteri,Lactobacillus reuteri,LLM:lactobacillus_reuteri_l6,Lactobacillus reuteri L6,93.3,[] vs ['l6'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_delbrueckii_yn1,Lactobacillus delbrueckii YN1,BOLTE_MICROBE_CLUSTER:S18_Lactobacillus_delbrueckii,S18_Lactobacillus delbrueckii,93.1,['yn1'] vs ['s18'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:bifidobacterium_animalis_subsp_lactis_bl-99,Bifidobacterium animalis subsp. lactis BL-99,LLM:bifidobacterium_animalis_subsp_lactis_bla80,Bifidobacterium animalis subsp. lactis BLa80,93.0,"['99', 'bl'] vs ['bla80'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,LLM:lactobacillus_brevis,Lactobacillus brevis,LLM:lactobacillus_brevis_02,Lactobacillus brevis 02,93.0,[] vs ['02'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:2037,Actinomycetales,LLM:actinomycetes,Actinomycetes,92.9,['actinomycetale'] vs ['actinomycete'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:campylobacter,Campylobacter,LLM:campylobacteria,Campylobacteria,92.9,['campylobacter'] vs ['campylobacterium'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:clostridium_iv,Clostridium IV,LLM:clostridium_xi,Clostridium_XI,92.9,['iv'] vs ['xi'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_an1,Lactobacillus plantarum AN1,LLM:lactobacillus_plantarum_lac16,Lactobacillus plantarum Lac16,92.9,['an1'] vs ['lac16'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_l15,Lactobacillus plantarum L15,LLM:lactobacillus_plantarum_lac16,Lactobacillus plantarum Lac16,92.9,['l15'] vs ['lac16'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_rhamnosus_01,Lactobacillus rhamnosus 01,LLM:lactobacillus_rhamnosus_1_0320,Lactobacillus rhamnosus 1.0320,92.9,"['01'] vs ['0320', '1'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,LLM:lactobacillus_casei,Lactobacillus casei,LLM:lactobacillus_casei_dg,Lactobacillus casei DG,92.7,[] vs ['dg'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_acidophilus,Lactobacillus acidophilus,LLM:lactobacillus_acidophilus_la1,Lactobacillus acidophilus LA1,92.6,[] vs ['la1'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_delbrueckii,Lactobacillus delbrueckii,LLM:lactobacillus_delbrueckii_yn1,Lactobacillus delbrueckii YN1,92.6,[] vs ['yn1'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_delbrueckii,Lactobacillus delbrueckii,BOLTE_MICROBE_CLUSTER:S18_Lactobacillus_delbrueckii,S18_Lactobacillus delbrueckii,92.6,[] vs ['s18'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_fermentum_s1,Lactobacillus fermentum S1,LLM:lactobacillus_fermentum_zs40,Lactobacillus fermentum ZS40,92.6,['s1'] vs ['zs40'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_06,Lactobacillus plantarum 06,LLM:lactobacillus_plantarum_69-2,Lactobacillus plantarum 69-2,92.6,"['06'] vs ['2', '69'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_17-1,Lactobacillus plantarum 17-1,LLM:lactobacillus_plantarum-12,Lactobacillus plantarum-12,92.6,"['1', '17'] vs ['12'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_69-2,Lactobacillus plantarum 69-2,LLM:lactobacillus_plantarum-12,Lactobacillus plantarum-12,92.6,"['2', '69'] vs ['12'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_an1,Lactobacillus plantarum AN1,LLM:lactobacillus_plantarum_l15,Lactobacillus plantarum L15,92.6,['an1'] vs ['l15'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_js19,Lactobacillus plantarum JS19,LLM:lactobacillus_plantarum-12,Lactobacillus plantarum-12,92.6,['js19'] vs ['12'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_ms1,Lactobacillus plantarum MS1,LLM:lactobacillus_plantarum_n13,Lactobacillus plantarum N13,92.6,['ms1'] vs ['n13'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_rhamnosus_01,Lactobacillus rhamnosus 01,LLM:lactobacillus_rhamnosus_cy12,Lactobacillus rhamnosus CY12,92.6,['01'] vs ['cy12'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_rhamnosus_01,Lactobacillus rhamnosus 01,LLM:lactobacillus_rhamnosus_m3_1,Lactobacillus rhamnosus M3 (1),92.6,"['01'] vs ['1', 'm3'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,LLM:lactobacillus_rhamnosus_m3_1,Lactobacillus rhamnosus M3 (1),LLM:lactobacillus_rhamnosus_m9,Lactobacillus rhamnosus M9,92.6,"['1', 'm3'] vs ['m9'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,LLM:bifidobacterium_animalis_subsp_lactis,Bifidobacterium animalis subsp. lactis,LLM:bifidobacterium_animalis_subsp_lactis_bl-99,Bifidobacterium animalis subsp. lactis BL-99,92.5,"[] vs ['99', 'bl'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,LLM:bifidobacterium_animalis_subsp_lactis,Bifidobacterium animalis subsp. lactis,LLM:bifidobacterium_animalis_subsp_lactis_bla80,Bifidobacterium animalis subsp. lactis BLa80,92.5,[] vs ['bla80'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:bifidobacterium_animalis_subsp_lactis,Bifidobacterium animalis subsp. lactis,LLM:bifidobacterium_animalis_subsp_lactis_nj241,Bifidobacterium animalis subsp. lactis NJ241,92.5,[] vs ['nj241'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:bacteriodetes,Bacteriodetes,NCBITaxon:976,Bacteroidetes,92.3,['bacteriodete'] vs ['bacteroidete'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:bifidobacterium_animalis_ssp_lactis_bx-245,Bifidobacterium animalis ssp. lactis BX-245,LLM:bifidobacterium_animalis_ssp_lactis_bx-245_powder,Bifidobacterium animalis ssp. lactis BX-245 powder,92.3,[] vs ['powder'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:580596,Butyricicoccus,LLM:butyricoccus,Butyricoccus,92.3,['butyricicoccu'] vs ['butyricoccu'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:31979,Clostridiaceae,LLM:clostridicae,Clostridicae,92.3,['clostridiaceae'] vs ['clostridicae'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:42895,Enterobacter,LLM:enterobacteria,Enterobacteria,92.3,['enterobacter'] vs ['enterobacterium'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_helveticus,Lactobacillus helveticus,LLM:lactobacillus_helveticus_pi5,Lactobacillus helveticus PI5,92.3,[] vs ['pi5'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_03,Lactobacillus plantarum 03,LLM:lactobacillus_plantarum-12,Lactobacillus plantarum-12,92.3,['03'] vs ['12'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_06,Lactobacillus plantarum 06,LLM:lactobacillus_plantarum-12,Lactobacillus plantarum-12,92.3,['06'] vs ['12'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_rhamnosus_01,Lactobacillus rhamnosus 01,LLM:lactobacillus_rhamnosus_gg,Lactobacillus rhamnosus GG,92.3,['01'] vs ['gg'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:mutans_streptococci,Mutans streptococci,NCBITaxon:1309,Streptococcus mutans,92.3,['streptococci'] vs ['streptococcu'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:1263,Ruminococcus,LLM:ruminococcus_1,Ruminococcus_1,92.3,[] vs ['1'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactiplantibacillus_plantarum,Lactiplantibacillus plantarum,LLM:lactiplantibacillus_plantarum_as21,Lactiplantibacillus plantarum AS21,92.1,[] vs ['as21'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactiplantibacillus_plantarum,Lactiplantibacillus plantarum,LLM:lactiplantibacillus_plantarum_qs7t,Lactiplantibacillus plantarum QS7T,92.1,[] vs ['qs7t'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactiplantibacillus_plantarum,Lactiplantibacillus plantarum,LLM:lactiplantibacillus_plantarum_scs2,Lactiplantibacillus plantarum SCS2,92.1,[] vs ['scs2'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:239935,Akkermansia muciniphila,LLM:akkermansia_muciniphila_one,Akkermansia muciniphila ONE,92.0,[] vs ['one'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:1613,Lactobacillus fermentum,LLM:lactobacillus_fermentum_016,Lactobacillus fermentum 016,92.0,[] vs ['016'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_paracasei,Lactobacillus paracasei,LLM:lactobacillus_paracasei_f19,Lactobacillus paracasei F19,92.0,[] vs ['f19'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum,Lactobacillus plantarum,LLM:lactobacillus_plantarum_an1,Lactobacillus plantarum AN1,92.0,[] vs ['an1'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum,Lactobacillus plantarum,LLM:lactobacillus_plantarum_l15,Lactobacillus plantarum L15,92.0,[] vs ['l15'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_ms1,Lactobacillus plantarum MS1,LLM:lactobacillus_plantarum,Lactobacillus plantarum,92.0,['ms1'] vs [] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_n13,Lactobacillus plantarum N13,LLM:lactobacillus_plantarum,Lactobacillus plantarum,92.0,['n13'] vs [] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_ys3,Lactobacillus plantarum YS3,LLM:lactobacillus_plantarum,Lactobacillus plantarum,92.0,['ys3'] vs [] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:bacteroides_cellulosilyticus,Bacteroides cellulosilyticus,LLM:bacteroides_cellulosilyticus_lyh2,Bacteroides cellulosilyticus LYH2,91.8,[] vs ['lyh2'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lacticaseibacillus_rhamnosus,Lacticaseibacillus rhamnosus,LLM:lacticaseibacillus_rhamnosus_ms27,Lacticaseibacillus rhamnosus MS27,91.8,[] vs ['ms27'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:469,Acinetobacter,LLM:acinobacter,Acinobacter,91.7,['acinetobacter'] vs ['acinobacter'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:1654,Actinomyces,LLM:actinomycetes,Actinomycetes,91.7,['actinomyce'] vs ['actinomycete'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:1402,Bacillus licheniformis,LLM:bacillus_paralicheniformis,Bacillus paralicheniformis,91.7,['licheniformi'] vs ['paralicheniformi'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:216816,Bifidobacterium longum,LLM:bifidobacterium_longum_51a,Bifidobacterium longum 51A,91.7,[] vs ['51a'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:626937,Christensenella minuta,LLM:christensenellaceae_minuta,Christensenellaceae minuta,91.7,['christensenella'] vs ['christensenellaceae'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactiplantibacillus_plantarum_bw2013,Lactiplantibacillus plantarum BW2013,LLM:lactiplantibacillus_plantarum_fbt215,Lactiplantibacillus plantarum FBT215,91.7,['bw2013'] vs ['fbt215'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:limosilactobacillus_reuteri,Limosilactobacillus reuteri,LLM:limosilactobacillus_reuteri_r2lc,Limosilactobacillus reuteri R2LC,91.5,[] vs ['r2lc'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:bifidobacterium_animalis_subsp_lactis,Bifidobacterium animalis subsp. lactis,LLM:bifidobacterium_animalis_subsp_lactis_lkm512,Bifidobacterium animalis subsp. lactis LKM512,91.4,[] vs ['lkm512'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:bifidobacterium_animalis_subsp_lactis,Bifidobacterium animalis subsp. lactis,LLM:bifidobacterium_animalis_subsp_lactis_xltg11,Bifidobacterium animalis subsp. lactis XLTG11,91.4,[] vs ['xltg11'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactiplantibacillus_plantarum_as21,Lactiplantibacillus plantarum AS21,LLM:lactiplantibacillus_plantarum_bw2013,Lactiplantibacillus plantarum BW2013,91.4,['as21'] vs ['bw2013'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactiplantibacillus_plantarum_as21,Lactiplantibacillus plantarum AS21,LLM:lactiplantibacillus_plantarum_fbt215,Lactiplantibacillus plantarum FBT215,91.4,['as21'] vs ['fbt215'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactiplantibacillus_plantarum_scs2,Lactiplantibacillus plantarum SCS2,LLM:lactiplantibacillus_plantarum_sffi23,Lactiplantibacillus plantarum SFFI23,91.4,['scs2'] vs ['sffi23'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_gasseri,Lactobacillus gasseri,LLM:lactobacillus_gasseri_jm1,Lactobacillus gasseri JM1,91.3,[] vs ['jm1'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_murinus,Lactobacillus murinus,LLM:ligilactobacillus_murinus,Ligilactobacillus murinus,91.3,['lactobacillu'] vs ['ligilactobacillu'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:ruminococcaceae_ucg-002,Ruminococcaceae UCG-002,LLM:ruminococcaceae_ucg-013,Ruminococcaceae UCG-013,91.3,['002'] vs ['013'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:ruminococcaceae_ucg-002,Ruminococcaceae UCG-002,LLM:ruminococcaceae_ucg-014,Ruminococcaceae UCG-014,91.3,['002'] vs ['014'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:beneficial_gut_microbiota,beneficial gut microbiota,LLM:beneficial_microbiota,beneficial microbiota,91.3,['gut'] vs [] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactiplantibacillus_plantarum_qs7t,Lactiplantibacillus plantarum QS7T,LLM:lactiplantibacillus_plantarum_scs2,Lactiplantibacillus plantarum SCS2,91.2,['qs7t'] vs ['scs2'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_acidophilus_c4,Lactobacillus acidophilus C4,LLM:lactobacillus_acidophilus_la1,Lactobacillus acidophilus LA1,91.2,['c4'] vs ['la1'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_an1,Lactobacillus plantarum AN1,LLM:lactobacillus_plantarum_ar17-1,Lactobacillus plantarum AR17-1,91.2,"['an1'] vs ['1', 'ar17'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_lp90,Lactobacillus plantarum LP90,LLM:lactobacillus_plantarum_lr002,Lactobacillus plantarum LR002,91.2,['lp90'] vs ['lr002'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_zj316,Lactobacillus plantarum ZJ316,LLM:lactobacillus_plantarum_zs62,Lactobacillus plantarum ZS62,91.2,['zj316'] vs ['zs62'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:limosilactobacillus_fermentum_im57,Limosilactobacillus fermentum IM57,LLM:limosilactobacillus_fermentum_ir62,Limosilactobacillus fermentum IR62,91.2,['im57'] vs ['ir62'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:821,Bacteroides vulgatus,LLM:bacteroides_vulgatus_7k1,Bacteroides vulgatus 7K1,90.9,[] vs ['7k1'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:bifidobacterium_animalis_ssp_lactis_5764,Bifidobacterium animalis ssp. lactis 5764,LLM:bifidobacterium_animalis_subsp_lactis,Bifidobacterium animalis subsp. lactis,90.9,"['5764', 'ssp'] vs ['subsp'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,NCBITaxon:990721,Christensenella,LLM:christensenellales,Christensenellales,90.9,['christensenella'] vs ['christensenellale'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:clostridia,Clostridia,LLM:clostridicae,Clostridicae,90.9,['clostridia'] vs ['clostridicae'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lachnospiraceae_bacterium,Lachnospiraceae bacterium,LLM:lachnospiraceae_bacterium_coe1,Lachnospiraceae bacterium COE1,90.9,[] vs ['coe1'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_acidophilus,Lactobacillus acidophilus,LLM:lactobacillus_acidophilus_la85,Lactobacillus acidophilus LA85,90.9,[] vs ['la85'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_acidophilus,Lactobacillus acidophilus,LLM:lactobacillus_acidophilus_ncfm,Lactobacillus acidophilus NCFM,90.9,[] vs ['ncfm'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_acidophilus,Lactobacillus acidophilus,LLM:lactobacillus_acidophilus_xy27,Lactobacillus acidophilus XY27,90.9,[] vs ['xy27'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_03,Lactobacillus plantarum 03,LLM:lactobacillus_plantarum_06cc2,Lactobacillus plantarum 06CC2,90.9,['03'] vs ['06cc2'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_06cc2,Lactobacillus plantarum 06CC2,LLM:lactobacillus_plantarum-12,Lactobacillus plantarum-12,90.9,['06cc2'] vs ['12'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_17-1,Lactobacillus plantarum 17-1,LLM:lactobacillus_plantarum_an1,Lactobacillus plantarum AN1,90.9,"['1', '17'] vs ['an1'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_17-1,Lactobacillus plantarum 17-1,LLM:lactobacillus_plantarum_l15,Lactobacillus plantarum L15,90.9,"['1', '17'] vs ['l15'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_js19,Lactobacillus plantarum JS19,LLM:lactobacillus_plantarum_an1,Lactobacillus plantarum AN1,90.9,['js19'] vs ['an1'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_js19,Lactobacillus plantarum JS19,LLM:lactobacillus_plantarum_l15,Lactobacillus plantarum L15,90.9,['js19'] vs ['l15'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_lac16,Lactobacillus plantarum Lac16,LLM:lactobacillus_plantarum_06,Lactobacillus plantarum 06,90.9,['lac16'] vs ['06'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_lac16,Lactobacillus plantarum Lac16,LLM:lactobacillus_plantarum-12,Lactobacillus plantarum-12,90.9,['lac16'] vs ['12'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_ys3,Lactobacillus plantarum YS3,LLM:lactobacillus_plantarum_zs62,Lactobacillus plantarum ZS62,90.9,['ys3'] vs ['zs62'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:59823,Prevotella,LLM:prevotella_9,Prevotella_9,90.9,[] vs ['9'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:bifidobacterium_longum_3-14,Bifidobacterium longum 3-14,LLM:bifidobacterium_longum_51a,Bifidobacterium longum 51A,90.6,"['14', '3'] vs ['51a'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_03,Lactobacillus plantarum 03,LLM:lactobacillus_plantarum_an1,Lactobacillus plantarum AN1,90.6,['03'] vs ['an1'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_salivarius,Lactobacillus salivarius,LLM:lactobacillus_salivarius_mz27,Lactobacillus salivarius MZ27,90.6,[] vs ['mz27'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:990719,Christensenellaceae,LLM:christensenellaceae_r-7,Christensenellaceae R-7,90.5,"[] vs ['7', 'r'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,LLM:beneficial_bacteria,beneficial bacteria,LLM:beneficial_gut_bacteria,beneficial gut bacteria,90.5,[] vs ['gut'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:beneficial_bacteria,beneficial bacteria,LLM:gut-beneficial_bacteria,gut-beneficial bacteria,90.5,[] vs ['gut'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:beneficial_gut_microbes,beneficial gut microbes,LLM:beneficial_microbes,beneficial microbes,90.5,['gut'] vs [] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:bifidobacteriales,Bifidobacteriales,LLM:bifidobacteria,bifidobacteria,90.3,['bifidobacteriale'] vs ['bifidobacterium'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:501571,Butyricicoccus pullicaecorum,LLM:butyricicoccus_pullicaecorum_25-3t,Butyricicoccus pullicaecorum 25-3T,90.3,"[] vs ['25', '3t'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,LLM:clostridium_xiv,Clostridium XIV,LLM:clostridium_xlvb,Clostridium XlVb,90.3,['xiv'] vs ['xlvb'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:clostridium_xivalpha,Clostridium XIVα,LLM:clostridium_xlvb,Clostridium XlVb,90.3,"['alpha', 'xiv'] vs ['xlvb'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,LLM:lacticaseibacillus_rhamnosus,Lacticaseibacillus rhamnosus,LLM:lacticaseibacillus_rhamnosus_lra05,Lacticaseibacillus rhamnosus LRa05,90.3,[] vs ['lra05'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:81850,Leuconostocaceae,LLM:leuconostraceae,Leuconostraceae,90.3,['leuconostocaceae'] vs ['leuconostraceae'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:bifidobacterium_animalis_ssp_lactis_5764,Bifidobacterium animalis ssp. lactis 5764,LLM:bifidobacterium_animalis_ssp_lactis_bx-245,Bifidobacterium animalis ssp. lactis BX-245,90.2,"['5764'] vs ['245', 'bx'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,NCBITaxon:1681,Bifidobacterium bifidum,LLM:bifidobacterium_bifidum_bd-1,Bifidobacterium bifidum BD-1,90.2,"[] vs ['1', 'bd'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,NCBITaxon:1681,Bifidobacterium bifidum,LLM:bifidobacterium_bifidum_bgn4,Bifidobacterium bifidum BGN4,90.2,[] vs ['bgn4'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:1681,Bifidobacterium bifidum,LLM:bifidobacterium_bifidum_g9-1,Bifidobacterium bifidum G9-1,90.2,"[] vs ['1', 'g9'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,NCBITaxon:1681,Bifidobacterium bifidum,LLM:bifidobacterium_bifidum_m1-3,Bifidobacterium bifidum M1-3,90.2,"[] vs ['3', 'm1'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,NCBITaxon:1681,Bifidobacterium bifidum,LLM:bifidobacterium_bifidum_pi22,Bifidobacterium bifidum PI22,90.2,[] vs ['pi22'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:escherichia_coli_nissle,Escherichia coli Nissle,LLM:escherichia_coli_nissle_1917,Escherichia coli Nissle 1917,90.2,[] vs ['1917'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,NCBITaxon:1613,Lactobacillus fermentum,LLM:lactobacillus_fermentum_zs40,Lactobacillus fermentum ZS40,90.2,[] vs ['zs40'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_johnsonii,Lactobacillus johnsonii,LLM:lactobacillus_johnsonii_rs-7,Lactobacillus johnsonii RS-7,90.2,"[] vs ['7', 'rs'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_17-1,Lactobacillus plantarum 17-1,LLM:lactobacillus_plantarum,Lactobacillus plantarum,90.2,"['1', '17'] vs [] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_69-2,Lactobacillus plantarum 69-2,LLM:lactobacillus_plantarum,Lactobacillus plantarum,90.2,"['2', '69'] vs [] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_js19,Lactobacillus plantarum JS19,LLM:lactobacillus_plantarum,Lactobacillus plantarum,90.2,['js19'] vs [] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_lp90,Lactobacillus plantarum LP90,LLM:lactobacillus_plantarum,Lactobacillus plantarum,90.2,['lp90'] vs [] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_plantarum_zs62,Lactobacillus plantarum ZS62,LLM:lactobacillus_plantarum,Lactobacillus plantarum,90.2,['zs62'] vs [] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_rhamnosus,Lactobacillus rhamnosus,LLM:lactobacillus_rhamnosus_cy12,Lactobacillus rhamnosus CY12,90.2,[] vs ['cy12'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_rhamnosus,Lactobacillus rhamnosus,LLM:lactobacillus_rhamnosus_m3_1,Lactobacillus rhamnosus M3 (1),90.2,"[] vs ['1', 'm3'] (resolve against NCBI Taxonomy)"
+Microbe,verify-taxonomy,LLM:pediococcus_pentosaceus,Pediococcus pentosaceus,LLM:pediococcus_pentosaceus_li05,Pediococcus pentosaceus LI05,90.2,[] vs ['li05'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_acidophilus_c4,Lactobacillus acidophilus C4,LLM:lactobacillus_acidophilus_kbl402,Lactobacillus acidophilus KBL402,90.0,['c4'] vs ['kbl402'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactobacillus_casei,Lactobacillus casei,LLM:lactobacillus_gasseri,Lactobacillus gasseri,90.0,['casei'] vs ['gasseri'] (resolve against NCBI Taxonomy)
+Microbe,verify-taxonomy,LLM:lactococcus_lactis,Lactococcus lactis,BOLTE_MICROBE_CLUSTER:S20_Lactococcus_lactis,S20_Lactococcus lactis,90.0,[] vs ['s20'] (resolve against NCBI Taxonomy)
+Bioactive,uncertain,CHEBI:18305,Arbutin,LLM:beta-arbutin,β-arbutin,100.0,extra term ['beta']
+Food,uncertain,LLM:dehydrocostus_lactone,dehydrocostus lactone,LLM:dehydrocostuslactone,dehydrocostuslactone,97.6,"multiple tokens differ: ['dehydrocostu', 'lactone'] vs ['dehydrocostuslactone']"
+Bioactive,uncertain,LLM:indol-3-carbinol,indol-3-carbinol,LLM:indole-3-carbinol,indole-3-carbinol,97.0,one token differs: indol/indole
+Bioactive,uncertain,LLM:ethyl_citrate,ethyl citrate,LLM:methyl_citrate,methyl citrate,96.3,one token differs: ethyl/methyl
+Bioactive,uncertain,LLM:auricularia_auricula_exopolysaccharide,Auricularia auricula exopolysaccharide,LLM:auricularia_auricula_polysaccharide,Auricularia auricula polysaccharide,95.9,one token differs: exopolysaccharide/polysaccharide
+Food,uncertain,LLM:b-type_resistant_starch,B-type resistant starch,LLM:resistant_starch_type_2,Resistant starch type 2,95.7,one token differs: b/2
+Food,uncertain,LLM:b-type_resistant_starch,B-type resistant starch,LLM:resistant_starch_type_5,Resistant starch type 5,95.7,one token differs: b/5
+Bioactive,uncertain,CHEBI:18300,Maleic acid,LLM:malic_acid,malic acid,95.2,one token differs: maleic/malic
+Food,uncertain,LLM:lacticaseibacillus_paracasei_18,Lacticaseibacillus paracasei 18,LLM:lacticaseibacillus_paracasei_l21,Lacticaseibacillus paracasei L21,95.2,one token differs: 18/l21
+Food,uncertain,LLM:vitamin_d,vitamin D,LLM:vitamin_d3,vitamin D3,94.7,one token differs: d/d3
+IBD_Outcome,uncertain,LLM:colon_inflammation,colon inflammation,LLM:colonic_inflammation,colonic inflammation,94.7,one token differs: colon/colonic
+IBD_Outcome,uncertain,LLM:intestinal_barrier_dysfunction,intestinal barrier dysfunction,LLM:intestinal_barrier_function,intestinal barrier function,94.7,one token differs: dysfunction/function
+Bioactive,uncertain,LLM:maggot_polysaccharide_mp-80,maggot polysaccharide MP-80,LLM:maggot_polysaccharide_mp-l,maggot polysaccharide MP-L,94.3,one token differs: 80/l
+Bioactive,uncertain,LLM:pine_pollen_polysaccharide_ppm60,Pine pollen polysaccharide (PPM60),LLM:pine_pollen_polysaccharide_ppm60-iii,pine pollen polysaccharide PPM60-III,94.1,extra term ['iii']
+Food,uncertain,LLM:lactiplantibacillus_plantarum_d13,Lactiplantibacillus plantarum D13,LLM:lactiplantibacillus_plantarum_l15,Lactiplantibacillus plantarum L15,93.9,one token differs: d13/l15
+Food,uncertain,LLM:oat_bran_insoluble_dietary_fiber,oat bran insoluble dietary fiber,LLM:wheat_bran_insoluble_dietary_fiber,wheat bran insoluble dietary fiber,93.9,one token differs: oat/wheat
+Bioactive,uncertain,LLM:3-hydroxybutyrate,3-Hydroxybutyrate,LLM:beta-hydroxybutyrate,β-Hydroxybutyrate,93.8,one token differs: 3/beta
+Bioactive,uncertain,LLM:dendrobium_huoshanense_polysaccharide,Dendrobium huoshanense polysaccharide,LLM:dendrobium_huoshanense_stem_polysaccharide,Dendrobium huoshanense stem polysaccharide,93.7,extra term ['stem']
+Bioactive,uncertain,LLM:magnolol-whey_protein_isolate-tremella_fuciformis_polysaccharides_emulsion,magnolol-whey protein isolate-Tremella fuciformis polysaccharides emulsion,LLM:whey_protein_isolate-tremella_fuciformis_polysaccharides_emulsion,whey protein isolate-Tremella fuciformis polysaccharides emulsion,93.5,extra term ['magnolol']
+Food,uncertain,LLM:crohn_s_disease_exclusion_diet_plus_partial_enteral_nutrition,Crohn's Disease Exclusion Diet plus partial enteral nutrition,LLM:crohn_s_disease_exclusion_diet_with_partial_enteral_nutrition,Crohn's Disease Exclusion Diet with Partial Enteral Nutrition,93.4,one token differs: plu/with
+Bioactive,uncertain,LLM:ganoderic_acid,ganoderic acid,LLM:ganoderic_acid_a,ganoderic acid A,93.3,extra term ['a']
+Bioactive,uncertain,LLM:polysaccharide,polysaccharide,LLM:polysaccharide_a,polysaccharide A,93.3,extra term ['a']
+Food,uncertain,LLM:ginsenoside_rb3,Ginsenoside Rb3,LLM:ginsenoside_rk3,Ginsenoside Rk3,93.3,one token differs: rb3/rk3
+Food,uncertain,LLM:ginsenoside_rb3,Ginsenoside Rb3,LLM:ginsenoside_rg3,ginsenoside Rg3,93.3,one token differs: rb3/rg3
+Food,uncertain,LLM:ginsenoside_rk3,Ginsenoside Rk3,LLM:ginsenoside_rg3,ginsenoside Rg3,93.3,one token differs: rk3/rg3
+Food,uncertain,LLM:ginsenoside_rk3,Ginsenoside Rk3,LLM:ginsenoside_rk2,ginsenoside Rk2,93.3,one token differs: rk3/rk2
+Food,uncertain,LLM:ginsenoside_rg1,ginsenoside Rg1,LLM:ginsenoside_rg3,ginsenoside Rg3,93.3,one token differs: rg1/rg3
+Food,uncertain,LLM:ginsenoside_rh2,ginsenoside Rh2,LLM:ginsenoside_rk2,ginsenoside Rk2,93.3,one token differs: rh2/rk2
+Food,uncertain,LLM:goat_milk-derived_extracellular_vesicles,goat milk-derived extracellular vesicles,LLM:milk-derived_extracellular_vesicles,milk-derived extracellular vesicles,93.3,extra term ['goat']
+IBD_Outcome,uncertain,LLM:ulcerative_colitis_non-remission,ulcerative colitis non-remission,LLM:ulcerative_colitis_remission,ulcerative colitis remission,93.3,extra term ['non']
+Bioactive,uncertain,LLM:atractylodes_macrocephala_koidz_polysaccharide,Atractylodes macrocephala Koidz polysaccharide,LLM:atractylodes_macrocephala_polysaccharide,Atractylodes macrocephala polysaccharide,93.0,extra term ['koidz']
+IBD_Outcome,uncertain,LLM:irritable_bowel_syndrome_diarrhea,irritable bowel syndrome diarrhea,LLM:irritable_bowel_syndrome_with_diarrhea,irritable bowel syndrome with diarrhea,93.0,extra term ['with']
+Bioactive,uncertain,LLM:taurodeoxycholic_acid,taurodeoxycholic acid,LLM:ursodeoxycholic_acid,ursodeoxycholic acid,92.7,one token differs: taurodeoxycholic/ursodeoxycholic
+Bioactive,uncertain,LLM:moringa_oleifera_leaf_polysaccharide,Moringa oleifera leaf polysaccharide,LLM:moringa_oleifera_polysaccharide,Moringa oleifera polysaccharide,92.5,extra term ['leaf']
+Food,uncertain,LLM:lactiplantibacillus_plantarum_1201,Lactiplantibacillus plantarum 1201,LLM:lactiplantibacillus_plantarum_d13,Lactiplantibacillus plantarum D13,92.5,one token differs: 1201/d13
+Food,uncertain,LLM:lactiplantibacillus_plantarum_1201,Lactiplantibacillus plantarum 1201,LLM:lactiplantibacillus_plantarum_l15,Lactiplantibacillus plantarum L15,92.5,one token differs: 1201/l15
+Food,uncertain,LLM:lacticaseibacillus_paracasei_6235,Lacticaseibacillus paracasei 6235,LLM:lacticaseibacillus_paracasei_l21,Lacticaseibacillus paracasei L21,92.3,one token differs: 6235/l21
+Food,uncertain,LLM:lacticaseibacillus_rhamnosus_g7,Lacticaseibacillus rhamnosus G7,LLM:lacticaseibacillus_rhamnosus_grx10,Lacticaseibacillus rhamnosus grx10,92.3,one token differs: g7/grx10
+Food,uncertain,LLM:nc_gut_relief_formula,NC Gut Relief Formula,LLM:gut_relief_formula,gut relief formula,92.3,extra term ['nc']
+Food,uncertain,LLM:brown_sorghum_grain_ethanolic_phenolic_extract,brown sorghum grain ethanolic phenolic extract,LLM:brown_sorghum_leaf_ethanolic_phenolic_extract,brown sorghum leaf ethanolic phenolic extract,92.3,one token differs: grain/leaf
+Bioactive,uncertain,LLM:lactobacillus_plantarum_q7_extracellular_vesicles,Lactobacillus plantarum Q7 extracellular vesicles,LLM:lactobacillus_plantarum_ujs001_extracellular_vesicles,Lactobacillus plantarum UJS001 extracellular vesicles,92.2,one token differs: q7/ujs001
+Food,uncertain,LLM:high_dietary_protein,high dietary protein,LLM:high-protein_diet,high-protein diet,91.9,one token differs: dietary/diet
+IBD_Outcome,uncertain,LLM:inflammatory_bowel_disease_with_primary_sclerosing_cholangitis,inflammatory bowel disease with primary sclerosing cholangitis,LLM:primary_sclerosing_cholangitis_associated_with_inflammatory_bowel_disease,primary sclerosing cholangitis associated with inflammatory bowel disease,91.9,extra term ['associated']
+IBD_Outcome,uncertain,LLM:primary_sclerosing_cholangitis_associated_with_inflammatory_bowel_disease,primary sclerosing cholangitis associated with inflammatory bowel disease,LLM:primary_sclerosing_cholangitis_with_inflammatory_bowel_disease,primary sclerosing cholangitis with inflammatory bowel disease,91.9,extra term ['associated']
+Food,uncertain,LLM:ibd-maid_diet,IBD-MAID diet,LLM:mi-ibd_diet,Mi-IBD diet,91.7,one token differs: maid/mi
+Food,uncertain,LLM:schisandrin,Schisandrin,LLM:schisandrin_b,Schisandrin B,91.7,extra term ['b']
+Bioactive,uncertain,LLM:fu_brick_tea_polysaccharide,Fu brick tea polysaccharide,LLM:fuzhuan_brick_tea_polysaccharide,Fuzhuan brick tea polysaccharide,91.5,one token differs: fu/fuzhuan
+Food,uncertain,LLM:exclusive_enteral_nutrition,Exclusive enteral nutrition,LLM:exclusive_enteral_nutrition_diet,exclusive enteral nutrition diet,91.5,extra term ['diet']
+Bioactive,uncertain,CHEBI:28834,Deoxycholic acid,LLM:hyodeoxycholic_acid,hyodeoxycholic acid,91.4,one token differs: deoxycholic/hyodeoxycholic
+Bioactive,uncertain,CHEBI:16325,Lithocholic acid,LLM:isolithocholic_acid,isolithocholic acid,91.4,one token differs: lithocholic/isolithocholic
+Bioactive,uncertain,LLM:taurodeoxycholic_acid,taurodeoxycholic acid,LLM:tauroursodeoxycholic_acid,tauroursodeoxycholic acid,91.3,one token differs: taurodeoxycholic/tauroursodeoxycholic
+Food,uncertain,LLM:chitosan_oligosaccharides,Chitosan oligosaccharides,LLM:chitooligosaccharides,chitooligosaccharides,91.3,"multiple tokens differ: ['chitosan', 'oligosaccharide'] vs ['chitooligosaccharide']"
+Bioactive,uncertain,LLM:astragalus_polysaccharide,Astragalus polysaccharide,LLM:astragalus_polysaccharide_aps1,Astragalus polysaccharide APS1,90.9,extra term ['aps1']
+Bioactive,uncertain,LLM:iqw_peptide,IQW peptide,LLM:irw_peptide,IRW peptide,90.9,one token differs: iqw/irw
+Bioactive,uncertain,CHEBI:16946,L-Kynurenine,LLM:kynurenine,kynurenine,90.9,extra term ['l']
+Bioactive,uncertain,LLM:schisandra_chinensis_pectin_polysaccharide,Schisandra chinensis pectin polysaccharide,LLM:schisandra_chinensis_polysaccharide,Schisandra chinensis polysaccharide,90.9,extra term ['pectin']
+Bioactive,uncertain,LLM:sodium_butyrate,sodium butyrate,LLM:sodium_isobutyrate,sodium isobutyrate,90.9,one token differs: butyrate/isobutyrate
+Bioactive,uncertain,LLM:sodium_isobutyrate,sodium isobutyrate,LLM:sodium-butyrate,sodium-butyrate,90.9,one token differs: isobutyrate/butyrate
+Food,uncertain,LLM:9-strains_probiotic_formulation,9-strains probiotic formulation,LLM:five_strains_probiotics_formulation,Five strains probiotics formulation,90.9,one token differs: 9/five
+Food,uncertain,LLM:baitouweng_decoction,Baitouweng decoction,LLM:new_baitouweng_decoction,New Baitouweng Decoction,90.9,extra term ['new']
+Food,uncertain,LLM:laminaria_japonica_fucoidan_low_molecular_weight,Laminaria japonica fucoidan (low molecular weight),LLM:laminaria_japonica_fucoidan_medium_molecular_weight,Laminaria japonica fucoidan (medium molecular weight),90.9,one token differs: low/medium
+Food,uncertain,LLM:resolvin_d1,Resolvin D1,LLM:resolvin_d2,Resolvin D2,90.9,one token differs: d1/d2
+Food,uncertain,LLM:acetyl_l-carnitine,acetyl l-carnitine,LLM:acetylcarnitine,acetylcarnitine,90.9,"multiple tokens differ: ['acetyl', 'carnitine', 'l'] vs ['acetylcarnitine']"
+Food,uncertain,FOODON:03315361,adzuki bean,LLM:azuki_beans,azuki beans,90.9,one token differs: adzuki/azuki
+Food,uncertain,LLM:bovine_milk-derived_extracellular_vesicles,bovine milk-derived extracellular vesicles,LLM:milk-derived_extracellular_vesicles,milk-derived extracellular vesicles,90.9,extra term ['bovine']
+Bioactive,uncertain,LLM:atractylodes_macrocephala_koidz_polysaccharide,Atractylodes macrocephala Koidz polysaccharide,LLM:atractylodis_macrocephala_polysaccharide,Atractylodis Macrocephala polysaccharide,90.7,"multiple tokens differ: ['atractylode', 'koidz'] vs ['atractylodi']"
+Bioactive,uncertain,LLM:n-3_polyunsaturated_fatty_acid,n-3 polyunsaturated fatty acid,LLM:omega-3_polyunsaturated_fatty_acid,omega-3 polyunsaturated fatty acid,90.6,one token differs: n/omega
+Food,uncertain,LLM:lacticaseibacillus_rhamnosus_g7,Lacticaseibacillus rhamnosus G7,LLM:lacticaseibacillus_rhamnosus_hao9,Lacticaseibacillus rhamnosus Hao9,90.6,one token differs: g7/hao9
+Bioactive,uncertain,LLM:isoallolithocholic_acid,isoallolithocholic acid,LLM:isolithocholic_acid,isolithocholic acid,90.5,one token differs: isoallolithocholic/isolithocholic
+IBD_Outcome,uncertain,LLM:dextran_sodium_sulfate-induced_colitis,dextran sodium sulfate-induced colitis,LLM:dextran_sulfate_sodium-induced_chronic_colitis,dextran sulfate sodium-induced chronic colitis,90.5,extra term ['chronic']
+IBD_Outcome,uncertain,LLM:dextran_sulfate_sodium-induced_chronic_colitis,dextran sulfate sodium-induced chronic colitis,LLM:dextran_sulfate_sodium-induced_colitis,dextran sulfate sodium-induced colitis,90.5,extra term ['chronic']
+Bioactive,uncertain,LLM:exopolysaccharide,exopolysaccharide,LLM:polysaccharide,polysaccharide,90.3,one token differs: exopolysaccharide/polysaccharide
+Food,uncertain,LLM:butyl-fructooligosaccharides,Butyl-fructooligosaccharides,LLM:butyrylated_fructooligosaccharides,Butyrylated fructooligosaccharides,90.3,one token differs: butyl/butyrylated
+Food,uncertain,LLM:sijunzi_decoction,Sijunzi Decoction,LLM:sini_decoction,Sini decoction,90.3,one token differs: sijunzi/sini
+Food,uncertain,LLM:low_dietary_fiber,low dietary fiber,LLM:low_fiber_diet,low fiber diet,90.3,one token differs: dietary/diet
+Food,uncertain,LLM:low_dietary_fiber,low dietary fiber,LLM:low-fiber_diet,low-fiber diet,90.3,one token differs: dietary/diet
+IBD_Outcome,uncertain,LLM:crohn_s_disease_ileitis,Crohn's disease ileitis,LLM:crohn_s_disease-like_ileitis,Crohn's disease-like ileitis,90.2,extra term ['like']
+Bioactive,uncertain,LLM:phellinus_linteus_acidic_polysaccharide,Phellinus linteus acidic polysaccharide,LLM:phellinus_linteus_polysaccharide,Phellinus linteus polysaccharide,90.1,extra term ['acidic']
+Bioactive,uncertain,CHEBI:17053,L-Aspartate,LLM:aspartate,aspartate,90.0,extra term ['l']
+Bioactive,uncertain,CHEBI:15971,L-Histidine,LLM:histidine,histidine,90.0,extra term ['l']
+Bioactive,uncertain,LLM:chenodeoxycholic_acid,chenodeoxycholic acid,LLM:hyodeoxycholic_acid,hyodeoxycholic acid,90.0,one token differs: chenodeoxycholic/hyodeoxycholic
+Food,uncertain,LLM:raspberry_pectin_p37,raspberry pectin P37,LLM:raspberry_pectin_p55,raspberry pectin P55,90.0,one token differs: p37/p55
