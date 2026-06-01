@@ -41,7 +41,6 @@ TRIPLE_FILES = [
     PROCESSED / "triples_foodb_filtered.tsv",
     PROCESSED / "triples_bolte2021.tsv",
     PROCESSED / "triples_fodmap.tsv",
-    PROCESSED / "triples_kegg.tsv",
 ]
 
 CANONICAL_MAP = PROCESSED / "canonical_id_map.tsv"

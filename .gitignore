@@ -54,9 +54,6 @@ api_keys.txt
 # Exception: FODMAP classification table (curated, source-of-truth)
 !data/processed/fodmap_classifications.tsv
 
-# Exception: KEGG curated files (small, source-of-truth)
-!data/processed/kegg_*.tsv
-
 # Exception: Canonical reconciliation table (curated, source-of-truth)
 !data/processed/canonical_id_map.tsv
 
@@ -86,3 +83,13 @@ data/processed/embeddings/rotate/
 /release/
 backups/
 typing_triage/
+
+# --- v1.4.0: KEGG-derived data excluded (non-redistributable) ---
+# Regenerate the pathway layer via src/ingestion/ingest_kegg_pathways.py
+data/processed/triples_kegg.tsv
+data/processed/kegg_chebi_mapping.tsv
+data/processed/kegg_ibd_pathways.tsv
+
+# Exception: consolidated v1.4.0 release graph (resource of record)
+!data/processed/nodes_consolidated.tsv
+!data/processed/edges_consolidated.tsv
